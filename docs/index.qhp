@@ -6,7 +6,7 @@
     <filterAttribute>doxygen</filterAttribute>
     <toc>
       <section title="Muscle Power Gaming" ref="index.html">
-        <section title="Muscle Power Gaming: Get Flexing! \emoji joystick" ref="md__home_finlay__r_t_e_p1__r_e_a_d_m_e.html" />
+        <section title="Muscle Power Gaming: Get Flexing! \emoji joystick" ref="index.html" />
         <section title="Modules" ref="modules.html">
           <section title="ADS1115: ADDRESS PINS" ref="group__group1.html">
             <section title="ADS1015_ADDRESS" ref="group__group1.html#gae55d158023984e8f0ddc80b58d5b30dc" />
@@ -184,174 +184,172 @@
         </section>
         <section title="Files" ref="files.html">
           <section title="File List" ref="files.html">
-            <section title="RTEP1" ref="dir_4737b40e368aaeddf12f82af8316bda1.html">
-              <section title="Rpi_end" ref="dir_f4c6a60d396f8e1b9459245a709869c7.html">
-                <section title="Rpi_end_together" ref="dir_32ed0438d63cc1dbaec5c85a84ff8525.html">
-                  <section title="ads1115.cpp" ref="ads1115_8cpp.html">
-                    <section title="load_config" ref="ads1115_8cpp.html#aeedb5ce0b7eff5eb547a36a07859575c" />
-                    <section title="config" ref="ads1115_8cpp.html#a4b95d85a2e012a6f680d7fcbebecffb9" />
-                    <section title="high" ref="ads1115_8cpp.html#aae03a5bfee63ef73c818b660e31146a9" />
-                    <section title="high_config" ref="ads1115_8cpp.html#a858a3d60a2d99fd3d2928c5843530456" />
-                    <section title="low" ref="ads1115_8cpp.html#a582ad3e71a0125d122e77eb54d2277b4" />
-                    <section title="low_config" ref="ads1115_8cpp.html#a7ec714dbe564c5a0a805f20c0ee10f2b" />
-                    <section title="rcr" ref="ads1115_8cpp.html#a99d7469ce0b9bcacba018a9d61fa964e" />
-                    <section title="value" ref="ads1115_8cpp.html#ac4f474c82e82cbb89ca7c36dd52be0ed" />
-                    <section title="voltage" ref="ads1115_8cpp.html#a47061fcae597f83f8a0a99d4b7b5a5c1" />
+            <section title="Rpi_end" ref="dir_055a16307f33c4427eac748495cdd32d.html">
+              <section title="Rpi_end_together" ref="dir_a80cae09569d41fde799f8f633ccf779.html">
+                <section title="ads1115.cpp" ref="ads1115_8cpp.html">
+                  <section title="load_config" ref="ads1115_8cpp.html#aeedb5ce0b7eff5eb547a36a07859575c" />
+                  <section title="config" ref="ads1115_8cpp.html#a4b95d85a2e012a6f680d7fcbebecffb9" />
+                  <section title="high" ref="ads1115_8cpp.html#aae03a5bfee63ef73c818b660e31146a9" />
+                  <section title="high_config" ref="ads1115_8cpp.html#a858a3d60a2d99fd3d2928c5843530456" />
+                  <section title="low" ref="ads1115_8cpp.html#a582ad3e71a0125d122e77eb54d2277b4" />
+                  <section title="low_config" ref="ads1115_8cpp.html#a7ec714dbe564c5a0a805f20c0ee10f2b" />
+                  <section title="rcr" ref="ads1115_8cpp.html#a99d7469ce0b9bcacba018a9d61fa964e" />
+                  <section title="value" ref="ads1115_8cpp.html#ac4f474c82e82cbb89ca7c36dd52be0ed" />
+                  <section title="voltage" ref="ads1115_8cpp.html#a47061fcae597f83f8a0a99d4b7b5a5c1" />
+                </section>
+                <section title="ads1115.h" ref="ads1115_8h.html">
+                  <section title="ads1115" ref="classads1115.html">
+                    <section title="ads1115" ref="classads1115.html#aeacdf3467cad67cd8a186ad43cbeee53" />
+                    <section title="endads" ref="classads1115.html#a53a254dcd5d6d6ff6e787688c730ae4b" />
+                    <section title="readsig" ref="classads1115.html#a761c3ec573fc59956d7eca446841c18d" />
+                    <section title="readyread" ref="classads1115.html#ae7c50fb698f1b87ba229929fc61f5e2f" />
+                    <section title="fd" ref="classads1115.html#a3eac1506c2c00580e5563827d9dcd260" />
+                    <section title="iicaddr" ref="classads1115.html#a2cf1674f5b1f77bd4b5709702aec7244" />
                   </section>
-                  <section title="ads1115.h" ref="ads1115_8h.html">
-                    <section title="ads1115" ref="classads1115.html">
-                      <section title="ads1115" ref="classads1115.html#aeacdf3467cad67cd8a186ad43cbeee53" />
-                      <section title="endads" ref="classads1115.html#a53a254dcd5d6d6ff6e787688c730ae4b" />
-                      <section title="readsig" ref="classads1115.html#a761c3ec573fc59956d7eca446841c18d" />
-                      <section title="readyread" ref="classads1115.html#ae7c50fb698f1b87ba229929fc61f5e2f" />
-                      <section title="fd" ref="classads1115.html#a3eac1506c2c00580e5563827d9dcd260" />
-                      <section title="iicaddr" ref="classads1115.html#a2cf1674f5b1f77bd4b5709702aec7244" />
-                    </section>
-                    <section title="ADS1015_ADDRESS" ref="group__group1.html#gae55d158023984e8f0ddc80b58d5b30dc" />
-                    <section title="ADS1015_REG_CONFIG_CLAT_LATCH" ref="group__group10.html#gaf7f9528dd1aee135afad4c44d771b9f6" />
-                    <section title="ADS1015_REG_CONFIG_CLAT_NONLAT" ref="group__group10.html#ga98757804761f1d945f4cf6ca40e30457" />
-                    <section title="ADS1015_REG_CONFIG_CMODE_TRAD" ref="group__group8.html#gafb5240325d7ec757ccad7b098a2b93c3" />
-                    <section title="ADS1015_REG_CONFIG_CMODE_WINDOW" ref="group__group8.html#ga49d39ffb8fb66bdb877d0f2546137cce" />
-                    <section title="ADS1015_REG_CONFIG_CPOL_ACTVHI" ref="group__group9.html#ga81494a3f6eaf337f4132cc32bba9f28d" />
-                    <section title="ADS1015_REG_CONFIG_CPOL_ACTVLOW" ref="group__group9.html#ga775f732c7e97574b38858820b96cf771" />
-                    <section title="ADS1015_REG_CONFIG_CQUE_1CONV" ref="group__group11.html#ga4889b7e8a019906eb7c2670ec2466917" />
-                    <section title="ADS1015_REG_CONFIG_CQUE_2CONV" ref="group__group11.html#ga88a73e81b13059b1f4756cf5c8a342a3" />
-                    <section title="ADS1015_REG_CONFIG_CQUE_4CONV" ref="group__group11.html#gad14f479d9c6f636631444de22dd7b133" />
-                    <section title="ADS1015_REG_CONFIG_CQUE_NONE" ref="group__group11.html#gaa52ede69f39daf837bb2ebbe639dbef9" />
-                    <section title="ADS1015_REG_CONFIG_MODE_CONTIN" ref="group__group6.html#gafbb1b96a1b61fae1301ed075330d3a20" />
-                    <section title="ADS1015_REG_CONFIG_MODE_ENDCON" ref="group__group6.html#ga20780c08ce2027ce7833f27e65d9bb9d" />
-                    <section title="ADS1015_REG_CONFIG_MODE_SINGLE" ref="group__group6.html#ga50168c1821f075b7296745be1d4d346f" />
-                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_1" ref="group__group4.html#ga7db34e6ba1050094aa2f5895594fa473" />
-                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_3" ref="group__group4.html#ga467ee1de37d13577785e33fb6d67e93d" />
-                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_1_3" ref="group__group4.html#ga59f246f973620f2d59f917187c9aeeb1" />
-                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_2_3" ref="group__group4.html#ga438ac41e1655d0c8e10a62b36d803696" />
-                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_0" ref="group__group4.html#ga95d034ea82362b3f6573492209aac4f2" />
-                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_1" ref="group__group4.html#ga2db511c8817fda53e31b5d1f72601909" />
-                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_2" ref="group__group4.html#gae31fb46fbe9801ae7bb9210e88b7162d" />
-                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_3" ref="group__group4.html#ga9cb6f8bf1d45341e508cece5bcbc7841" />
-                    <section title="ADS1015_REG_CONFIG_OS_BUSY" ref="group__group3.html#gaab6ae96215401637a9435c030e1919a9" />
-                    <section title="ADS1015_REG_CONFIG_OS_NOTBUSY" ref="group__group3.html#ga7744f0dffe0c80b9052a31b1f1d4d4d3" />
-                    <section title="ADS1015_REG_CONFIG_OS_SINGLE" ref="group__group3.html#ga13f4550d061699b1cf4bd49520fc4a9c" />
-                    <section title="ADS1015_REG_CONFIG_PGA_0_256V" ref="group__group5.html#ga7d41c826b50b0b019ddb02e8093287a1" />
-                    <section title="ADS1015_REG_CONFIG_PGA_0_512V" ref="group__group5.html#gad6305868e7343c5d83f68acd45a0967f" />
-                    <section title="ADS1015_REG_CONFIG_PGA_1_024V" ref="group__group5.html#ga84b06e45d01519b8073dcb59dd46b4ac" />
-                    <section title="ADS1015_REG_CONFIG_PGA_2_048V" ref="group__group5.html#ga871217d93b9a7614cd921d6aced54338" />
-                    <section title="ADS1015_REG_CONFIG_PGA_4_096V" ref="group__group5.html#ga6ed67863634add41314604de916b6ed6" />
-                    <section title="ADS1015_REG_CONFIG_PGA_6_144V" ref="group__group5.html#gab6fc5aa2e0ced7acd38dd5c30d2f6f29" />
-                    <section title="ADS1015_REG_POINTER_CONFIG" ref="group__group2.html#gab9abb781632542a0e7d8b058292f26b1" />
-                    <section title="ADS1015_REG_POINTER_CONVERT" ref="group__group2.html#ga0f462c806b353bd682fa3c2d67e66622" />
-                    <section title="ADS1015_REG_POINTER_HITHRESH" ref="group__group2.html#ga89000549c6dfe50337c7962b7b3677cb" />
-                    <section title="ADS1015_REG_POINTER_LOWTHRESH" ref="group__group2.html#ga01582fe1e67b55686d35818696925480" />
-                    <section title="ADS1115_REG_CONFIG_DR_128SPS" ref="group__group7.html#ga4aff8d5b1b4ac9585952d26ca25385e6" />
-                    <section title="ADS1115_REG_CONFIG_DR_16SPS" ref="group__group7.html#ga482e8bf3819885a814010acb4107f6e1" />
-                    <section title="ADS1115_REG_CONFIG_DR_250SPS" ref="group__group7.html#gac533241f793b44ed72385f71dec1aa25" />
-                    <section title="ADS1115_REG_CONFIG_DR_32SPS" ref="group__group7.html#ga309e0ecf42b27c5a38126efa61f8a09f" />
-                    <section title="ADS1115_REG_CONFIG_DR_475SPS" ref="group__group7.html#ga8eed720123d6bd52580826c2c9ad9e28" />
-                    <section title="ADS1115_REG_CONFIG_DR_64SPS" ref="group__group7.html#ga0a53b32fa67a8d36b57f7aceda32efb9" />
-                    <section title="ADS1115_REG_CONFIG_DR_860SPS" ref="group__group7.html#ga9308f41d4c2ff024bbd201efc3b7ff69" />
-                    <section title="ADS1115_REG_CONFIG_DR_8SPS" ref="group__group7.html#gaff870cc204f306e3aae724e8231f8fdc" />
-                    <section title="ADS1115_REG_THRESH_MSB_0" ref="group__group12.html#ga1a0131797adb1ee39337b6f9de55fa9e" />
-                    <section title="ADS1115_REG_THRESH_MSB_1" ref="group__group12.html#gacc3350d9056e6b44520992c3244ec45b" />
+                  <section title="ADS1015_ADDRESS" ref="group__group1.html#gae55d158023984e8f0ddc80b58d5b30dc" />
+                  <section title="ADS1015_REG_CONFIG_CLAT_LATCH" ref="group__group10.html#gaf7f9528dd1aee135afad4c44d771b9f6" />
+                  <section title="ADS1015_REG_CONFIG_CLAT_NONLAT" ref="group__group10.html#ga98757804761f1d945f4cf6ca40e30457" />
+                  <section title="ADS1015_REG_CONFIG_CMODE_TRAD" ref="group__group8.html#gafb5240325d7ec757ccad7b098a2b93c3" />
+                  <section title="ADS1015_REG_CONFIG_CMODE_WINDOW" ref="group__group8.html#ga49d39ffb8fb66bdb877d0f2546137cce" />
+                  <section title="ADS1015_REG_CONFIG_CPOL_ACTVHI" ref="group__group9.html#ga81494a3f6eaf337f4132cc32bba9f28d" />
+                  <section title="ADS1015_REG_CONFIG_CPOL_ACTVLOW" ref="group__group9.html#ga775f732c7e97574b38858820b96cf771" />
+                  <section title="ADS1015_REG_CONFIG_CQUE_1CONV" ref="group__group11.html#ga4889b7e8a019906eb7c2670ec2466917" />
+                  <section title="ADS1015_REG_CONFIG_CQUE_2CONV" ref="group__group11.html#ga88a73e81b13059b1f4756cf5c8a342a3" />
+                  <section title="ADS1015_REG_CONFIG_CQUE_4CONV" ref="group__group11.html#gad14f479d9c6f636631444de22dd7b133" />
+                  <section title="ADS1015_REG_CONFIG_CQUE_NONE" ref="group__group11.html#gaa52ede69f39daf837bb2ebbe639dbef9" />
+                  <section title="ADS1015_REG_CONFIG_MODE_CONTIN" ref="group__group6.html#gafbb1b96a1b61fae1301ed075330d3a20" />
+                  <section title="ADS1015_REG_CONFIG_MODE_ENDCON" ref="group__group6.html#ga20780c08ce2027ce7833f27e65d9bb9d" />
+                  <section title="ADS1015_REG_CONFIG_MODE_SINGLE" ref="group__group6.html#ga50168c1821f075b7296745be1d4d346f" />
+                  <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_1" ref="group__group4.html#ga7db34e6ba1050094aa2f5895594fa473" />
+                  <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_3" ref="group__group4.html#ga467ee1de37d13577785e33fb6d67e93d" />
+                  <section title="ADS1015_REG_CONFIG_MUX_DIFF_1_3" ref="group__group4.html#ga59f246f973620f2d59f917187c9aeeb1" />
+                  <section title="ADS1015_REG_CONFIG_MUX_DIFF_2_3" ref="group__group4.html#ga438ac41e1655d0c8e10a62b36d803696" />
+                  <section title="ADS1015_REG_CONFIG_MUX_SINGLE_0" ref="group__group4.html#ga95d034ea82362b3f6573492209aac4f2" />
+                  <section title="ADS1015_REG_CONFIG_MUX_SINGLE_1" ref="group__group4.html#ga2db511c8817fda53e31b5d1f72601909" />
+                  <section title="ADS1015_REG_CONFIG_MUX_SINGLE_2" ref="group__group4.html#gae31fb46fbe9801ae7bb9210e88b7162d" />
+                  <section title="ADS1015_REG_CONFIG_MUX_SINGLE_3" ref="group__group4.html#ga9cb6f8bf1d45341e508cece5bcbc7841" />
+                  <section title="ADS1015_REG_CONFIG_OS_BUSY" ref="group__group3.html#gaab6ae96215401637a9435c030e1919a9" />
+                  <section title="ADS1015_REG_CONFIG_OS_NOTBUSY" ref="group__group3.html#ga7744f0dffe0c80b9052a31b1f1d4d4d3" />
+                  <section title="ADS1015_REG_CONFIG_OS_SINGLE" ref="group__group3.html#ga13f4550d061699b1cf4bd49520fc4a9c" />
+                  <section title="ADS1015_REG_CONFIG_PGA_0_256V" ref="group__group5.html#ga7d41c826b50b0b019ddb02e8093287a1" />
+                  <section title="ADS1015_REG_CONFIG_PGA_0_512V" ref="group__group5.html#gad6305868e7343c5d83f68acd45a0967f" />
+                  <section title="ADS1015_REG_CONFIG_PGA_1_024V" ref="group__group5.html#ga84b06e45d01519b8073dcb59dd46b4ac" />
+                  <section title="ADS1015_REG_CONFIG_PGA_2_048V" ref="group__group5.html#ga871217d93b9a7614cd921d6aced54338" />
+                  <section title="ADS1015_REG_CONFIG_PGA_4_096V" ref="group__group5.html#ga6ed67863634add41314604de916b6ed6" />
+                  <section title="ADS1015_REG_CONFIG_PGA_6_144V" ref="group__group5.html#gab6fc5aa2e0ced7acd38dd5c30d2f6f29" />
+                  <section title="ADS1015_REG_POINTER_CONFIG" ref="group__group2.html#gab9abb781632542a0e7d8b058292f26b1" />
+                  <section title="ADS1015_REG_POINTER_CONVERT" ref="group__group2.html#ga0f462c806b353bd682fa3c2d67e66622" />
+                  <section title="ADS1015_REG_POINTER_HITHRESH" ref="group__group2.html#ga89000549c6dfe50337c7962b7b3677cb" />
+                  <section title="ADS1015_REG_POINTER_LOWTHRESH" ref="group__group2.html#ga01582fe1e67b55686d35818696925480" />
+                  <section title="ADS1115_REG_CONFIG_DR_128SPS" ref="group__group7.html#ga4aff8d5b1b4ac9585952d26ca25385e6" />
+                  <section title="ADS1115_REG_CONFIG_DR_16SPS" ref="group__group7.html#ga482e8bf3819885a814010acb4107f6e1" />
+                  <section title="ADS1115_REG_CONFIG_DR_250SPS" ref="group__group7.html#gac533241f793b44ed72385f71dec1aa25" />
+                  <section title="ADS1115_REG_CONFIG_DR_32SPS" ref="group__group7.html#ga309e0ecf42b27c5a38126efa61f8a09f" />
+                  <section title="ADS1115_REG_CONFIG_DR_475SPS" ref="group__group7.html#ga8eed720123d6bd52580826c2c9ad9e28" />
+                  <section title="ADS1115_REG_CONFIG_DR_64SPS" ref="group__group7.html#ga0a53b32fa67a8d36b57f7aceda32efb9" />
+                  <section title="ADS1115_REG_CONFIG_DR_860SPS" ref="group__group7.html#ga9308f41d4c2ff024bbd201efc3b7ff69" />
+                  <section title="ADS1115_REG_CONFIG_DR_8SPS" ref="group__group7.html#gaff870cc204f306e3aae724e8231f8fdc" />
+                  <section title="ADS1115_REG_THRESH_MSB_0" ref="group__group12.html#ga1a0131797adb1ee39337b6f9de55fa9e" />
+                  <section title="ADS1115_REG_THRESH_MSB_1" ref="group__group12.html#gacc3350d9056e6b44520992c3244ec45b" />
+                </section>
+                <section title="GPIOlis.cpp" ref="_g_p_i_olis_8cpp.html">
+                  <section title="interrupt2" ref="_g_p_i_olis_8cpp.html#ad7831c642a7240a6d74f929a1158d448" />
+                  <section title="cmdmtx" ref="_g_p_i_olis_8cpp.html#a4f14f0593fff5e3ca0491b3962e6544f" />
+                  <section title="gpipinterrupt" ref="_g_p_i_olis_8cpp.html#a6715efeafc8103a65e244026d957b70b" />
+                </section>
+                <section title="GPIOlis.h" ref="_g_p_i_olis_8h.html">
+                  <section title="GPIOlis" ref="class_g_p_i_olis.html">
+                    <section title="GPIOlis" ref="class_g_p_i_olis.html#a428a2f8c4b0bd64b769f1526c61c5dac" />
+                    <section title="~GPIOlis" ref="class_g_p_i_olis.html#a9095dfa3056b0f1c4026f6018f0f7ba7" />
+                    <section title="interrupt" ref="class_g_p_i_olis.html#a844470403deaa7436a19b8aef29eac5b" />
+                    <section title="quit" ref="class_g_p_i_olis.html#a06b2b0dbfd20843e43a5015c2c1cf829" />
+                    <section title="ready" ref="class_g_p_i_olis.html#a1e658d32e43003c3612ba46bd99a1732" />
+                    <section title="readyread" ref="class_g_p_i_olis.html#ac36d3b9264536731e3458ed295666719" />
+                    <section title="run" ref="class_g_p_i_olis.html#a65d2d0d0faf0d9edc0b31ddb51e88d2b" />
+                    <section title="ads1" ref="class_g_p_i_olis.html#a4dd64eebb025a26b454d17176e70aaf8" />
+                    <section title="count" ref="class_g_p_i_olis.html#a81e5f98d39e2ae03bf0ab38466ad24bd" />
+                    <section title="flag" ref="class_g_p_i_olis.html#ae86ee364670cfe22722a5d9f612e9aa4" />
                   </section>
-                  <section title="GPIOlis.cpp" ref="_g_p_i_olis_8cpp.html">
-                    <section title="interrupt2" ref="_g_p_i_olis_8cpp.html#ad7831c642a7240a6d74f929a1158d448" />
-                    <section title="cmdmtx" ref="_g_p_i_olis_8cpp.html#a4f14f0593fff5e3ca0491b3962e6544f" />
-                    <section title="gpipinterrupt" ref="_g_p_i_olis_8cpp.html#a6715efeafc8103a65e244026d957b70b" />
-                  </section>
-                  <section title="GPIOlis.h" ref="_g_p_i_olis_8h.html">
-                    <section title="GPIOlis" ref="class_g_p_i_olis.html">
-                      <section title="GPIOlis" ref="class_g_p_i_olis.html#a428a2f8c4b0bd64b769f1526c61c5dac" />
-                      <section title="~GPIOlis" ref="class_g_p_i_olis.html#a9095dfa3056b0f1c4026f6018f0f7ba7" />
-                      <section title="interrupt" ref="class_g_p_i_olis.html#a844470403deaa7436a19b8aef29eac5b" />
-                      <section title="quit" ref="class_g_p_i_olis.html#a06b2b0dbfd20843e43a5015c2c1cf829" />
-                      <section title="ready" ref="class_g_p_i_olis.html#a1e658d32e43003c3612ba46bd99a1732" />
-                      <section title="readyread" ref="class_g_p_i_olis.html#ac36d3b9264536731e3458ed295666719" />
-                      <section title="run" ref="class_g_p_i_olis.html#a65d2d0d0faf0d9edc0b31ddb51e88d2b" />
-                      <section title="ads1" ref="class_g_p_i_olis.html#a4dd64eebb025a26b454d17176e70aaf8" />
-                      <section title="count" ref="class_g_p_i_olis.html#a81e5f98d39e2ae03bf0ab38466ad24bd" />
-                      <section title="flag" ref="class_g_p_i_olis.html#ae86ee364670cfe22722a5d9f612e9aa4" />
-                    </section>
-                    <section title="gpipinterrupt" ref="_g_p_i_olis_8h.html#a6715efeafc8103a65e244026d957b70b" />
-                  </section>
-                  <section title="main.cpp" ref="_rpi__end_2_rpi__end__together_2main_8cpp.html">
-                    <section title="main" ref="_rpi__end_2_rpi__end__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
-                  </section>
-                  <section title="window.cpp" ref="window_8cpp.html">
-                    <section title="flhp1" ref="window_8cpp.html#a89274b7113af845f693045514ab79d06" />
-                    <section title="florigin" ref="window_8cpp.html#aa4d944473c2ce72052d24e8e4eaa96ce" />
-                    <section title="flpower" ref="window_8cpp.html#a9cdc0952ddae0cb682503cc9b5bb8019" />
-                    <section title="hp1" ref="window_8cpp.html#aedcba60e51029a554adc10c3097a6af8" />
-                    <section title="index" ref="window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0" />
-                    <section title="order" ref="window_8cpp.html#a1b7ba51c7dba40b32bb78cc0fd8074ca" />
-                    <section title="rscverprt" ref="window_8cpp.html#aa9a1e71de06461b110d2c761035de556" />
-                    <section title="samplingrate" ref="window_8cpp.html#a072a980c304a396787f46c29aa3bd5f1" />
-                    <section title="sderprt" ref="window_8cpp.html#a9c9ab370a04018e645c8edafbf2113f1" />
-                  </section>
-                  <section title="window.h" ref="window_8h.html">
-                    <section title="Window" ref="class_window.html">
-                      <section title="Window" ref="class_window.html#ab27fe44e0834066236f79f244b02f67e" />
-                      <section title="~Window" ref="class_window.html#a245d821e6016fa1f6970ccbbedd635f6" />
-                      <section title="datapros" ref="class_window.html#aa0c78bd5a1a320ec6cf427e7441d9714" />
-                      <section title="plotrefresh" ref="class_window.html#ad7445be21c77c9944b3dba2e146bb989" />
-                      <section title="curve1" ref="class_window.html#a112c8681462cb0339faf1b3a5e8d312c" />
-                      <section title="curve2" ref="class_window.html#ad6c1bf613b3e5a026fba544ed567a87b" />
-                      <section title="gpiolis1" ref="class_window.html#a99a930e8fdf9c009aca0d1bed1bdcd8f" />
-                      <section title="hLayout" ref="class_window.html#a088e83054c444170282461344174f30b" />
-                      <section title="plot1" ref="class_window.html#ac930f3c9fd48aeb627204e7aeaf80573" />
-                      <section title="plot2" ref="class_window.html#a10bbc5d8730ee6c5bb4f4a956225533c" />
-                      <section title="rftimer" ref="class_window.html#a703d58d30da77e83166ef37942ad8602" />
-                      <section title="sdersc" ref="class_window.html#ad0125c79705223e60f695c194166f312" />
-                      <section title="sumpower" ref="class_window.html#ab9f0f7ea3db5d4d0fa70c915590e4c72" />
-                      <section title="xData1" ref="class_window.html#a13ad2a2a6dd2fa6a8943e92fb08629a1" />
-                      <section title="xData2" ref="class_window.html#a7b0d44a397ca90add463e2093f4a1423" />
-                      <section title="xData3" ref="class_window.html#a66e60e4413d120313000c1d744c904f1" />
-                      <section title="yData1" ref="class_window.html#a9baba6757f9e1a5c25e2c8bcf291ad32" />
-                      <section title="yData2" ref="class_window.html#a25e229e2503d02a9904f56fb730d4744" />
-                      <section title="yData3" ref="class_window.html#a7f1854f46d87a6bfd6b53806be12ba1c" />
-                    </section>
+                  <section title="gpipinterrupt" ref="_g_p_i_olis_8h.html#a6715efeafc8103a65e244026d957b70b" />
+                </section>
+                <section title="main.cpp" ref="_rpi__end_2_rpi__end__together_2main_8cpp.html">
+                  <section title="main" ref="_rpi__end_2_rpi__end__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
+                </section>
+                <section title="window.cpp" ref="window_8cpp.html">
+                  <section title="flhp1" ref="window_8cpp.html#a89274b7113af845f693045514ab79d06" />
+                  <section title="florigin" ref="window_8cpp.html#aa4d944473c2ce72052d24e8e4eaa96ce" />
+                  <section title="flpower" ref="window_8cpp.html#a9cdc0952ddae0cb682503cc9b5bb8019" />
+                  <section title="hp1" ref="window_8cpp.html#aedcba60e51029a554adc10c3097a6af8" />
+                  <section title="index" ref="window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0" />
+                  <section title="order" ref="window_8cpp.html#a1b7ba51c7dba40b32bb78cc0fd8074ca" />
+                  <section title="rscverprt" ref="window_8cpp.html#aa9a1e71de06461b110d2c761035de556" />
+                  <section title="samplingrate" ref="window_8cpp.html#a072a980c304a396787f46c29aa3bd5f1" />
+                  <section title="sderprt" ref="window_8cpp.html#a9c9ab370a04018e645c8edafbf2113f1" />
+                </section>
+                <section title="window.h" ref="window_8h.html">
+                  <section title="Window" ref="class_window.html">
+                    <section title="Window" ref="class_window.html#ab27fe44e0834066236f79f244b02f67e" />
+                    <section title="~Window" ref="class_window.html#a245d821e6016fa1f6970ccbbedd635f6" />
+                    <section title="datapros" ref="class_window.html#aa0c78bd5a1a320ec6cf427e7441d9714" />
+                    <section title="plotrefresh" ref="class_window.html#ad7445be21c77c9944b3dba2e146bb989" />
+                    <section title="curve1" ref="class_window.html#a112c8681462cb0339faf1b3a5e8d312c" />
+                    <section title="curve2" ref="class_window.html#ad6c1bf613b3e5a026fba544ed567a87b" />
+                    <section title="gpiolis1" ref="class_window.html#a99a930e8fdf9c009aca0d1bed1bdcd8f" />
+                    <section title="hLayout" ref="class_window.html#a088e83054c444170282461344174f30b" />
+                    <section title="plot1" ref="class_window.html#ac930f3c9fd48aeb627204e7aeaf80573" />
+                    <section title="plot2" ref="class_window.html#a10bbc5d8730ee6c5bb4f4a956225533c" />
+                    <section title="rftimer" ref="class_window.html#a703d58d30da77e83166ef37942ad8602" />
+                    <section title="sdersc" ref="class_window.html#ad0125c79705223e60f695c194166f312" />
+                    <section title="sumpower" ref="class_window.html#ab9f0f7ea3db5d4d0fa70c915590e4c72" />
+                    <section title="xData1" ref="class_window.html#a13ad2a2a6dd2fa6a8943e92fb08629a1" />
+                    <section title="xData2" ref="class_window.html#a7b0d44a397ca90add463e2093f4a1423" />
+                    <section title="xData3" ref="class_window.html#a66e60e4413d120313000c1d744c904f1" />
+                    <section title="yData1" ref="class_window.html#a9baba6757f9e1a5c25e2c8bcf291ad32" />
+                    <section title="yData2" ref="class_window.html#a25e229e2503d02a9904f56fb730d4744" />
+                    <section title="yData3" ref="class_window.html#a7f1854f46d87a6bfd6b53806be12ba1c" />
                   </section>
                 </section>
               </section>
-              <section title="Server_end" ref="dir_1bb09fde301ad63eca39b934e96a578c.html">
-                <section title="Server_Pong_GUI_all_together" ref="dir_68b4530337b1df916aa0a76eefca12cb.html">
-                  <section title="main.cpp" ref="_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html">
-                    <section title="main" ref="_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
-                  </section>
-                  <section title="mainwindow.cpp" ref="mainwindow_8cpp.html">
-                    <section title="rsPort" ref="mainwindow_8cpp.html#a751e9208ccfadf03cebca9cdcf8bc8ef" />
-                  </section>
-                  <section title="mainwindow.h" ref="mainwindow_8h.html">
-                    <section title="MainWindow" ref="class_main_window.html">
-                      <section title="MainWindow" ref="class_main_window.html#a33775e00c8964ce95697f48cd6f7509b" />
-                      <section title="~MainWindow" ref="class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7" />
-                      <section title="CpuP1Motion" ref="class_main_window.html#ab191051a7cc5f050d2ef2cb09a7aee34" />
-                      <section title="goal" ref="class_main_window.html#a2f1a7f4643b4afc4d573ea439eb19f14" />
-                      <section title="Position" ref="class_main_window.html#ad7e9c58ba60e7219d5348a4403b805d0" />
-                      <section title="receive" ref="class_main_window.html#aa4a61b706dc1ac7eafed167da9fb6cc3" />
-                      <section title="refreshScore" ref="class_main_window.html#a154bcffa7153d04371f0832193108731" />
-                      <section title="rfsh" ref="class_main_window.html#a14f7506762b59058b9b2b04f754557e7" />
-                      <section title="iBall" ref="class_main_window.html#ab7d9e890e4ec111fe09e02e840748196" />
-                      <section title="iBallMotion" ref="class_main_window.html#afdf01f0c6fdea31c1461f7e44b7edbef" />
-                      <section title="iP1" ref="class_main_window.html#a32ae2ba16c3ef020cd23bc405faf6dc7" />
-                      <section title="iP1Motion" ref="class_main_window.html#a121ed236a48b89f3539f7fe59c9b4c37" />
-                      <section title="iP2" ref="class_main_window.html#a9a2efe9e5fd1003f44c1d77da6fc2717" />
-                      <section title="iP2Motion" ref="class_main_window.html#afc63533a2041d39ea4b6effe1cb71c7a" />
-                      <section title="iScene" ref="class_main_window.html#ac635937c03a5a7af86c1ad212c27a4eb" />
-                      <section title="iScore" ref="class_main_window.html#ab666d1d050708e71196c963e1f1b8c10" />
-                      <section title="iTimer" ref="class_main_window.html#a6940eadea7e5a3348f27464404f50ec8" />
-                      <section title="P1Xprime" ref="class_main_window.html#a7266f47cf9c4b85b27b5fcc10101ff91" />
-                      <section title="P2Xprime" ref="class_main_window.html#ad4fc744b75c4d35e52fb59fa82aa3178" />
-                      <section title="rfshcount" ref="class_main_window.html#a725ff3891e2e0e053150bd685209b808" />
-                      <section title="rsverSocket" ref="class_main_window.html#ac5ecc9473d3a01f67cdf77de41f5057d" />
-                      <section title="timer_measure" ref="class_main_window.html#a4db7d07416fcafa0d9e7a9291b64f842" />
-                      <section title="totalHeight" ref="class_main_window.html#ac30d3076a0577dd1c4fb9ca96cd7192a" />
-                      <section title="totalWidth" ref="class_main_window.html#a96ba56ac81ca9d1d972e107b0c0398be" />
-                      <section title="ui" ref="class_main_window.html#a35466a70ed47252a0191168126a352a5" />
-                      <section title="wdheight" ref="class_main_window.html#a4a5b3b6188f1a6b45c8ca2a18bf1f460" />
-                      <section title="wdwidth" ref="class_main_window.html#a808fcf1fec443ec645b4377470fbdda8" />
-                      <section title="Xprime" ref="class_main_window.html#a05f46373bd9b7c48927c7caea6abdad8" />
-                      <section title="Yprime" ref="class_main_window.html#aa3243052c3f75d05e0695b4dda5c5201" />
-                    </section>
+            </section>
+            <section title="Server_end" ref="dir_448a74561f0efab6356107d418ecc187.html">
+              <section title="Server_Pong_GUI_all_together" ref="dir_eab6ef60698dca8c0700df7568e20baf.html">
+                <section title="main.cpp" ref="_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html">
+                  <section title="main" ref="_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
+                </section>
+                <section title="mainwindow.cpp" ref="mainwindow_8cpp.html">
+                  <section title="rsPort" ref="mainwindow_8cpp.html#a751e9208ccfadf03cebca9cdcf8bc8ef" />
+                </section>
+                <section title="mainwindow.h" ref="mainwindow_8h.html">
+                  <section title="MainWindow" ref="class_main_window.html">
+                    <section title="MainWindow" ref="class_main_window.html#a33775e00c8964ce95697f48cd6f7509b" />
+                    <section title="~MainWindow" ref="class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7" />
+                    <section title="CpuP1Motion" ref="class_main_window.html#ab191051a7cc5f050d2ef2cb09a7aee34" />
+                    <section title="goal" ref="class_main_window.html#a2f1a7f4643b4afc4d573ea439eb19f14" />
+                    <section title="Position" ref="class_main_window.html#ad7e9c58ba60e7219d5348a4403b805d0" />
+                    <section title="receive" ref="class_main_window.html#aa4a61b706dc1ac7eafed167da9fb6cc3" />
+                    <section title="refreshScore" ref="class_main_window.html#a154bcffa7153d04371f0832193108731" />
+                    <section title="rfsh" ref="class_main_window.html#a14f7506762b59058b9b2b04f754557e7" />
+                    <section title="iBall" ref="class_main_window.html#ab7d9e890e4ec111fe09e02e840748196" />
+                    <section title="iBallMotion" ref="class_main_window.html#afdf01f0c6fdea31c1461f7e44b7edbef" />
+                    <section title="iP1" ref="class_main_window.html#a32ae2ba16c3ef020cd23bc405faf6dc7" />
+                    <section title="iP1Motion" ref="class_main_window.html#a121ed236a48b89f3539f7fe59c9b4c37" />
+                    <section title="iP2" ref="class_main_window.html#a9a2efe9e5fd1003f44c1d77da6fc2717" />
+                    <section title="iP2Motion" ref="class_main_window.html#afc63533a2041d39ea4b6effe1cb71c7a" />
+                    <section title="iScene" ref="class_main_window.html#ac635937c03a5a7af86c1ad212c27a4eb" />
+                    <section title="iScore" ref="class_main_window.html#ab666d1d050708e71196c963e1f1b8c10" />
+                    <section title="iTimer" ref="class_main_window.html#a6940eadea7e5a3348f27464404f50ec8" />
+                    <section title="P1Xprime" ref="class_main_window.html#a7266f47cf9c4b85b27b5fcc10101ff91" />
+                    <section title="P2Xprime" ref="class_main_window.html#ad4fc744b75c4d35e52fb59fa82aa3178" />
+                    <section title="rfshcount" ref="class_main_window.html#a725ff3891e2e0e053150bd685209b808" />
+                    <section title="rsverSocket" ref="class_main_window.html#ac5ecc9473d3a01f67cdf77de41f5057d" />
+                    <section title="timer_measure" ref="class_main_window.html#a4db7d07416fcafa0d9e7a9291b64f842" />
+                    <section title="totalHeight" ref="class_main_window.html#ac30d3076a0577dd1c4fb9ca96cd7192a" />
+                    <section title="totalWidth" ref="class_main_window.html#a96ba56ac81ca9d1d972e107b0c0398be" />
+                    <section title="ui" ref="class_main_window.html#a35466a70ed47252a0191168126a352a5" />
+                    <section title="wdheight" ref="class_main_window.html#a4a5b3b6188f1a6b45c8ca2a18bf1f460" />
+                    <section title="wdwidth" ref="class_main_window.html#a808fcf1fec443ec645b4377470fbdda8" />
+                    <section title="Xprime" ref="class_main_window.html#a05f46373bd9b7c48927c7caea6abdad8" />
+                    <section title="Yprime" ref="class_main_window.html#aa3243052c3f75d05e0695b4dda5c5201" />
                   </section>
                 </section>
               </section>
@@ -437,7 +435,6 @@
       <keyword name="flpower" id="window.cpp::flpower" ref="window_8cpp.html#a9cdc0952ddae0cb682503cc9b5bb8019" />
       <keyword name="hp1" id="window.cpp::hp1" ref="window_8cpp.html#aedcba60e51029a554adc10c3097a6af8" />
       <keyword name="rsPort" id="mainwindow.cpp::rsPort" ref="mainwindow_8cpp.html#a751e9208ccfadf03cebca9cdcf8bc8ef" />
-      <keyword name="Muscle Power Gaming: Get Flexing! \emoji joystick" id="Muscle Power Gaming: Get Flexing! \emoji joystick" ref="md__home_finlay__r_t_e_p1__r_e_a_d_m_e.html" />
       <keyword name="ADS1115: ADDRESS PINS" id="ADS1115: ADDRESS PINS" ref="group__group1.html" />
       <keyword name="ADS1015_ADDRESS" id="ads1115.h::ADS1015_ADDRESS" ref="ads1115_8h.html#gae55d158023984e8f0ddc80b58d5b30dc" />
       <keyword name="ADS1115: POINTER REGISTER" id="ADS1115: POINTER REGISTER" ref="group__group2.html" />
@@ -1666,7 +1663,6 @@
       <file>window_8h.html</file>
       <file>mainwindow_8cpp.html</file>
       <file>mainwindow_8h.html</file>
-      <file>md__home_finlay__r_t_e_p1__r_e_a_d_m_e.html</file>
       <file>group__group1.html</file>
       <file>group__group2.html</file>
       <file>group__group3.html</file>
@@ -1698,13 +1694,11 @@
       <file>namespace_ui.html</file>
       <file>graph_legend.png</file>
       <file>graph_legend.html</file>
-      <file>dir_f4c6a60d396f8e1b9459245a709869c7.html</file>
-      <file>dir_32ed0438d63cc1dbaec5c85a84ff8525.html</file>
-      <file>dir_4737b40e368aaeddf12f82af8316bda1.html</file>
-      <file>dir_1bb09fde301ad63eca39b934e96a578c.html</file>
-      <file>dir_68b4530337b1df916aa0a76eefca12cb.html</file>
+      <file>dir_055a16307f33c4427eac748495cdd32d.html</file>
+      <file>dir_a80cae09569d41fde799f8f633ccf779.html</file>
+      <file>dir_448a74561f0efab6356107d418ecc187.html</file>
+      <file>dir_eab6ef60698dca8c0700df7568e20baf.html</file>
       <file>index.html</file>
-      <file>pages.html</file>
       <file>modules.html</file>
       <file>namespaces.html</file>
       <file>annotated.html</file>
