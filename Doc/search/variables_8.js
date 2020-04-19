@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['iball_17906',['iBall',['../class_main_window.html#ab7d9e890e4ec111fe09e02e840748196',1,'MainWindow']]],
+  ['iballmotion_17907',['iBallMotion',['../class_main_window.html#afdf01f0c6fdea31c1461f7e44b7edbef',1,'MainWindow']]],
+  ['id_17908',['Id',['../../doc/qtgui/qaccessible.html#Id-typedef',1,'QAccessible']]],
+  ['iicaddr_17909',['iicaddr',['../classads1115.html#a2cf1674f5b1f77bd4b5709702aec7244',1,'ads1115']]],
+  ['imageconversionflags_17910',['ImageConversionFlags',['../../doc/qtcore/qt.html#ImageConversionFlag-enum',1,'Qt']]],
+  ['index_17911',['index',['../window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0',1,'window.cpp']]],
+  ['infoflags_17912',['InfoFlags',['../../doc/qtgui/qtouchevent-touchpoint.html#InfoFlag-enum',1,'QTouchEvent::TouchPoint']]],
+  ['inputdialogoptions_17913',['InputDialogOptions',['../../doc/qtwidgets/qinputdialog.html#InputDialogOption-enum',1,'QInputDialog']]],
+  ['inputmethodhints_17914',['InputMethodHints',['../../doc/qtcore/qt.html#InputMethodHint-enum',1,'Qt']]],
+  ['inputmethodqueries_17915',['InputMethodQueries',['../../doc/qtcore/qt.html#InputMethodQuery-enum',1,'Qt']]],
+  ['int_17916',['Int',['../../doc/qtcore/qflags.html#Int-typedef',1,'QFlags']]],
+  ['interfacefactory_17917',['InterfaceFactory',['../../doc/qtgui/qaccessible.html#InterfaceFactory-typedef',1,'QAccessible']]],
+  ['interfaceflags_17918',['InterfaceFlags',['../../doc/qtnetwork/qnetworkinterface.html#InterfaceFlag-enum',1,'QNetworkInterface']]],
+  ['ip1_17919',['iP1',['../class_main_window.html#a32ae2ba16c3ef020cd23bc405faf6dc7',1,'MainWindow']]],
+  ['ip1motion_17920',['iP1Motion',['../class_main_window.html#a121ed236a48b89f3539f7fe59c9b4c37',1,'MainWindow']]],
+  ['ip2_17921',['iP2',['../class_main_window.html#a9a2efe9e5fd1003f44c1d77da6fc2717',1,'MainWindow']]],
+  ['ip2motion_17922',['iP2Motion',['../class_main_window.html#afc63533a2041d39ea4b6effe1cb71c7a',1,'MainWindow']]],
+  ['iscene_17923',['iScene',['../class_main_window.html#ac635937c03a5a7af86c1ad212c27a4eb',1,'MainWindow']]],
+  ['iscore_17924',['iScore',['../class_main_window.html#ab666d1d050708e71196c963e1f1b8c10',1,'MainWindow']]],
+  ['itemflags_17925',['ItemFlags',['../../doc/qtcore/qt.html#ItemFlag-enum',1,'Qt']]],
+  ['iterator_17926',['iterator',['../../doc/qtcore/qbytearray.html#iterator-typedef',1,'QByteArray::iterator()'],['../../doc/qtcore/qstring.html#iterator-typedef',1,'QString::iterator()'],['../../doc/qtcore/qvarlengtharray.html#iterator-typedef',1,'QVarLengthArray::iterator()'],['../../doc/qtcore/qvector.html#iterator-typedef',1,'QVector::iterator()'],['../../doc/qtcore/qjsonarray.html#Iterator-typedef',1,'QJsonArray::Iterator()'],['../../doc/qtcore/qjsonobject.html#Iterator-typedef',1,'QJsonObject::Iterator()'],['../../doc/qtcore/qhash.html#Iterator-typedef',1,'QHash::Iterator()'],['../../doc/qtcore/qlinkedlist.html#Iterator-typedef',1,'QLinkedList::Iterator()'],['../../doc/qtcore/qlist.html#Iterator-typedef',1,'QList::Iterator()'],['../../doc/qtcore/qmap.html#Iterator-typedef',1,'QMap::Iterator()'],['../../doc/qtcore/qset.html#Iterator-typedef',1,'QSet::Iterator()'],['../../doc/qtcore/qstring.html#Iterator-typedef',1,'QString::Iterator()'],['../../doc/qtcore/qvector.html#Iterator-typedef',1,'QVector::Iterator()'],['../../doc/qtgui/qtextframe.html#Iterator-typedef',1,'QTextFrame::Iterator()'],['../../doc/qtgui/qtextblock.html#Iterator-typedef',1,'QTextBlock::Iterator()']]],
+  ['iterator_5fcategory_17927',['iterator_category',['../../doc/qtcore/qjsonarray-iterator.html#iterator_category-typedef',1,'QJsonArray::iterator::iterator_category()'],['../../doc/qtcore/qjsonarray-const-iterator.html#iterator_category-typedef',1,'QJsonArray::const_iterator::iterator_category()'],['../../doc/qtcore/qjsonobject-iterator.html#iterator_category-typedef',1,'QJsonObject::iterator::iterator_category()'],['../../doc/qtcore/qjsonobject-const-iterator.html#iterator_category-typedef',1,'QJsonObject::const_iterator::iterator_category()'],['../../doc/qtcore/qfuture-const-iterator.html#iterator_category-typedef',1,'QFuture::const_iterator::iterator_category()'],['../../doc/qtcore/qlist-iterator.html#iterator_category-typedef',1,'QList::iterator::iterator_category()'],['../../doc/qtcore/qlist-const-iterator.html#iterator_category-typedef',1,'QList::const_iterator::iterator_category()'],['../../doc/qtcore/qmap-iterator.html#iterator_category-typedef',1,'QMap::iterator::iterator_category()'],['../../doc/qtcore/qmap-const-iterator.html#iterator_category-typedef',1,'QMap::const_iterator::iterator_category()'],['../../doc/qtcore/qset-iterator.html#iterator_category-typedef',1,'QSet::iterator::iterator_category()'],['../../doc/qtcore/qset-const-iterator.html#iterator_category-typedef',1,'QSet::const_iterator::iterator_category()']]],
+  ['iteratorflags_17928',['IteratorFlags',['../../doc/qtcore/qdiriterator.html#IteratorFlag-enum',1,'QDirIterator::IteratorFlags()'],['../../doc/qtwidgets/qtreewidgetitemiterator.html#IteratorFlag-enum',1,'QTreeWidgetItemIterator::IteratorFlags()']]],
+  ['itimer_17929',['iTimer',['../class_main_window.html#a6940eadea7e5a3348f27464404f50ec8',1,'MainWindow']]]
+];

@@ -1,0 +1,18 @@
+<map id="MainWindow" name="MainWindow">
+<area shape="rect" id="node1" title="Contains the functions and variables relating to the GUI window." alt="" coords="1076,183,1173,209"/>
+<area shape="rect" id="node2" href="/home/finlay/Repo/doc/qtwidgets/qtwidgets.tags$qmainwindow.html" title=" " alt="" coords="657,208,764,235"/>
+<area shape="rect" id="node3" href="/home/finlay/Repo/doc/qtwidgets/qtwidgets.tags$qwidget.html" title=" " alt="" coords="176,208,249,235"/>
+<area shape="rect" id="node4" href="/home/finlay/Repo/doc/qtcore/qtcore.tags$qobject.html" title=" " alt="" coords="21,241,92,268"/>
+<area shape="rect" id="node11" href="/home/finlay/Repo/doc/qtcore/qtcore.tags$qiodevice.html" title=" " alt="" coords="169,36,256,63"/>
+<area shape="rect" id="node13" href="/home/finlay/Repo/doc/qtcore/qtcore.tags$qtimer.html" title="Explicit declaration of hte QTimer{} class of the Qt toolkit." alt="" coords="320,259,385,285"/>
+<area shape="rect" id="node16" href="/home/finlay/Repo/doc/qtwidgets/qtwidgets.tags$qgraphicsscene.html" title=" " alt="" coords="292,347,413,373"/>
+<area shape="rect" id="node5" href="/home/finlay/Repo/doc/qtgui/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,159,108,185"/>
+<area shape="rect" id="node6" href="/home/finlay/Repo/doc/qtwidgets/qtwidgets.tags$qgraphicsellipseitem.html" title=" " alt="" coords="788,107,937,133"/>
+<area shape="rect" id="node7" href="/home/finlay/Repo/doc/qtwidgets/qtwidgets.tags$qabstractgraphicsshapeitem.html" title=" " alt="" coords="437,87,633,113"/>
+<area shape="rect" id="node14" href="/home/finlay/Repo/doc/qtwidgets/qtwidgets.tags$qgraphicsrectitem.html" title=" " alt="" coords="793,56,932,83"/>
+<area shape="rect" id="node8" href="/home/finlay/Repo/doc/qtwidgets/qtwidgets.tags$qgraphicsitem.html" title="Explicit declaration of the QGraphicsItem{} class of the Qt toolkit." alt="" coords="157,87,268,113"/>
+<area shape="rect" id="node9" href="/home/finlay/Repo/doc/qtnetwork/qtnetwork.tags$qudpsocket.html" title=" " alt="" coords="814,5,911,32"/>
+<area shape="rect" id="node10" href="/home/finlay/Repo/doc/qtnetwork/qtnetwork.tags$qabstractsocket.html" title=" " alt="" coords="474,28,597,55"/>
+<area shape="rect" id="node12" href="/home/finlay/Repo/doc/qtcore/qtcore.tags$qpointf.html" title=" " alt="" coords="827,157,898,184"/>
+<area shape="rect" id="node15" href="/home/finlay/Repo/doc/qtcore/qtcore.tags$qelapsedtimer.html" title=" " alt="" coords="807,309,919,336"/>
+</map>

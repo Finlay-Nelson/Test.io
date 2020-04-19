@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['labelalignment_18314',['labelAlignment',['../../doc/qtwidgets/qformlayout.html#labelAlignment-prop',1,'QFormLayout']]],
+  ['labeltext_18315',['labelText',['../../doc/qtwidgets/qinputdialog.html#labelText-prop',1,'QInputDialog::labelText()'],['../../doc/qtwidgets/qprogressdialog.html#labelText-prop',1,'QProgressDialog::labelText()']]],
+  ['lastcenterpoint_18316',['lastCenterPoint',['../../doc/qtwidgets/qpinchgesture.html#lastCenterPoint-prop',1,'QPinchGesture']]],
+  ['lastoffset_18317',['lastOffset',['../../doc/qtwidgets/qpangesture.html#lastOffset-prop',1,'QPanGesture']]],
+  ['lastrotationangle_18318',['lastRotationAngle',['../../doc/qtwidgets/qpinchgesture.html#lastRotationAngle-prop',1,'QPinchGesture']]],
+  ['lastscalefactor_18319',['lastScaleFactor',['../../doc/qtwidgets/qpinchgesture.html#lastScaleFactor-prop',1,'QPinchGesture']]],
+  ['layout_18320',['layout',['../../doc/qtwidgets/qgraphicswidget.html#layout-prop',1,'QGraphicsWidget']]],
+  ['layoutdirection_18321',['layoutDirection',['../../doc/qtgui/qguiapplication.html#layoutDirection-prop',1,'QGuiApplication::layoutDirection()'],['../../doc/qtwidgets/qgraphicswidget.html#layoutDirection-prop',1,'QGraphicsWidget::layoutDirection()'],['../../doc/qtwidgets/qwidget.html#layoutDirection-prop',1,'QWidget::layoutDirection()']]],
+  ['layoutmode_18322',['layoutMode',['../../doc/qtwidgets/qlistview.html#layoutMode-prop',1,'QListView']]],
+  ['lazychildcount_18323',['lazyChildCount',['../../doc/qtwidgets/qdirmodel.html#lazyChildCount-prop',1,'QDirModel']]],
+  ['linewidth_18324',['lineWidth',['../../doc/qtwidgets/qframe.html#lineWidth-prop',1,'QFrame']]],
+  ['linewrapcolumnorwidth_18325',['lineWrapColumnOrWidth',['../../doc/qtwidgets/qtextedit.html#lineWrapColumnOrWidth-prop',1,'QTextEdit']]],
+  ['linewrapmode_18326',['lineWrapMode',['../../doc/qtwidgets/qplaintextedit.html#lineWrapMode-prop',1,'QPlainTextEdit::lineWrapMode()'],['../../doc/qtwidgets/qtextedit.html#lineWrapMode-prop',1,'QTextEdit::lineWrapMode()']]],
+  ['loadhints_18327',['loadHints',['../../doc/qtcore/qlibrary.html#loadHints-prop',1,'QLibrary::loadHints()'],['../../doc/qtcore/qpluginloader.html#loadHints-prop',1,'QPluginLoader::loadHints()']]],
+  ['locale_18328',['locale',['../../doc/qtgui/qinputmethod.html#locale-prop',1,'QInputMethod::locale()'],['../../doc/qtwidgets/qwidget.html#locale-prop',1,'QWidget::locale()']]],
+  ['loggingmode_18329',['loggingMode',['../../doc/qtgui/qopengldebuglogger.html#loggingMode-prop',1,'QOpenGLDebugLogger']]],
+  ['logicaldotsperinch_18330',['logicalDotsPerInch',['../../doc/qtgui/qscreen.html#logicalDotsPerInch-prop',1,'QScreen']]],
+  ['logicaldotsperinchx_18331',['logicalDotsPerInchX',['../../doc/qtgui/qscreen.html#logicalDotsPerInchX-prop',1,'QScreen']]],
+  ['logicaldotsperinchy_18332',['logicalDotsPerInchY',['../../doc/qtgui/qscreen.html#logicalDotsPerInchY-prop',1,'QScreen']]],
+  ['loopcount_18333',['loopCount',['../../doc/qtcore/qabstractanimation.html#loopCount-prop',1,'QAbstractAnimation::loopCount()'],['../../doc/qtcore/qtimeline.html#loopCount-prop',1,'QTimeLine::loopCount()']]]
+];

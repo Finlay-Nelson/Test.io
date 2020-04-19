@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['readonly_18433',['readOnly',['../../doc/qtwidgets/qfiledialog-obsolete.html#readOnly-prop',1,'QFileDialog::readOnly()'],['../../doc/qtwidgets/qfilesystemmodel.html#readOnly-prop',1,'QFileSystemModel::readOnly()'],['../../doc/qtwidgets/qdirmodel.html#readOnly-prop',1,'QDirModel::readOnly()'],['../../doc/qtwidgets/qabstractspinbox.html#readOnly-prop',1,'QAbstractSpinBox::readOnly()'],['../../doc/qtwidgets/qlineedit.html#readOnly-prop',1,'QLineEdit::readOnly()'],['../../doc/qtwidgets/qplaintextedit.html#readOnly-prop',1,'QPlainTextEdit::readOnly()'],['../../doc/qtwidgets/qtextbrowser.html#readOnly-prop',1,'QTextBrowser::readOnly()'],['../../doc/qtwidgets/qtextedit.html#readOnly-prop',1,'QTextEdit::readOnly()']]],
+  ['rect_18434',['rect',['../../doc/qtwidgets/qwidget.html#rect-prop',1,'QWidget']]],
+  ['redoavailable_18435',['redoAvailable',['../../doc/qtwidgets/qlineedit.html#redoAvailable-prop',1,'QLineEdit']]],
+  ['refreshrate_18436',['refreshRate',['../../doc/qtgui/qscreen.html#refreshRate-prop',1,'QScreen']]],
+  ['regexp_18437',['regExp',['../../doc/qtgui/qregexpvalidator.html#regExp-prop',1,'QRegExpValidator']]],
+  ['regularexpression_18438',['regularExpression',['../../doc/qtgui/qregularexpressionvalidator.html#regularExpression-prop',1,'QRegularExpressionValidator']]],
+  ['remainingtime_18439',['remainingTime',['../../doc/qtcore/qtimer.html#remainingTime-prop',1,'QTimer']]],
+  ['renderhints_18440',['renderHints',['../../doc/qtwidgets/qgraphicsview.html#renderHints-prop',1,'QGraphicsView']]],
+  ['resizeanchor_18441',['resizeAnchor',['../../doc/qtwidgets/qgraphicsview.html#resizeAnchor-prop',1,'QGraphicsView']]],
+  ['resizegripsvisible_18442',['resizeGripsVisible',['../../doc/qtwidgets/qcolumnview.html#resizeGripsVisible-prop',1,'QColumnView']]],
+  ['resizemode_18443',['resizeMode',['../../doc/qtwidgets/qlistview.html#resizeMode-prop',1,'QListView']]],
+  ['resolvesymlinks_18444',['resolveSymlinks',['../../doc/qtwidgets/qfiledialog-obsolete.html#resolveSymlinks-prop',1,'QFileDialog::resolveSymlinks()'],['../../doc/qtwidgets/qfilesystemmodel.html#resolveSymlinks-prop',1,'QFileSystemModel::resolveSymlinks()'],['../../doc/qtwidgets/qdirmodel.html#resolveSymlinks-prop',1,'QDirModel::resolveSymlinks()']]],
+  ['rootisdecorated_18445',['rootIsDecorated',['../../doc/qtwidgets/qtreeview.html#rootIsDecorated-prop',1,'QTreeView']]],
+  ['rotation_18446',['rotation',['../../doc/qtwidgets/qgraphicsobject.html#rotation-prop',1,'QGraphicsObject']]],
+  ['rotationangle_18447',['rotationAngle',['../../doc/qtwidgets/qpinchgesture.html#rotationAngle-prop',1,'QPinchGesture']]],
+  ['rowcount_18448',['rowCount',['../../doc/qtwidgets/qtablewidget.html#rowCount-prop',1,'QTableWidget']]],
+  ['rowwrappolicy_18449',['rowWrapPolicy',['../../doc/qtwidgets/qformlayout.html#rowWrapPolicy-prop',1,'QFormLayout']]],
+  ['rubberbandselectionmode_18450',['rubberBandSelectionMode',['../../doc/qtwidgets/qgraphicsview.html#rubberBandSelectionMode-prop',1,'QGraphicsView']]],
+  ['running_18451',['running',['../../doc/qtcore/qstatemachine.html#running-prop',1,'QStateMachine']]]
+];

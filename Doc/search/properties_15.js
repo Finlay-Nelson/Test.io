@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['wascanceled_18597',['wasCanceled',['../../doc/qtwidgets/qprogressdialog.html#wasCanceled-prop',1,'QProgressDialog']]],
+  ['whatsthis_18598',['whatsThis',['../../doc/qtwidgets/qaction.html#whatsThis-prop',1,'QAction::whatsThis()'],['../../doc/qtwidgets/qshortcut.html#whatsThis-prop',1,'QShortcut::whatsThis()'],['../../doc/qtwidgets/qwidget.html#whatsThis-prop',1,'QWidget::whatsThis()']]],
+  ['wheelscrolllines_18599',['wheelScrollLines',['../../doc/qtgui/qstylehints.html#wheelScrollLines-prop',1,'QStyleHints::wheelScrollLines()'],['../../doc/qtwidgets/qapplication.html#wheelScrollLines-prop',1,'QApplication::wheelScrollLines()']]],
+  ['widgetresizable_18600',['widgetResizable',['../../doc/qtwidgets/qscrollarea.html#widgetResizable-prop',1,'QScrollArea']]],
+  ['width_18601',['width',['../../doc/qtgui/qwindow.html#width-prop',1,'QWindow::width()'],['../../doc/qtwidgets/qwidget.html#width-prop',1,'QWidget::width()']]],
+  ['windowfilepath_18602',['windowFilePath',['../../doc/qtwidgets/qwidget.html#windowFilePath-prop',1,'QWidget']]],
+  ['windowflags_18603',['windowFlags',['../../doc/qtwidgets/qgraphicswidget.html#windowFlags-prop',1,'QGraphicsWidget::windowFlags()'],['../../doc/qtwidgets/qwidget.html#windowFlags-prop',1,'QWidget::windowFlags()']]],
+  ['windowicon_18604',['windowIcon',['../../doc/qtgui/qguiapplication.html#windowIcon-prop',1,'QGuiApplication::windowIcon()'],['../../doc/qtwidgets/qapplication.html#windowIcon-prop',1,'QApplication::windowIcon()'],['../../doc/qtwidgets/qwidget.html#windowIcon-prop',1,'QWidget::windowIcon()']]],
+  ['windowicontext_18605',['windowIconText',['../../doc/qtwidgets/qwidget-obsolete.html#windowIconText-prop',1,'QWidget']]],
+  ['windowmodality_18606',['windowModality',['../../doc/qtwidgets/qwidget.html#windowModality-prop',1,'QWidget']]],
+  ['windowmodified_18607',['windowModified',['../../doc/qtwidgets/qwidget.html#windowModified-prop',1,'QWidget']]],
+  ['windowopacity_18608',['windowOpacity',['../../doc/qtwidgets/qwidget.html#windowOpacity-prop',1,'QWidget']]],
+  ['windowtitle_18609',['windowTitle',['../../doc/qtwidgets/qgraphicswidget.html#windowTitle-prop',1,'QGraphicsWidget::windowTitle()'],['../../doc/qtwidgets/qwidget.html#windowTitle-prop',1,'QWidget::windowTitle()'],['../../doc/qtwidgets/qdockwidget.html#windowTitle-prop',1,'QDockWidget::windowTitle()']]],
+  ['wizardstyle_18610',['wizardStyle',['../../doc/qtwidgets/qwizard.html#wizardStyle-prop',1,'QWizard']]],
+  ['wordwrap_18611',['wordWrap',['../../doc/qtwidgets/qlistview.html#wordWrap-prop',1,'QListView::wordWrap()'],['../../doc/qtwidgets/qtableview.html#wordWrap-prop',1,'QTableView::wordWrap()'],['../../doc/qtwidgets/qtreeview.html#wordWrap-prop',1,'QTreeView::wordWrap()'],['../../doc/qtwidgets/qlabel.html#wordWrap-prop',1,'QLabel::wordWrap()']]],
+  ['wordwrapmode_18612',['wordWrapMode',['../../doc/qtwidgets/qplaintextedit.html#wordWrapMode-prop',1,'QPlainTextEdit::wordWrapMode()'],['../../doc/qtwidgets/qtextedit.html#wordWrapMode-prop',1,'QTextEdit::wordWrapMode()']]],
+  ['wraparound_18613',['wrapAround',['../../doc/qtwidgets/qcompleter.html#wrapAround-prop',1,'QCompleter']]],
+  ['wrapping_18614',['wrapping',['../../doc/qtwidgets/qabstractspinbox.html#wrapping-prop',1,'QAbstractSpinBox::wrapping()'],['../../doc/qtwidgets/qdial.html#wrapping-prop',1,'QDial::wrapping()']]],
+  ['writingsystem_18615',['writingSystem',['../../doc/qtwidgets/qfontcombobox.html#writingSystem-prop',1,'QFontComboBox']]]
+];

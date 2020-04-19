@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['rangeaccessflags_17967',['RangeAccessFlags',['../../doc/qtgui/qopenglbuffer.html#RangeAccessFlag-enum',1,'QOpenGLBuffer']]],
+  ['rawheader_17968',['RawHeader',['../../doc/qtnetwork/qnetworkcachemetadata.html#RawHeader-typedef',1,'QNetworkCacheMetaData']]],
+  ['rawheaderlist_17969',['RawHeaderList',['../../doc/qtnetwork/qnetworkcachemetadata.html#RawHeaderList-typedef',1,'QNetworkCacheMetaData']]],
+  ['rawheaderpair_17970',['RawHeaderPair',['../../doc/qtnetwork/qnetworkreply.html#RawHeaderPair-typedef',1,'QNetworkReply']]],
+  ['rcr_17971',['rcr',['../ads1115_8cpp.html#a99d7469ce0b9bcacba018a9d61fa964e',1,'ads1115.cpp']]],
+  ['readfunc_17972',['ReadFunc',['../../doc/qtcore/qsettings.html#ReadFunc-typedef',1,'QSettings']]],
+  ['reference_17973',['reference',['../../doc/qtcore/qjsonarray.html#reference-typedef',1,'QJsonArray::reference()'],['../../doc/qtcore/qfuture-const-iterator.html#reference-typedef',1,'QFuture::const_iterator::reference()'],['../../doc/qtcore/qlinkedlist.html#reference-typedef',1,'QLinkedList::reference()'],['../../doc/qtcore/qlist.html#reference-typedef',1,'QList::reference()'],['../../doc/qtcore/qset.html#reference-typedef',1,'QSet::reference()'],['../../doc/qtcore/qstring.html#reference-typedef',1,'QString::reference()'],['../../doc/qtcore/qvarlengtharray.html#reference-typedef',1,'QVarLengthArray::reference()'],['../../doc/qtcore/qvector.html#reference-typedef',1,'QVector::reference()']]],
+  ['relation_17974',['Relation',['../../doc/qtgui/qaccessible.html#RelationFlag-enum',1,'QAccessible']]],
+  ['renderflags_17975',['RenderFlags',['../../doc/qtgui/qtextitem.html#RenderFlag-enum',1,'QTextItem::RenderFlags()'],['../../doc/qtwidgets/qwidget.html#RenderFlag-enum',1,'QWidget::RenderFlags()']]],
+  ['renderhints_17976',['RenderHints',['../../doc/qtgui/qpainter.html#RenderHint-enum',1,'QPainter']]],
+  ['result_17977',['Result',['../../doc/qtwidgets/qgesturerecognizer.html#ResultFlag-enum',1,'QGestureRecognizer']]],
+  ['reverse_5fiterator_17978',['reverse_iterator',['../../doc/qtcore/qbytearray.html#reverse_iterator-typedef',1,'QByteArray::reverse_iterator()'],['../../doc/qtcore/qlinkedlist.html#reverse_iterator-typedef',1,'QLinkedList::reverse_iterator()'],['../../doc/qtcore/qlist.html#reverse_iterator-typedef',1,'QList::reverse_iterator()'],['../../doc/qtcore/qset.html#reverse_iterator-typedef',1,'QSet::reverse_iterator()'],['../../doc/qtcore/qstring.html#reverse_iterator-typedef',1,'QString::reverse_iterator()'],['../../doc/qtcore/qvarlengtharray.html#reverse_iterator-typedef',1,'QVarLengthArray::reverse_iterator()'],['../../doc/qtcore/qvector.html#reverse_iterator-typedef',1,'QVector::reverse_iterator()']]],
+  ['rfshcount_17979',['rfshcount',['../class_main_window.html#a725ff3891e2e0e053150bd685209b808',1,'MainWindow']]],
+  ['rftimer_17980',['rftimer',['../class_window.html#a703d58d30da77e83166ef37942ad8602',1,'Window']]],
+  ['rscverprt_17981',['rscverprt',['../window_8cpp.html#aa9a1e71de06461b110d2c761035de556',1,'window.cpp']]],
+  ['rsport_17982',['rsPort',['../mainwindow_8cpp.html#a751e9208ccfadf03cebca9cdcf8bc8ef',1,'mainwindow.cpp']]],
+  ['rsversocket_17983',['rsverSocket',['../class_main_window.html#ac5ecc9473d3a01f67cdf77de41f5057d',1,'MainWindow']]]
+];

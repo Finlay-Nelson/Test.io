@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['pagesize_18408',['pageSize',['../../doc/qtgui/qtextdocument.html#pageSize-prop',1,'QTextDocument']]],
+  ['pagestep_18409',['pageStep',['../../doc/qtwidgets/qabstractslider.html#pageStep-prop',1,'QAbstractSlider']]],
+  ['palette_18410',['palette',['../../doc/qtwidgets/qgraphicsscene.html#palette-prop',1,'QGraphicsScene::palette()'],['../../doc/qtwidgets/qgraphicswidget.html#palette-prop',1,'QGraphicsWidget::palette()'],['../../doc/qtwidgets/qwidget.html#palette-prop',1,'QWidget::palette()']]],
+  ['parent_18411',['parent',['../../doc/qtwidgets/qgraphicsobject.html#parent-prop',1,'QGraphicsObject']]],
+  ['passwordmaskcharacter_18412',['passwordMaskCharacter',['../../doc/qtgui/qstylehints.html#passwordMaskCharacter-prop',1,'QStyleHints']]],
+  ['passwordmaskdelay_18413',['passwordMaskDelay',['../../doc/qtgui/qstylehints.html#passwordMaskDelay-prop',1,'QStyleHints']]],
+  ['physicaldotsperinch_18414',['physicalDotsPerInch',['../../doc/qtgui/qscreen.html#physicalDotsPerInch-prop',1,'QScreen']]],
+  ['physicaldotsperinchx_18415',['physicalDotsPerInchX',['../../doc/qtgui/qscreen.html#physicalDotsPerInchX-prop',1,'QScreen']]],
+  ['physicaldotsperinchy_18416',['physicalDotsPerInchY',['../../doc/qtgui/qscreen.html#physicalDotsPerInchY-prop',1,'QScreen']]],
+  ['physicalsize_18417',['physicalSize',['../../doc/qtgui/qscreen.html#physicalSize-prop',1,'QScreen']]],
+  ['pixmap_18418',['pixmap',['../../doc/qtwidgets/qlabel.html#pixmap-prop',1,'QLabel']]],
+  ['placeholdertext_18419',['placeholderText',['../../doc/qtwidgets/qlineedit.html#placeholderText-prop',1,'QLineEdit::placeholderText()'],['../../doc/qtwidgets/qplaintextedit.html#placeholderText-prop',1,'QPlainTextEdit::placeholderText()'],['../../doc/qtwidgets/qtextedit.html#placeholderText-prop',1,'QTextEdit::placeholderText()']]],
+  ['plaintext_18420',['plainText',['../../doc/qtwidgets/qplaintextedit.html#plainText-prop',1,'QPlainTextEdit::plainText()'],['../../doc/qtwidgets/qtextedit.html#plainText-prop',1,'QTextEdit::plainText()']]],
+  ['platformname_18421',['platformName',['../../doc/qtgui/qguiapplication.html#platformName-prop',1,'QGuiApplication']]],
+  ['popupmode_18422',['popupMode',['../../doc/qtwidgets/qtoolbutton.html#popupMode-prop',1,'QToolButton']]],
+  ['pos_18423',['pos',['../../doc/qtwidgets/qgraphicsobject.html#pos-prop',1,'QGraphicsObject::pos()'],['../../doc/qtwidgets/qwidget.html#pos-prop',1,'QWidget::pos()']]],
+  ['position_18424',['position',['../../doc/qtwidgets/qtapgesture.html#position-prop',1,'QTapGesture::position()'],['../../doc/qtwidgets/qtapandholdgesture.html#position-prop',1,'QTapAndHoldGesture::position()']]],
+  ['preferredsize_18425',['preferredSize',['../../doc/qtwidgets/qgraphicswidget.html#preferredSize-prop',1,'QGraphicsWidget']]],
+  ['prefix_18426',['prefix',['../../doc/qtwidgets/qspinbox.html#prefix-prop',1,'QSpinBox::prefix()'],['../../doc/qtwidgets/qdoublespinbox.html#prefix-prop',1,'QDoubleSpinBox::prefix()']]],
+  ['primaryorientation_18427',['primaryOrientation',['../../doc/qtgui/qscreen.html#primaryOrientation-prop',1,'QScreen']]],
+  ['primaryscreen_18428',['primaryScreen',['../../doc/qtgui/qguiapplication.html#primaryScreen-prop',1,'QGuiApplication::primaryScreen()'],['../../doc/qtwidgets/qdesktopwidget.html#primaryScreen-prop',1,'QDesktopWidget::primaryScreen()']]],
+  ['priority_18429',['priority',['../../doc/qtwidgets/qaction.html#priority-prop',1,'QAction']]],
+  ['propertyname_18430',['propertyName',['../../doc/qtcore/qpropertyanimation.html#propertyName-prop',1,'QPropertyAnimation']]]
+];

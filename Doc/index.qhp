@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+  <namespace>org.doxygen.Project</namespace>
+  <virtualFolder>doc</virtualFolder>
+  <filterSection>
+    <filterAttribute>doxygen</filterAttribute>
+    <toc>
+      <section title="Muscle Power Gaming" ref="index.html">
+        <section title="Muscle Power Gaming: Get Flexing! \emoji joystick" ref="md__home_finlay__r_t_e_p1__r_e_a_d_m_e.html" />
+        <section title="Modules" ref="modules.html">
+          <section title="ADS1115: ADDRESS PINS" ref="group__group1.html">
+            <section title="ADS1015_ADDRESS" ref="group__group1.html#gae55d158023984e8f0ddc80b58d5b30dc" />
+          </section>
+          <section title="ADS1115: POINTER REGISTER" ref="group__group2.html">
+            <section title="ADS1015_REG_POINTER_CONFIG" ref="group__group2.html#gab9abb781632542a0e7d8b058292f26b1" />
+            <section title="ADS1015_REG_POINTER_CONVERT" ref="group__group2.html#ga0f462c806b353bd682fa3c2d67e66622" />
+            <section title="ADS1015_REG_POINTER_HITHRESH" ref="group__group2.html#ga89000549c6dfe50337c7962b7b3677cb" />
+            <section title="ADS1015_REG_POINTER_LOWTHRESH" ref="group__group2.html#ga01582fe1e67b55686d35818696925480" />
+          </section>
+          <section title="ADS1115: OPERATIONAL STATUS" ref="group__group3.html">
+            <section title="ADS1015_REG_CONFIG_OS_BUSY" ref="group__group3.html#gaab6ae96215401637a9435c030e1919a9" />
+            <section title="ADS1015_REG_CONFIG_OS_NOTBUSY" ref="group__group3.html#ga7744f0dffe0c80b9052a31b1f1d4d4d3" />
+            <section title="ADS1015_REG_CONFIG_OS_SINGLE" ref="group__group3.html#ga13f4550d061699b1cf4bd49520fc4a9c" />
+          </section>
+          <section title="ADS1115: INPUT MULTIPLEXER CONFIGURATION" ref="group__group4.html">
+            <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_1" ref="group__group4.html#ga7db34e6ba1050094aa2f5895594fa473" />
+            <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_3" ref="group__group4.html#ga467ee1de37d13577785e33fb6d67e93d" />
+            <section title="ADS1015_REG_CONFIG_MUX_DIFF_1_3" ref="group__group4.html#ga59f246f973620f2d59f917187c9aeeb1" />
+            <section title="ADS1015_REG_CONFIG_MUX_DIFF_2_3" ref="group__group4.html#ga438ac41e1655d0c8e10a62b36d803696" />
+            <section title="ADS1015_REG_CONFIG_MUX_SINGLE_0" ref="group__group4.html#ga95d034ea82362b3f6573492209aac4f2" />
+            <section title="ADS1015_REG_CONFIG_MUX_SINGLE_1" ref="group__group4.html#ga2db511c8817fda53e31b5d1f72601909" />
+            <section title="ADS1015_REG_CONFIG_MUX_SINGLE_2" ref="group__group4.html#gae31fb46fbe9801ae7bb9210e88b7162d" />
+            <section title="ADS1015_REG_CONFIG_MUX_SINGLE_3" ref="group__group4.html#ga9cb6f8bf1d45341e508cece5bcbc7841" />
+          </section>
+          <section title="ADS1115: PROGRAMMABLE GAIN AMPLIFIER CONFIGURATION" ref="group__group5.html">
+            <section title="ADS1015_REG_CONFIG_PGA_0_256V" ref="group__group5.html#ga7d41c826b50b0b019ddb02e8093287a1" />
+            <section title="ADS1015_REG_CONFIG_PGA_0_512V" ref="group__group5.html#gad6305868e7343c5d83f68acd45a0967f" />
+            <section title="ADS1015_REG_CONFIG_PGA_1_024V" ref="group__group5.html#ga84b06e45d01519b8073dcb59dd46b4ac" />
+            <section title="ADS1015_REG_CONFIG_PGA_2_048V" ref="group__group5.html#ga871217d93b9a7614cd921d6aced54338" />
+            <section title="ADS1015_REG_CONFIG_PGA_4_096V" ref="group__group5.html#ga6ed67863634add41314604de916b6ed6" />
+            <section title="ADS1015_REG_CONFIG_PGA_6_144V" ref="group__group5.html#gab6fc5aa2e0ced7acd38dd5c30d2f6f29" />
+          </section>
+          <section title="ADS1115: DEVICE OPERATING MODE" ref="group__group6.html">
+            <section title="ADS1015_REG_CONFIG_MODE_CONTIN" ref="group__group6.html#gafbb1b96a1b61fae1301ed075330d3a20" />
+            <section title="ADS1015_REG_CONFIG_MODE_ENDCON" ref="group__group6.html#ga20780c08ce2027ce7833f27e65d9bb9d" />
+            <section title="ADS1015_REG_CONFIG_MODE_SINGLE" ref="group__group6.html#ga50168c1821f075b7296745be1d4d346f" />
+          </section>
+          <section title="ADS1115: DATA RATE" ref="group__group7.html">
+            <section title="ADS1115_REG_CONFIG_DR_128SPS" ref="group__group7.html#ga4aff8d5b1b4ac9585952d26ca25385e6" />
+            <section title="ADS1115_REG_CONFIG_DR_16SPS" ref="group__group7.html#ga482e8bf3819885a814010acb4107f6e1" />
+            <section title="ADS1115_REG_CONFIG_DR_250SPS" ref="group__group7.html#gac533241f793b44ed72385f71dec1aa25" />
+            <section title="ADS1115_REG_CONFIG_DR_32SPS" ref="group__group7.html#ga309e0ecf42b27c5a38126efa61f8a09f" />
+            <section title="ADS1115_REG_CONFIG_DR_475SPS" ref="group__group7.html#ga8eed720123d6bd52580826c2c9ad9e28" />
+            <section title="ADS1115_REG_CONFIG_DR_64SPS" ref="group__group7.html#ga0a53b32fa67a8d36b57f7aceda32efb9" />
+            <section title="ADS1115_REG_CONFIG_DR_860SPS" ref="group__group7.html#ga9308f41d4c2ff024bbd201efc3b7ff69" />
+            <section title="ADS1115_REG_CONFIG_DR_8SPS" ref="group__group7.html#gaff870cc204f306e3aae724e8231f8fdc" />
+          </section>
+          <section title="ADS1115: COMPARATOR MODE" ref="group__group8.html">
+            <section title="ADS1015_REG_CONFIG_CMODE_TRAD" ref="group__group8.html#gafb5240325d7ec757ccad7b098a2b93c3" />
+            <section title="ADS1015_REG_CONFIG_CMODE_WINDOW" ref="group__group8.html#ga49d39ffb8fb66bdb877d0f2546137cce" />
+          </section>
+          <section title="ADS1115: COMPARATOR POLARITY" ref="group__group9.html">
+            <section title="ADS1015_REG_CONFIG_CPOL_ACTVHI" ref="group__group9.html#ga81494a3f6eaf337f4132cc32bba9f28d" />
+            <section title="ADS1015_REG_CONFIG_CPOL_ACTVLOW" ref="group__group9.html#ga775f732c7e97574b38858820b96cf771" />
+          </section>
+          <section title="ADS1115: LATCHING COMPARATOR" ref="group__group10.html">
+            <section title="ADS1015_REG_CONFIG_CLAT_LATCH" ref="group__group10.html#gaf7f9528dd1aee135afad4c44d771b9f6" />
+            <section title="ADS1015_REG_CONFIG_CLAT_NONLAT" ref="group__group10.html#ga98757804761f1d945f4cf6ca40e30457" />
+          </section>
+          <section title="ADS1115: COMPARATOR QUEUE AND DISABLE" ref="group__group11.html">
+            <section title="ADS1015_REG_CONFIG_CQUE_1CONV" ref="group__group11.html#ga4889b7e8a019906eb7c2670ec2466917" />
+            <section title="ADS1015_REG_CONFIG_CQUE_2CONV" ref="group__group11.html#ga88a73e81b13059b1f4756cf5c8a342a3" />
+            <section title="ADS1015_REG_CONFIG_CQUE_4CONV" ref="group__group11.html#gad14f479d9c6f636631444de22dd7b133" />
+            <section title="ADS1015_REG_CONFIG_CQUE_NONE" ref="group__group11.html#gaa52ede69f39daf837bb2ebbe639dbef9" />
+          </section>
+          <section title="ADS1115: THRESHOLD REGISTERS" ref="group__group12.html">
+            <section title="ADS1115_REG_THRESH_MSB_0" ref="group__group12.html#ga1a0131797adb1ee39337b6f9de55fa9e" />
+            <section title="ADS1115_REG_THRESH_MSB_1" ref="group__group12.html#gacc3350d9056e6b44520992c3244ec45b" />
+          </section>
+        </section>
+        <section title="Namespaces" ref="namespaces.html">
+          <section title="Namespace List" ref="namespaces.html">
+            <section title="Ui" ref="namespace_ui.html" />
+          </section>
+        </section>
+        <section title="Classes" ref="annotated.html">
+          <section title="Class List" ref="annotated.html">
+            <section title="ads1115" ref="classads1115.html">
+              <section title="ads1115" ref="classads1115.html#aeacdf3467cad67cd8a186ad43cbeee53" />
+              <section title="endads" ref="classads1115.html#a53a254dcd5d6d6ff6e787688c730ae4b" />
+              <section title="readsig" ref="classads1115.html#a761c3ec573fc59956d7eca446841c18d" />
+              <section title="readyread" ref="classads1115.html#ae7c50fb698f1b87ba229929fc61f5e2f" />
+              <section title="fd" ref="classads1115.html#a3eac1506c2c00580e5563827d9dcd260" />
+              <section title="iicaddr" ref="classads1115.html#a2cf1674f5b1f77bd4b5709702aec7244" />
+            </section>
+            <section title="GPIOlis" ref="class_g_p_i_olis.html">
+              <section title="GPIOlis" ref="class_g_p_i_olis.html#a428a2f8c4b0bd64b769f1526c61c5dac" />
+              <section title="~GPIOlis" ref="class_g_p_i_olis.html#a9095dfa3056b0f1c4026f6018f0f7ba7" />
+              <section title="interrupt" ref="class_g_p_i_olis.html#a844470403deaa7436a19b8aef29eac5b" />
+              <section title="quit" ref="class_g_p_i_olis.html#a06b2b0dbfd20843e43a5015c2c1cf829" />
+              <section title="ready" ref="class_g_p_i_olis.html#a1e658d32e43003c3612ba46bd99a1732" />
+              <section title="readyread" ref="class_g_p_i_olis.html#ac36d3b9264536731e3458ed295666719" />
+              <section title="run" ref="class_g_p_i_olis.html#a65d2d0d0faf0d9edc0b31ddb51e88d2b" />
+              <section title="ads1" ref="class_g_p_i_olis.html#a4dd64eebb025a26b454d17176e70aaf8" />
+              <section title="count" ref="class_g_p_i_olis.html#a81e5f98d39e2ae03bf0ab38466ad24bd" />
+              <section title="flag" ref="class_g_p_i_olis.html#ae86ee364670cfe22722a5d9f612e9aa4" />
+            </section>
+            <section title="MainWindow" ref="class_main_window.html">
+              <section title="MainWindow" ref="class_main_window.html#a33775e00c8964ce95697f48cd6f7509b" />
+              <section title="~MainWindow" ref="class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7" />
+              <section title="CpuP1Motion" ref="class_main_window.html#ab191051a7cc5f050d2ef2cb09a7aee34" />
+              <section title="goal" ref="class_main_window.html#a2f1a7f4643b4afc4d573ea439eb19f14" />
+              <section title="Position" ref="class_main_window.html#ad7e9c58ba60e7219d5348a4403b805d0" />
+              <section title="receive" ref="class_main_window.html#aa4a61b706dc1ac7eafed167da9fb6cc3" />
+              <section title="refreshScore" ref="class_main_window.html#a154bcffa7153d04371f0832193108731" />
+              <section title="rfsh" ref="class_main_window.html#a14f7506762b59058b9b2b04f754557e7" />
+              <section title="iBall" ref="class_main_window.html#ab7d9e890e4ec111fe09e02e840748196" />
+              <section title="iBallMotion" ref="class_main_window.html#afdf01f0c6fdea31c1461f7e44b7edbef" />
+              <section title="iP1" ref="class_main_window.html#a32ae2ba16c3ef020cd23bc405faf6dc7" />
+              <section title="iP1Motion" ref="class_main_window.html#a121ed236a48b89f3539f7fe59c9b4c37" />
+              <section title="iP2" ref="class_main_window.html#a9a2efe9e5fd1003f44c1d77da6fc2717" />
+              <section title="iP2Motion" ref="class_main_window.html#afc63533a2041d39ea4b6effe1cb71c7a" />
+              <section title="iScene" ref="class_main_window.html#ac635937c03a5a7af86c1ad212c27a4eb" />
+              <section title="iScore" ref="class_main_window.html#ab666d1d050708e71196c963e1f1b8c10" />
+              <section title="iTimer" ref="class_main_window.html#a6940eadea7e5a3348f27464404f50ec8" />
+              <section title="P1Xprime" ref="class_main_window.html#a7266f47cf9c4b85b27b5fcc10101ff91" />
+              <section title="P2Xprime" ref="class_main_window.html#ad4fc744b75c4d35e52fb59fa82aa3178" />
+              <section title="rfshcount" ref="class_main_window.html#a725ff3891e2e0e053150bd685209b808" />
+              <section title="rsverSocket" ref="class_main_window.html#ac5ecc9473d3a01f67cdf77de41f5057d" />
+              <section title="timer_measure" ref="class_main_window.html#a4db7d07416fcafa0d9e7a9291b64f842" />
+              <section title="totalHeight" ref="class_main_window.html#ac30d3076a0577dd1c4fb9ca96cd7192a" />
+              <section title="totalWidth" ref="class_main_window.html#a96ba56ac81ca9d1d972e107b0c0398be" />
+              <section title="ui" ref="class_main_window.html#a35466a70ed47252a0191168126a352a5" />
+              <section title="wdheight" ref="class_main_window.html#a4a5b3b6188f1a6b45c8ca2a18bf1f460" />
+              <section title="wdwidth" ref="class_main_window.html#a808fcf1fec443ec645b4377470fbdda8" />
+              <section title="Xprime" ref="class_main_window.html#a05f46373bd9b7c48927c7caea6abdad8" />
+              <section title="Yprime" ref="class_main_window.html#aa3243052c3f75d05e0695b4dda5c5201" />
+            </section>
+            <section title="Window" ref="class_window.html">
+              <section title="Window" ref="class_window.html#ab27fe44e0834066236f79f244b02f67e" />
+              <section title="~Window" ref="class_window.html#a245d821e6016fa1f6970ccbbedd635f6" />
+              <section title="datapros" ref="class_window.html#aa0c78bd5a1a320ec6cf427e7441d9714" />
+              <section title="plotrefresh" ref="class_window.html#ad7445be21c77c9944b3dba2e146bb989" />
+              <section title="curve1" ref="class_window.html#a112c8681462cb0339faf1b3a5e8d312c" />
+              <section title="curve2" ref="class_window.html#ad6c1bf613b3e5a026fba544ed567a87b" />
+              <section title="gpiolis1" ref="class_window.html#a99a930e8fdf9c009aca0d1bed1bdcd8f" />
+              <section title="hLayout" ref="class_window.html#a088e83054c444170282461344174f30b" />
+              <section title="plot1" ref="class_window.html#ac930f3c9fd48aeb627204e7aeaf80573" />
+              <section title="plot2" ref="class_window.html#a10bbc5d8730ee6c5bb4f4a956225533c" />
+              <section title="rftimer" ref="class_window.html#a703d58d30da77e83166ef37942ad8602" />
+              <section title="sdersc" ref="class_window.html#ad0125c79705223e60f695c194166f312" />
+              <section title="sumpower" ref="class_window.html#ab9f0f7ea3db5d4d0fa70c915590e4c72" />
+              <section title="xData1" ref="class_window.html#a13ad2a2a6dd2fa6a8943e92fb08629a1" />
+              <section title="xData2" ref="class_window.html#a7b0d44a397ca90add463e2093f4a1423" />
+              <section title="xData3" ref="class_window.html#a66e60e4413d120313000c1d744c904f1" />
+              <section title="yData1" ref="class_window.html#a9baba6757f9e1a5c25e2c8bcf291ad32" />
+              <section title="yData2" ref="class_window.html#a25e229e2503d02a9904f56fb730d4744" />
+              <section title="yData3" ref="class_window.html#a7f1854f46d87a6bfd6b53806be12ba1c" />
+            </section>
+          </section>
+          <section title="Class Index" ref="classes.html" />
+          <section title="Class Hierarchy" ref="hierarchy.html">
+            <section title="QObject" ref="qobject.html">
+              <section title="ads1115" ref="classads1115.html" />
+              <section title="QThread" ref="qthread.html">
+                <section title="GPIOlis" ref="class_g_p_i_olis.html" />
+              </section>
+              <section title="QWidget" ref="qwidget.html">
+                <section title="QMainWindow" ref="qmainwindow.html">
+                  <section title="MainWindow" ref="class_main_window.html" />
+                </section>
+                <section title="Window" ref="class_window.html" />
+              </section>
+            </section>
+            <section title="QPaintDevice" ref="qpaintdevice.html">
+              <section title="QWidget" ref="qwidget.html" />
+            </section>
+          </section>
+          <section title="Class Members" ref="functions.html">
+            <section title="All" ref="functions.html" />
+            <section title="Functions" ref="functions_func.html" />
+            <section title="Variables" ref="functions_vars.html" />
+          </section>
+        </section>
+        <section title="Files" ref="files.html">
+          <section title="File List" ref="files.html">
+            <section title="RTEP1" ref="dir_4737b40e368aaeddf12f82af8316bda1.html">
+              <section title="Rpi_end" ref="dir_f4c6a60d396f8e1b9459245a709869c7.html">
+                <section title="Rpi_end_together" ref="dir_32ed0438d63cc1dbaec5c85a84ff8525.html">
+                  <section title="ads1115.cpp" ref="ads1115_8cpp.html">
+                    <section title="load_config" ref="ads1115_8cpp.html#aeedb5ce0b7eff5eb547a36a07859575c" />
+                    <section title="config" ref="ads1115_8cpp.html#a4b95d85a2e012a6f680d7fcbebecffb9" />
+                    <section title="high" ref="ads1115_8cpp.html#aae03a5bfee63ef73c818b660e31146a9" />
+                    <section title="high_config" ref="ads1115_8cpp.html#a858a3d60a2d99fd3d2928c5843530456" />
+                    <section title="low" ref="ads1115_8cpp.html#a582ad3e71a0125d122e77eb54d2277b4" />
+                    <section title="low_config" ref="ads1115_8cpp.html#a7ec714dbe564c5a0a805f20c0ee10f2b" />
+                    <section title="rcr" ref="ads1115_8cpp.html#a99d7469ce0b9bcacba018a9d61fa964e" />
+                    <section title="value" ref="ads1115_8cpp.html#ac4f474c82e82cbb89ca7c36dd52be0ed" />
+                    <section title="voltage" ref="ads1115_8cpp.html#a47061fcae597f83f8a0a99d4b7b5a5c1" />
+                  </section>
+                  <section title="ads1115.h" ref="ads1115_8h.html">
+                    <section title="ads1115" ref="classads1115.html">
+                      <section title="ads1115" ref="classads1115.html#aeacdf3467cad67cd8a186ad43cbeee53" />
+                      <section title="endads" ref="classads1115.html#a53a254dcd5d6d6ff6e787688c730ae4b" />
+                      <section title="readsig" ref="classads1115.html#a761c3ec573fc59956d7eca446841c18d" />
+                      <section title="readyread" ref="classads1115.html#ae7c50fb698f1b87ba229929fc61f5e2f" />
+                      <section title="fd" ref="classads1115.html#a3eac1506c2c00580e5563827d9dcd260" />
+                      <section title="iicaddr" ref="classads1115.html#a2cf1674f5b1f77bd4b5709702aec7244" />
+                    </section>
+                    <section title="ADS1015_ADDRESS" ref="group__group1.html#gae55d158023984e8f0ddc80b58d5b30dc" />
+                    <section title="ADS1015_REG_CONFIG_CLAT_LATCH" ref="group__group10.html#gaf7f9528dd1aee135afad4c44d771b9f6" />
+                    <section title="ADS1015_REG_CONFIG_CLAT_NONLAT" ref="group__group10.html#ga98757804761f1d945f4cf6ca40e30457" />
+                    <section title="ADS1015_REG_CONFIG_CMODE_TRAD" ref="group__group8.html#gafb5240325d7ec757ccad7b098a2b93c3" />
+                    <section title="ADS1015_REG_CONFIG_CMODE_WINDOW" ref="group__group8.html#ga49d39ffb8fb66bdb877d0f2546137cce" />
+                    <section title="ADS1015_REG_CONFIG_CPOL_ACTVHI" ref="group__group9.html#ga81494a3f6eaf337f4132cc32bba9f28d" />
+                    <section title="ADS1015_REG_CONFIG_CPOL_ACTVLOW" ref="group__group9.html#ga775f732c7e97574b38858820b96cf771" />
+                    <section title="ADS1015_REG_CONFIG_CQUE_1CONV" ref="group__group11.html#ga4889b7e8a019906eb7c2670ec2466917" />
+                    <section title="ADS1015_REG_CONFIG_CQUE_2CONV" ref="group__group11.html#ga88a73e81b13059b1f4756cf5c8a342a3" />
+                    <section title="ADS1015_REG_CONFIG_CQUE_4CONV" ref="group__group11.html#gad14f479d9c6f636631444de22dd7b133" />
+                    <section title="ADS1015_REG_CONFIG_CQUE_NONE" ref="group__group11.html#gaa52ede69f39daf837bb2ebbe639dbef9" />
+                    <section title="ADS1015_REG_CONFIG_MODE_CONTIN" ref="group__group6.html#gafbb1b96a1b61fae1301ed075330d3a20" />
+                    <section title="ADS1015_REG_CONFIG_MODE_ENDCON" ref="group__group6.html#ga20780c08ce2027ce7833f27e65d9bb9d" />
+                    <section title="ADS1015_REG_CONFIG_MODE_SINGLE" ref="group__group6.html#ga50168c1821f075b7296745be1d4d346f" />
+                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_1" ref="group__group4.html#ga7db34e6ba1050094aa2f5895594fa473" />
+                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_0_3" ref="group__group4.html#ga467ee1de37d13577785e33fb6d67e93d" />
+                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_1_3" ref="group__group4.html#ga59f246f973620f2d59f917187c9aeeb1" />
+                    <section title="ADS1015_REG_CONFIG_MUX_DIFF_2_3" ref="group__group4.html#ga438ac41e1655d0c8e10a62b36d803696" />
+                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_0" ref="group__group4.html#ga95d034ea82362b3f6573492209aac4f2" />
+                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_1" ref="group__group4.html#ga2db511c8817fda53e31b5d1f72601909" />
+                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_2" ref="group__group4.html#gae31fb46fbe9801ae7bb9210e88b7162d" />
+                    <section title="ADS1015_REG_CONFIG_MUX_SINGLE_3" ref="group__group4.html#ga9cb6f8bf1d45341e508cece5bcbc7841" />
+                    <section title="ADS1015_REG_CONFIG_OS_BUSY" ref="group__group3.html#gaab6ae96215401637a9435c030e1919a9" />
+                    <section title="ADS1015_REG_CONFIG_OS_NOTBUSY" ref="group__group3.html#ga7744f0dffe0c80b9052a31b1f1d4d4d3" />
+                    <section title="ADS1015_REG_CONFIG_OS_SINGLE" ref="group__group3.html#ga13f4550d061699b1cf4bd49520fc4a9c" />
+                    <section title="ADS1015_REG_CONFIG_PGA_0_256V" ref="group__group5.html#ga7d41c826b50b0b019ddb02e8093287a1" />
+                    <section title="ADS1015_REG_CONFIG_PGA_0_512V" ref="group__group5.html#gad6305868e7343c5d83f68acd45a0967f" />
+                    <section title="ADS1015_REG_CONFIG_PGA_1_024V" ref="group__group5.html#ga84b06e45d01519b8073dcb59dd46b4ac" />
+                    <section title="ADS1015_REG_CONFIG_PGA_2_048V" ref="group__group5.html#ga871217d93b9a7614cd921d6aced54338" />
+                    <section title="ADS1015_REG_CONFIG_PGA_4_096V" ref="group__group5.html#ga6ed67863634add41314604de916b6ed6" />
+                    <section title="ADS1015_REG_CONFIG_PGA_6_144V" ref="group__group5.html#gab6fc5aa2e0ced7acd38dd5c30d2f6f29" />
+                    <section title="ADS1015_REG_POINTER_CONFIG" ref="group__group2.html#gab9abb781632542a0e7d8b058292f26b1" />
+                    <section title="ADS1015_REG_POINTER_CONVERT" ref="group__group2.html#ga0f462c806b353bd682fa3c2d67e66622" />
+                    <section title="ADS1015_REG_POINTER_HITHRESH" ref="group__group2.html#ga89000549c6dfe50337c7962b7b3677cb" />
+                    <section title="ADS1015_REG_POINTER_LOWTHRESH" ref="group__group2.html#ga01582fe1e67b55686d35818696925480" />
+                    <section title="ADS1115_REG_CONFIG_DR_128SPS" ref="group__group7.html#ga4aff8d5b1b4ac9585952d26ca25385e6" />
+                    <section title="ADS1115_REG_CONFIG_DR_16SPS" ref="group__group7.html#ga482e8bf3819885a814010acb4107f6e1" />
+                    <section title="ADS1115_REG_CONFIG_DR_250SPS" ref="group__group7.html#gac533241f793b44ed72385f71dec1aa25" />
+                    <section title="ADS1115_REG_CONFIG_DR_32SPS" ref="group__group7.html#ga309e0ecf42b27c5a38126efa61f8a09f" />
+                    <section title="ADS1115_REG_CONFIG_DR_475SPS" ref="group__group7.html#ga8eed720123d6bd52580826c2c9ad9e28" />
+                    <section title="ADS1115_REG_CONFIG_DR_64SPS" ref="group__group7.html#ga0a53b32fa67a8d36b57f7aceda32efb9" />
+                    <section title="ADS1115_REG_CONFIG_DR_860SPS" ref="group__group7.html#ga9308f41d4c2ff024bbd201efc3b7ff69" />
+                    <section title="ADS1115_REG_CONFIG_DR_8SPS" ref="group__group7.html#gaff870cc204f306e3aae724e8231f8fdc" />
+                    <section title="ADS1115_REG_THRESH_MSB_0" ref="group__group12.html#ga1a0131797adb1ee39337b6f9de55fa9e" />
+                    <section title="ADS1115_REG_THRESH_MSB_1" ref="group__group12.html#gacc3350d9056e6b44520992c3244ec45b" />
+                  </section>
+                  <section title="GPIOlis.cpp" ref="_g_p_i_olis_8cpp.html">
+                    <section title="interrupt2" ref="_g_p_i_olis_8cpp.html#ad7831c642a7240a6d74f929a1158d448" />
+                    <section title="cmdmtx" ref="_g_p_i_olis_8cpp.html#a4f14f0593fff5e3ca0491b3962e6544f" />
+                    <section title="gpipinterrupt" ref="_g_p_i_olis_8cpp.html#a6715efeafc8103a65e244026d957b70b" />
+                  </section>
+                  <section title="GPIOlis.h" ref="_g_p_i_olis_8h.html">
+                    <section title="GPIOlis" ref="class_g_p_i_olis.html">
+                      <section title="GPIOlis" ref="class_g_p_i_olis.html#a428a2f8c4b0bd64b769f1526c61c5dac" />
+                      <section title="~GPIOlis" ref="class_g_p_i_olis.html#a9095dfa3056b0f1c4026f6018f0f7ba7" />
+                      <section title="interrupt" ref="class_g_p_i_olis.html#a844470403deaa7436a19b8aef29eac5b" />
+                      <section title="quit" ref="class_g_p_i_olis.html#a06b2b0dbfd20843e43a5015c2c1cf829" />
+                      <section title="ready" ref="class_g_p_i_olis.html#a1e658d32e43003c3612ba46bd99a1732" />
+                      <section title="readyread" ref="class_g_p_i_olis.html#ac36d3b9264536731e3458ed295666719" />
+                      <section title="run" ref="class_g_p_i_olis.html#a65d2d0d0faf0d9edc0b31ddb51e88d2b" />
+                      <section title="ads1" ref="class_g_p_i_olis.html#a4dd64eebb025a26b454d17176e70aaf8" />
+                      <section title="count" ref="class_g_p_i_olis.html#a81e5f98d39e2ae03bf0ab38466ad24bd" />
+                      <section title="flag" ref="class_g_p_i_olis.html#ae86ee364670cfe22722a5d9f612e9aa4" />
+                    </section>
+                    <section title="gpipinterrupt" ref="_g_p_i_olis_8h.html#a6715efeafc8103a65e244026d957b70b" />
+                  </section>
+                  <section title="main.cpp" ref="_rpi__end_2_rpi__end__together_2main_8cpp.html">
+                    <section title="main" ref="_rpi__end_2_rpi__end__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
+                  </section>
+                  <section title="window.cpp" ref="window_8cpp.html">
+                    <section title="flhp1" ref="window_8cpp.html#a89274b7113af845f693045514ab79d06" />
+                    <section title="florigin" ref="window_8cpp.html#aa4d944473c2ce72052d24e8e4eaa96ce" />
+                    <section title="flpower" ref="window_8cpp.html#a9cdc0952ddae0cb682503cc9b5bb8019" />
+                    <section title="hp1" ref="window_8cpp.html#aedcba60e51029a554adc10c3097a6af8" />
+                    <section title="index" ref="window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0" />
+                    <section title="order" ref="window_8cpp.html#a1b7ba51c7dba40b32bb78cc0fd8074ca" />
+                    <section title="rscverprt" ref="window_8cpp.html#aa9a1e71de06461b110d2c761035de556" />
+                    <section title="samplingrate" ref="window_8cpp.html#a072a980c304a396787f46c29aa3bd5f1" />
+                    <section title="sderprt" ref="window_8cpp.html#a9c9ab370a04018e645c8edafbf2113f1" />
+                  </section>
+                  <section title="window.h" ref="window_8h.html">
+                    <section title="Window" ref="class_window.html">
+                      <section title="Window" ref="class_window.html#ab27fe44e0834066236f79f244b02f67e" />
+                      <section title="~Window" ref="class_window.html#a245d821e6016fa1f6970ccbbedd635f6" />
+                      <section title="datapros" ref="class_window.html#aa0c78bd5a1a320ec6cf427e7441d9714" />
+                      <section title="plotrefresh" ref="class_window.html#ad7445be21c77c9944b3dba2e146bb989" />
+                      <section title="curve1" ref="class_window.html#a112c8681462cb0339faf1b3a5e8d312c" />
+                      <section title="curve2" ref="class_window.html#ad6c1bf613b3e5a026fba544ed567a87b" />
+                      <section title="gpiolis1" ref="class_window.html#a99a930e8fdf9c009aca0d1bed1bdcd8f" />
+                      <section title="hLayout" ref="class_window.html#a088e83054c444170282461344174f30b" />
+                      <section title="plot1" ref="class_window.html#ac930f3c9fd48aeb627204e7aeaf80573" />
+                      <section title="plot2" ref="class_window.html#a10bbc5d8730ee6c5bb4f4a956225533c" />
+                      <section title="rftimer" ref="class_window.html#a703d58d30da77e83166ef37942ad8602" />
+                      <section title="sdersc" ref="class_window.html#ad0125c79705223e60f695c194166f312" />
+                      <section title="sumpower" ref="class_window.html#ab9f0f7ea3db5d4d0fa70c915590e4c72" />
+                      <section title="xData1" ref="class_window.html#a13ad2a2a6dd2fa6a8943e92fb08629a1" />
+                      <section title="xData2" ref="class_window.html#a7b0d44a397ca90add463e2093f4a1423" />
+                      <section title="xData3" ref="class_window.html#a66e60e4413d120313000c1d744c904f1" />
+                      <section title="yData1" ref="class_window.html#a9baba6757f9e1a5c25e2c8bcf291ad32" />
+                      <section title="yData2" ref="class_window.html#a25e229e2503d02a9904f56fb730d4744" />
+                      <section title="yData3" ref="class_window.html#a7f1854f46d87a6bfd6b53806be12ba1c" />
+                    </section>
+                  </section>
+                </section>
+              </section>
+              <section title="Server_end" ref="dir_1bb09fde301ad63eca39b934e96a578c.html">
+                <section title="Server_Pong_GUI_all_together" ref="dir_68b4530337b1df916aa0a76eefca12cb.html">
+                  <section title="main.cpp" ref="_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html">
+                    <section title="main" ref="_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
+                  </section>
+                  <section title="mainwindow.cpp" ref="mainwindow_8cpp.html">
+                    <section title="rsPort" ref="mainwindow_8cpp.html#a751e9208ccfadf03cebca9cdcf8bc8ef" />
+                  </section>
+                  <section title="mainwindow.h" ref="mainwindow_8h.html">
+                    <section title="MainWindow" ref="class_main_window.html">
+                      <section title="MainWindow" ref="class_main_window.html#a33775e00c8964ce95697f48cd6f7509b" />
+                      <section title="~MainWindow" ref="class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7" />
+                      <section title="CpuP1Motion" ref="class_main_window.html#ab191051a7cc5f050d2ef2cb09a7aee34" />
+                      <section title="goal" ref="class_main_window.html#a2f1a7f4643b4afc4d573ea439eb19f14" />
+                      <section title="Position" ref="class_main_window.html#ad7e9c58ba60e7219d5348a4403b805d0" />
+                      <section title="receive" ref="class_main_window.html#aa4a61b706dc1ac7eafed167da9fb6cc3" />
+                      <section title="refreshScore" ref="class_main_window.html#a154bcffa7153d04371f0832193108731" />
+                      <section title="rfsh" ref="class_main_window.html#a14f7506762b59058b9b2b04f754557e7" />
+                      <section title="iBall" ref="class_main_window.html#ab7d9e890e4ec111fe09e02e840748196" />
+                      <section title="iBallMotion" ref="class_main_window.html#afdf01f0c6fdea31c1461f7e44b7edbef" />
+                      <section title="iP1" ref="class_main_window.html#a32ae2ba16c3ef020cd23bc405faf6dc7" />
+                      <section title="iP1Motion" ref="class_main_window.html#a121ed236a48b89f3539f7fe59c9b4c37" />
+                      <section title="iP2" ref="class_main_window.html#a9a2efe9e5fd1003f44c1d77da6fc2717" />
+                      <section title="iP2Motion" ref="class_main_window.html#afc63533a2041d39ea4b6effe1cb71c7a" />
+                      <section title="iScene" ref="class_main_window.html#ac635937c03a5a7af86c1ad212c27a4eb" />
+                      <section title="iScore" ref="class_main_window.html#ab666d1d050708e71196c963e1f1b8c10" />
+                      <section title="iTimer" ref="class_main_window.html#a6940eadea7e5a3348f27464404f50ec8" />
+                      <section title="P1Xprime" ref="class_main_window.html#a7266f47cf9c4b85b27b5fcc10101ff91" />
+                      <section title="P2Xprime" ref="class_main_window.html#ad4fc744b75c4d35e52fb59fa82aa3178" />
+                      <section title="rfshcount" ref="class_main_window.html#a725ff3891e2e0e053150bd685209b808" />
+                      <section title="rsverSocket" ref="class_main_window.html#ac5ecc9473d3a01f67cdf77de41f5057d" />
+                      <section title="timer_measure" ref="class_main_window.html#a4db7d07416fcafa0d9e7a9291b64f842" />
+                      <section title="totalHeight" ref="class_main_window.html#ac30d3076a0577dd1c4fb9ca96cd7192a" />
+                      <section title="totalWidth" ref="class_main_window.html#a96ba56ac81ca9d1d972e107b0c0398be" />
+                      <section title="ui" ref="class_main_window.html#a35466a70ed47252a0191168126a352a5" />
+                      <section title="wdheight" ref="class_main_window.html#a4a5b3b6188f1a6b45c8ca2a18bf1f460" />
+                      <section title="wdwidth" ref="class_main_window.html#a808fcf1fec443ec645b4377470fbdda8" />
+                      <section title="Xprime" ref="class_main_window.html#a05f46373bd9b7c48927c7caea6abdad8" />
+                      <section title="Yprime" ref="class_main_window.html#aa3243052c3f75d05e0695b4dda5c5201" />
+                    </section>
+                  </section>
+                </section>
+              </section>
+            </section>
+          </section>
+          <section title="File Members" ref="globals.html">
+            <section title="All" ref="globals.html" />
+            <section title="Functions" ref="globals_func.html" />
+            <section title="Variables" ref="globals_vars.html" />
+            <section title="Macros" ref="globals_defs.html" />
+          </section>
+        </section>
+      </section>
+    </toc>
+    <keywords>
+      <keyword name="load_config" id="ads1115.cpp::load_config" ref="ads1115_8cpp.html#aeedb5ce0b7eff5eb547a36a07859575c" />
+      <keyword name="low" id="ads1115.cpp::low" ref="ads1115_8cpp.html#a582ad3e71a0125d122e77eb54d2277b4" />
+      <keyword name="high" id="ads1115.cpp::high" ref="ads1115_8cpp.html#aae03a5bfee63ef73c818b660e31146a9" />
+      <keyword name="config" id="ads1115.cpp::config" ref="ads1115_8cpp.html#a4b95d85a2e012a6f680d7fcbebecffb9" />
+      <keyword name="high_config" id="ads1115.cpp::high_config" ref="ads1115_8cpp.html#a858a3d60a2d99fd3d2928c5843530456" />
+      <keyword name="low_config" id="ads1115.cpp::low_config" ref="ads1115_8cpp.html#a7ec714dbe564c5a0a805f20c0ee10f2b" />
+      <keyword name="voltage" id="ads1115.cpp::voltage" ref="ads1115_8cpp.html#a47061fcae597f83f8a0a99d4b7b5a5c1" />
+      <keyword name="rcr" id="ads1115.cpp::rcr" ref="ads1115_8cpp.html#a99d7469ce0b9bcacba018a9d61fa964e" />
+      <keyword name="value" id="ads1115.cpp::value" ref="ads1115_8cpp.html#ac4f474c82e82cbb89ca7c36dd52be0ed" />
+      <keyword name="ADS1015_ADDRESS" id="ads1115.h::ADS1015_ADDRESS" ref="ads1115_8h.html#gae55d158023984e8f0ddc80b58d5b30dc" />
+      <keyword name="ADS1015_REG_POINTER_CONVERT" id="ads1115.h::ADS1015_REG_POINTER_CONVERT" ref="ads1115_8h.html#ga0f462c806b353bd682fa3c2d67e66622" />
+      <keyword name="ADS1015_REG_POINTER_CONFIG" id="ads1115.h::ADS1015_REG_POINTER_CONFIG" ref="ads1115_8h.html#gab9abb781632542a0e7d8b058292f26b1" />
+      <keyword name="ADS1015_REG_POINTER_LOWTHRESH" id="ads1115.h::ADS1015_REG_POINTER_LOWTHRESH" ref="ads1115_8h.html#ga01582fe1e67b55686d35818696925480" />
+      <keyword name="ADS1015_REG_POINTER_HITHRESH" id="ads1115.h::ADS1015_REG_POINTER_HITHRESH" ref="ads1115_8h.html#ga89000549c6dfe50337c7962b7b3677cb" />
+      <keyword name="ADS1015_REG_CONFIG_OS_SINGLE" id="ads1115.h::ADS1015_REG_CONFIG_OS_SINGLE" ref="ads1115_8h.html#ga13f4550d061699b1cf4bd49520fc4a9c" />
+      <keyword name="ADS1015_REG_CONFIG_OS_BUSY" id="ads1115.h::ADS1015_REG_CONFIG_OS_BUSY" ref="ads1115_8h.html#gaab6ae96215401637a9435c030e1919a9" />
+      <keyword name="ADS1015_REG_CONFIG_OS_NOTBUSY" id="ads1115.h::ADS1015_REG_CONFIG_OS_NOTBUSY" ref="ads1115_8h.html#ga7744f0dffe0c80b9052a31b1f1d4d4d3" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_0_1" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_0_1" ref="ads1115_8h.html#ga7db34e6ba1050094aa2f5895594fa473" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_0_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_0_3" ref="ads1115_8h.html#ga467ee1de37d13577785e33fb6d67e93d" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_1_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_1_3" ref="ads1115_8h.html#ga59f246f973620f2d59f917187c9aeeb1" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_2_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_2_3" ref="ads1115_8h.html#ga438ac41e1655d0c8e10a62b36d803696" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_0" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_0" ref="ads1115_8h.html#ga95d034ea82362b3f6573492209aac4f2" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_1" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_1" ref="ads1115_8h.html#ga2db511c8817fda53e31b5d1f72601909" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_2" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_2" ref="ads1115_8h.html#gae31fb46fbe9801ae7bb9210e88b7162d" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_3" ref="ads1115_8h.html#ga9cb6f8bf1d45341e508cece5bcbc7841" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_6_144V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_6_144V" ref="ads1115_8h.html#gab6fc5aa2e0ced7acd38dd5c30d2f6f29" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_4_096V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_4_096V" ref="ads1115_8h.html#ga6ed67863634add41314604de916b6ed6" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_2_048V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_2_048V" ref="ads1115_8h.html#ga871217d93b9a7614cd921d6aced54338" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_1_024V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_1_024V" ref="ads1115_8h.html#ga84b06e45d01519b8073dcb59dd46b4ac" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_0_512V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_0_512V" ref="ads1115_8h.html#gad6305868e7343c5d83f68acd45a0967f" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_0_256V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_0_256V" ref="ads1115_8h.html#ga7d41c826b50b0b019ddb02e8093287a1" />
+      <keyword name="ADS1015_REG_CONFIG_MODE_CONTIN" id="ads1115.h::ADS1015_REG_CONFIG_MODE_CONTIN" ref="ads1115_8h.html#gafbb1b96a1b61fae1301ed075330d3a20" />
+      <keyword name="ADS1015_REG_CONFIG_MODE_ENDCON" id="ads1115.h::ADS1015_REG_CONFIG_MODE_ENDCON" ref="ads1115_8h.html#ga20780c08ce2027ce7833f27e65d9bb9d" />
+      <keyword name="ADS1015_REG_CONFIG_MODE_SINGLE" id="ads1115.h::ADS1015_REG_CONFIG_MODE_SINGLE" ref="ads1115_8h.html#ga50168c1821f075b7296745be1d4d346f" />
+      <keyword name="ADS1115_REG_CONFIG_DR_8SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_8SPS" ref="ads1115_8h.html#gaff870cc204f306e3aae724e8231f8fdc" />
+      <keyword name="ADS1115_REG_CONFIG_DR_16SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_16SPS" ref="ads1115_8h.html#ga482e8bf3819885a814010acb4107f6e1" />
+      <keyword name="ADS1115_REG_CONFIG_DR_32SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_32SPS" ref="ads1115_8h.html#ga309e0ecf42b27c5a38126efa61f8a09f" />
+      <keyword name="ADS1115_REG_CONFIG_DR_64SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_64SPS" ref="ads1115_8h.html#ga0a53b32fa67a8d36b57f7aceda32efb9" />
+      <keyword name="ADS1115_REG_CONFIG_DR_128SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_128SPS" ref="ads1115_8h.html#ga4aff8d5b1b4ac9585952d26ca25385e6" />
+      <keyword name="ADS1115_REG_CONFIG_DR_250SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_250SPS" ref="ads1115_8h.html#gac533241f793b44ed72385f71dec1aa25" />
+      <keyword name="ADS1115_REG_CONFIG_DR_475SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_475SPS" ref="ads1115_8h.html#ga8eed720123d6bd52580826c2c9ad9e28" />
+      <keyword name="ADS1115_REG_CONFIG_DR_860SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_860SPS" ref="ads1115_8h.html#ga9308f41d4c2ff024bbd201efc3b7ff69" />
+      <keyword name="ADS1015_REG_CONFIG_CMODE_TRAD" id="ads1115.h::ADS1015_REG_CONFIG_CMODE_TRAD" ref="ads1115_8h.html#gafb5240325d7ec757ccad7b098a2b93c3" />
+      <keyword name="ADS1015_REG_CONFIG_CMODE_WINDOW" id="ads1115.h::ADS1015_REG_CONFIG_CMODE_WINDOW" ref="ads1115_8h.html#ga49d39ffb8fb66bdb877d0f2546137cce" />
+      <keyword name="ADS1015_REG_CONFIG_CPOL_ACTVLOW" id="ads1115.h::ADS1015_REG_CONFIG_CPOL_ACTVLOW" ref="ads1115_8h.html#ga775f732c7e97574b38858820b96cf771" />
+      <keyword name="ADS1015_REG_CONFIG_CPOL_ACTVHI" id="ads1115.h::ADS1015_REG_CONFIG_CPOL_ACTVHI" ref="ads1115_8h.html#ga81494a3f6eaf337f4132cc32bba9f28d" />
+      <keyword name="ADS1015_REG_CONFIG_CLAT_NONLAT" id="ads1115.h::ADS1015_REG_CONFIG_CLAT_NONLAT" ref="ads1115_8h.html#ga98757804761f1d945f4cf6ca40e30457" />
+      <keyword name="ADS1015_REG_CONFIG_CLAT_LATCH" id="ads1115.h::ADS1015_REG_CONFIG_CLAT_LATCH" ref="ads1115_8h.html#gaf7f9528dd1aee135afad4c44d771b9f6" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_1CONV" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_1CONV" ref="ads1115_8h.html#ga4889b7e8a019906eb7c2670ec2466917" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_2CONV" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_2CONV" ref="ads1115_8h.html#ga88a73e81b13059b1f4756cf5c8a342a3" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_4CONV" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_4CONV" ref="ads1115_8h.html#gad14f479d9c6f636631444de22dd7b133" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_NONE" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_NONE" ref="ads1115_8h.html#gaa52ede69f39daf837bb2ebbe639dbef9" />
+      <keyword name="ADS1115_REG_THRESH_MSB_1" id="ads1115.h::ADS1115_REG_THRESH_MSB_1" ref="ads1115_8h.html#gacc3350d9056e6b44520992c3244ec45b" />
+      <keyword name="ADS1115_REG_THRESH_MSB_0" id="ads1115.h::ADS1115_REG_THRESH_MSB_0" ref="ads1115_8h.html#ga1a0131797adb1ee39337b6f9de55fa9e" />
+      <keyword name="interrupt2" id="GPIOlis.cpp::interrupt2" ref="_g_p_i_olis_8cpp.html#ad7831c642a7240a6d74f929a1158d448" />
+      <keyword name="gpipinterrupt" id="GPIOlis.cpp::gpipinterrupt" ref="_g_p_i_olis_8cpp.html#a6715efeafc8103a65e244026d957b70b" />
+      <keyword name="cmdmtx" id="GPIOlis.cpp::cmdmtx" ref="_g_p_i_olis_8cpp.html#a4f14f0593fff5e3ca0491b3962e6544f" />
+      <keyword name="gpipinterrupt" id="GPIOlis.h::gpipinterrupt" ref="_g_p_i_olis_8h.html#a6715efeafc8103a65e244026d957b70b" />
+      <keyword name="main" id="main.cpp::main" ref="_rpi__end_2_rpi__end__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
+      <keyword name="main" id="main.cpp::main" ref="_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" />
+      <keyword name="order" id="window.cpp::order" ref="window_8cpp.html#a1b7ba51c7dba40b32bb78cc0fd8074ca" />
+      <keyword name="samplingrate" id="window.cpp::samplingrate" ref="window_8cpp.html#a072a980c304a396787f46c29aa3bd5f1" />
+      <keyword name="index" id="window.cpp::index" ref="window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0" />
+      <keyword name="sderprt" id="window.cpp::sderprt" ref="window_8cpp.html#a9c9ab370a04018e645c8edafbf2113f1" />
+      <keyword name="rscverprt" id="window.cpp::rscverprt" ref="window_8cpp.html#aa9a1e71de06461b110d2c761035de556" />
+      <keyword name="florigin" id="window.cpp::florigin" ref="window_8cpp.html#aa4d944473c2ce72052d24e8e4eaa96ce" />
+      <keyword name="flhp1" id="window.cpp::flhp1" ref="window_8cpp.html#a89274b7113af845f693045514ab79d06" />
+      <keyword name="flpower" id="window.cpp::flpower" ref="window_8cpp.html#a9cdc0952ddae0cb682503cc9b5bb8019" />
+      <keyword name="hp1" id="window.cpp::hp1" ref="window_8cpp.html#aedcba60e51029a554adc10c3097a6af8" />
+      <keyword name="rsPort" id="mainwindow.cpp::rsPort" ref="mainwindow_8cpp.html#a751e9208ccfadf03cebca9cdcf8bc8ef" />
+      <keyword name="Muscle Power Gaming: Get Flexing! \emoji joystick" id="Muscle Power Gaming: Get Flexing! \emoji joystick" ref="md__home_finlay__r_t_e_p1__r_e_a_d_m_e.html" />
+      <keyword name="ADS1115: ADDRESS PINS" id="ADS1115: ADDRESS PINS" ref="group__group1.html" />
+      <keyword name="ADS1015_ADDRESS" id="ads1115.h::ADS1015_ADDRESS" ref="ads1115_8h.html#gae55d158023984e8f0ddc80b58d5b30dc" />
+      <keyword name="ADS1115: POINTER REGISTER" id="ADS1115: POINTER REGISTER" ref="group__group2.html" />
+      <keyword name="ADS1015_REG_POINTER_CONVERT" id="ads1115.h::ADS1015_REG_POINTER_CONVERT" ref="ads1115_8h.html#ga0f462c806b353bd682fa3c2d67e66622" />
+      <keyword name="ADS1015_REG_POINTER_CONFIG" id="ads1115.h::ADS1015_REG_POINTER_CONFIG" ref="ads1115_8h.html#gab9abb781632542a0e7d8b058292f26b1" />
+      <keyword name="ADS1015_REG_POINTER_LOWTHRESH" id="ads1115.h::ADS1015_REG_POINTER_LOWTHRESH" ref="ads1115_8h.html#ga01582fe1e67b55686d35818696925480" />
+      <keyword name="ADS1015_REG_POINTER_HITHRESH" id="ads1115.h::ADS1015_REG_POINTER_HITHRESH" ref="ads1115_8h.html#ga89000549c6dfe50337c7962b7b3677cb" />
+      <keyword name="ADS1115: OPERATIONAL STATUS" id="ADS1115: OPERATIONAL STATUS" ref="group__group3.html" />
+      <keyword name="ADS1015_REG_CONFIG_OS_SINGLE" id="ads1115.h::ADS1015_REG_CONFIG_OS_SINGLE" ref="ads1115_8h.html#ga13f4550d061699b1cf4bd49520fc4a9c" />
+      <keyword name="ADS1015_REG_CONFIG_OS_BUSY" id="ads1115.h::ADS1015_REG_CONFIG_OS_BUSY" ref="ads1115_8h.html#gaab6ae96215401637a9435c030e1919a9" />
+      <keyword name="ADS1015_REG_CONFIG_OS_NOTBUSY" id="ads1115.h::ADS1015_REG_CONFIG_OS_NOTBUSY" ref="ads1115_8h.html#ga7744f0dffe0c80b9052a31b1f1d4d4d3" />
+      <keyword name="ADS1115: INPUT MULTIPLEXER CONFIGURATION" id="ADS1115: INPUT MULTIPLEXER CONFIGURATION" ref="group__group4.html" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_0_1" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_0_1" ref="ads1115_8h.html#ga7db34e6ba1050094aa2f5895594fa473" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_0_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_0_3" ref="ads1115_8h.html#ga467ee1de37d13577785e33fb6d67e93d" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_1_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_1_3" ref="ads1115_8h.html#ga59f246f973620f2d59f917187c9aeeb1" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_DIFF_2_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_DIFF_2_3" ref="ads1115_8h.html#ga438ac41e1655d0c8e10a62b36d803696" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_0" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_0" ref="ads1115_8h.html#ga95d034ea82362b3f6573492209aac4f2" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_1" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_1" ref="ads1115_8h.html#ga2db511c8817fda53e31b5d1f72601909" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_2" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_2" ref="ads1115_8h.html#gae31fb46fbe9801ae7bb9210e88b7162d" />
+      <keyword name="ADS1015_REG_CONFIG_MUX_SINGLE_3" id="ads1115.h::ADS1015_REG_CONFIG_MUX_SINGLE_3" ref="ads1115_8h.html#ga9cb6f8bf1d45341e508cece5bcbc7841" />
+      <keyword name="ADS1115: PROGRAMMABLE GAIN AMPLIFIER CONFIGURATION" id="ADS1115: PROGRAMMABLE GAIN AMPLIFIER CONFIGURATION" ref="group__group5.html" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_6_144V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_6_144V" ref="ads1115_8h.html#gab6fc5aa2e0ced7acd38dd5c30d2f6f29" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_4_096V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_4_096V" ref="ads1115_8h.html#ga6ed67863634add41314604de916b6ed6" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_2_048V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_2_048V" ref="ads1115_8h.html#ga871217d93b9a7614cd921d6aced54338" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_1_024V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_1_024V" ref="ads1115_8h.html#ga84b06e45d01519b8073dcb59dd46b4ac" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_0_512V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_0_512V" ref="ads1115_8h.html#gad6305868e7343c5d83f68acd45a0967f" />
+      <keyword name="ADS1015_REG_CONFIG_PGA_0_256V" id="ads1115.h::ADS1015_REG_CONFIG_PGA_0_256V" ref="ads1115_8h.html#ga7d41c826b50b0b019ddb02e8093287a1" />
+      <keyword name="ADS1115: DEVICE OPERATING MODE" id="ADS1115: DEVICE OPERATING MODE" ref="group__group6.html" />
+      <keyword name="ADS1015_REG_CONFIG_MODE_CONTIN" id="ads1115.h::ADS1015_REG_CONFIG_MODE_CONTIN" ref="ads1115_8h.html#gafbb1b96a1b61fae1301ed075330d3a20" />
+      <keyword name="ADS1015_REG_CONFIG_MODE_ENDCON" id="ads1115.h::ADS1015_REG_CONFIG_MODE_ENDCON" ref="ads1115_8h.html#ga20780c08ce2027ce7833f27e65d9bb9d" />
+      <keyword name="ADS1015_REG_CONFIG_MODE_SINGLE" id="ads1115.h::ADS1015_REG_CONFIG_MODE_SINGLE" ref="ads1115_8h.html#ga50168c1821f075b7296745be1d4d346f" />
+      <keyword name="ADS1115: DATA RATE" id="ADS1115: DATA RATE" ref="group__group7.html" />
+      <keyword name="ADS1115_REG_CONFIG_DR_8SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_8SPS" ref="ads1115_8h.html#gaff870cc204f306e3aae724e8231f8fdc" />
+      <keyword name="ADS1115_REG_CONFIG_DR_16SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_16SPS" ref="ads1115_8h.html#ga482e8bf3819885a814010acb4107f6e1" />
+      <keyword name="ADS1115_REG_CONFIG_DR_32SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_32SPS" ref="ads1115_8h.html#ga309e0ecf42b27c5a38126efa61f8a09f" />
+      <keyword name="ADS1115_REG_CONFIG_DR_64SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_64SPS" ref="ads1115_8h.html#ga0a53b32fa67a8d36b57f7aceda32efb9" />
+      <keyword name="ADS1115_REG_CONFIG_DR_128SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_128SPS" ref="ads1115_8h.html#ga4aff8d5b1b4ac9585952d26ca25385e6" />
+      <keyword name="ADS1115_REG_CONFIG_DR_250SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_250SPS" ref="ads1115_8h.html#gac533241f793b44ed72385f71dec1aa25" />
+      <keyword name="ADS1115_REG_CONFIG_DR_475SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_475SPS" ref="ads1115_8h.html#ga8eed720123d6bd52580826c2c9ad9e28" />
+      <keyword name="ADS1115_REG_CONFIG_DR_860SPS" id="ads1115.h::ADS1115_REG_CONFIG_DR_860SPS" ref="ads1115_8h.html#ga9308f41d4c2ff024bbd201efc3b7ff69" />
+      <keyword name="ADS1115: COMPARATOR MODE" id="ADS1115: COMPARATOR MODE" ref="group__group8.html" />
+      <keyword name="ADS1015_REG_CONFIG_CMODE_TRAD" id="ads1115.h::ADS1015_REG_CONFIG_CMODE_TRAD" ref="ads1115_8h.html#gafb5240325d7ec757ccad7b098a2b93c3" />
+      <keyword name="ADS1015_REG_CONFIG_CMODE_WINDOW" id="ads1115.h::ADS1015_REG_CONFIG_CMODE_WINDOW" ref="ads1115_8h.html#ga49d39ffb8fb66bdb877d0f2546137cce" />
+      <keyword name="ADS1115: COMPARATOR POLARITY" id="ADS1115: COMPARATOR POLARITY" ref="group__group9.html" />
+      <keyword name="ADS1015_REG_CONFIG_CPOL_ACTVLOW" id="ads1115.h::ADS1015_REG_CONFIG_CPOL_ACTVLOW" ref="ads1115_8h.html#ga775f732c7e97574b38858820b96cf771" />
+      <keyword name="ADS1015_REG_CONFIG_CPOL_ACTVHI" id="ads1115.h::ADS1015_REG_CONFIG_CPOL_ACTVHI" ref="ads1115_8h.html#ga81494a3f6eaf337f4132cc32bba9f28d" />
+      <keyword name="ADS1115: LATCHING COMPARATOR" id="ADS1115: LATCHING COMPARATOR" ref="group__group10.html" />
+      <keyword name="ADS1015_REG_CONFIG_CLAT_NONLAT" id="ads1115.h::ADS1015_REG_CONFIG_CLAT_NONLAT" ref="ads1115_8h.html#ga98757804761f1d945f4cf6ca40e30457" />
+      <keyword name="ADS1015_REG_CONFIG_CLAT_LATCH" id="ads1115.h::ADS1015_REG_CONFIG_CLAT_LATCH" ref="ads1115_8h.html#gaf7f9528dd1aee135afad4c44d771b9f6" />
+      <keyword name="ADS1115: COMPARATOR QUEUE AND DISABLE" id="ADS1115: COMPARATOR QUEUE AND DISABLE" ref="group__group11.html" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_1CONV" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_1CONV" ref="ads1115_8h.html#ga4889b7e8a019906eb7c2670ec2466917" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_2CONV" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_2CONV" ref="ads1115_8h.html#ga88a73e81b13059b1f4756cf5c8a342a3" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_4CONV" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_4CONV" ref="ads1115_8h.html#gad14f479d9c6f636631444de22dd7b133" />
+      <keyword name="ADS1015_REG_CONFIG_CQUE_NONE" id="ads1115.h::ADS1015_REG_CONFIG_CQUE_NONE" ref="ads1115_8h.html#gaa52ede69f39daf837bb2ebbe639dbef9" />
+      <keyword name="ADS1115: THRESHOLD REGISTERS" id="ADS1115: THRESHOLD REGISTERS" ref="group__group12.html" />
+      <keyword name="ADS1115_REG_THRESH_MSB_1" id="ads1115.h::ADS1115_REG_THRESH_MSB_1" ref="ads1115_8h.html#gacc3350d9056e6b44520992c3244ec45b" />
+      <keyword name="ADS1115_REG_THRESH_MSB_0" id="ads1115.h::ADS1115_REG_THRESH_MSB_0" ref="ads1115_8h.html#ga1a0131797adb1ee39337b6f9de55fa9e" />
+      <keyword name="ads1115" id="ads1115" ref="classads1115.html" />
+      <keyword name="readyread" id="ads1115::readyread" ref="classads1115.html#ae7c50fb698f1b87ba229929fc61f5e2f" />
+      <keyword name="ads1115" id="ads1115::ads1115" ref="classads1115.html#aeacdf3467cad67cd8a186ad43cbeee53" />
+      <keyword name="endads" id="ads1115::endads" ref="classads1115.html#a53a254dcd5d6d6ff6e787688c730ae4b" />
+      <keyword name="readsig" id="ads1115::readsig" ref="classads1115.html#a761c3ec573fc59956d7eca446841c18d" />
+      <keyword name="QObject" id="QObject::QObject" ref="qobject.html#QObject" />
+      <keyword name="~QObject" id="QObject::~QObject" ref="qobject.html#dtor.QObject" />
+      <keyword name="event" id="QObject::event" ref="qobject.html#event" />
+      <keyword name="eventFilter" id="QObject::eventFilter" ref="qobject.html#eventFilter" />
+      <keyword name="metaObject" id="QObject::metaObject" ref="qobject.html#metaObject" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="setObjectName" id="QObject::setObjectName" ref="qobject.html#objectName-prop" />
+      <keyword name="isWidgetType" id="QObject::isWidgetType" ref="qobject.html#isWidgetType" />
+      <keyword name="isWindowType" id="QObject::isWindowType" ref="qobject.html#isWindowType" />
+      <keyword name="signalsBlocked" id="QObject::signalsBlocked" ref="qobject.html#signalsBlocked" />
+      <keyword name="blockSignals" id="QObject::blockSignals" ref="qobject.html#blockSignals" />
+      <keyword name="thread" id="QObject::thread" ref="qobject.html#thread" />
+      <keyword name="moveToThread" id="QObject::moveToThread" ref="qobject.html#moveToThread" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer-1" />
+      <keyword name="killTimer" id="QObject::killTimer" ref="qobject.html#killTimer" />
+      <keyword name="findChild" id="QObject::findChild" ref="qobject.html#findChild" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-1" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-2" />
+      <keyword name="children" id="QObject::children" ref="qobject.html#children" />
+      <keyword name="setParent" id="QObject::setParent" ref="qobject.html#setParent" />
+      <keyword name="installEventFilter" id="QObject::installEventFilter" ref="qobject.html#installEventFilter" />
+      <keyword name="removeEventFilter" id="QObject::removeEventFilter" ref="qobject.html#removeEventFilter" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-3" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree-1" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo-1" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo" />
+      <keyword name="setProperty" id="QObject::setProperty" ref="qobject.html#setProperty" />
+      <keyword name="property" id="QObject::property" ref="qobject.html#property" />
+      <keyword name="dynamicPropertyNames" id="QObject::dynamicPropertyNames" ref="qobject.html#dynamicPropertyNames" />
+      <keyword name="destroyed" id="QObject::destroyed" ref="qobject.html#destroyed" />
+      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="qobject.html#objectNameChanged" />
+      <keyword name="parent" id="QObject::parent" ref="qobject.html#parent" />
+      <keyword name="inherits" id="QObject::inherits" ref="qobject.html#inherits" />
+      <keyword name="deleteLater" id="QObject::deleteLater" ref="qobject.html#deleteLater" />
+      <keyword name="fd" id="ads1115::fd" ref="classads1115.html#a3eac1506c2c00580e5563827d9dcd260" />
+      <keyword name="iicaddr" id="ads1115::iicaddr" ref="classads1115.html#a2cf1674f5b1f77bd4b5709702aec7244" />
+      <keyword name="tr" id="QObject::tr" ref="qobject.html#tr" />
+      <keyword name="trUtf8" id="QObject::trUtf8" ref="qobject.html#trUtf8" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-1" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-3" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-4" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-5" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-1" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-4" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-5" />
+      <keyword name="sender" id="QObject::sender" ref="qobject.html#sender" />
+      <keyword name="senderSignalIndex" id="QObject::senderSignalIndex" ref="qobject.html#senderSignalIndex" />
+      <keyword name="receivers" id="QObject::receivers" ref="qobject.html#receivers" />
+      <keyword name="isSignalConnected" id="QObject::isSignalConnected" ref="qobject.html#isSignalConnected" />
+      <keyword name="timerEvent" id="QObject::timerEvent" ref="qobject.html#timerEvent" />
+      <keyword name="childEvent" id="QObject::childEvent" ref="qobject.html#childEvent" />
+      <keyword name="customEvent" id="QObject::customEvent" ref="qobject.html#customEvent" />
+      <keyword name="connectNotify" id="QObject::connectNotify" ref="qobject.html#connectNotify" />
+      <keyword name="disconnectNotify" id="QObject::disconnectNotify" ref="qobject.html#disconnectNotify" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="GPIOlis" id="GPIOlis" ref="class_g_p_i_olis.html" />
+      <keyword name="ready" id="GPIOlis::ready" ref="class_g_p_i_olis.html#a1e658d32e43003c3612ba46bd99a1732" />
+      <keyword name="readyread" id="GPIOlis::readyread" ref="class_g_p_i_olis.html#ac36d3b9264536731e3458ed295666719" />
+      <keyword name="GPIOlis" id="GPIOlis::GPIOlis" ref="class_g_p_i_olis.html#a428a2f8c4b0bd64b769f1526c61c5dac" />
+      <keyword name="~GPIOlis" id="GPIOlis::~GPIOlis" ref="class_g_p_i_olis.html#a9095dfa3056b0f1c4026f6018f0f7ba7" />
+      <keyword name="interrupt" id="GPIOlis::interrupt" ref="class_g_p_i_olis.html#a844470403deaa7436a19b8aef29eac5b" />
+      <keyword name="quit" id="GPIOlis::quit" ref="class_g_p_i_olis.html#a06b2b0dbfd20843e43a5015c2c1cf829" />
+      <keyword name="QThread" id="QThread::QThread" ref="qthread.html#QThread" />
+      <keyword name="~QThread" id="QThread::~QThread" ref="qthread.html#dtor.QThread" />
+      <keyword name="setPriority" id="QThread::setPriority" ref="qthread.html#setPriority" />
+      <keyword name="priority" id="QThread::priority" ref="qthread.html#priority" />
+      <keyword name="isFinished" id="QThread::isFinished" ref="qthread.html#isFinished" />
+      <keyword name="isRunning" id="QThread::isRunning" ref="qthread.html#isRunning" />
+      <keyword name="requestInterruption" id="QThread::requestInterruption" ref="qthread.html#requestInterruption" />
+      <keyword name="isInterruptionRequested" id="QThread::isInterruptionRequested" ref="qthread.html#isInterruptionRequested" />
+      <keyword name="setStackSize" id="QThread::setStackSize" ref="qthread.html#setStackSize" />
+      <keyword name="stackSize" id="QThread::stackSize" ref="qthread.html#stackSize" />
+      <keyword name="exit" id="QThread::exit" ref="qthread.html#exit" />
+      <keyword name="eventDispatcher" id="QThread::eventDispatcher" ref="qthread.html#eventDispatcher" />
+      <keyword name="setEventDispatcher" id="QThread::setEventDispatcher" ref="qthread.html#setEventDispatcher" />
+      <keyword name="event" id="QThread::event" ref="qthread.html#event" />
+      <keyword name="loopLevel" id="QThread::loopLevel" ref="qthread.html#loopLevel" />
+      <keyword name="start" id="QThread::start" ref="qthread.html#start" />
+      <keyword name="terminate" id="QThread::terminate" ref="qthread.html#terminate" />
+      <keyword name="quit" id="QThread::quit" ref="qthread.html#quit" />
+      <keyword name="wait" id="QThread::wait" ref="qthread.html#wait" />
+      <keyword name="started" id="QThread::started" ref="qthread.html#started" />
+      <keyword name="finished" id="QThread::finished" ref="qthread.html#finished" />
+      <keyword name="QObject" id="QObject::QObject" ref="qobject.html#QObject" />
+      <keyword name="~QObject" id="QObject::~QObject" ref="qobject.html#dtor.QObject" />
+      <keyword name="eventFilter" id="QObject::eventFilter" ref="qobject.html#eventFilter" />
+      <keyword name="metaObject" id="QObject::metaObject" ref="qobject.html#metaObject" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="setObjectName" id="QObject::setObjectName" ref="qobject.html#objectName-prop" />
+      <keyword name="isWidgetType" id="QObject::isWidgetType" ref="qobject.html#isWidgetType" />
+      <keyword name="isWindowType" id="QObject::isWindowType" ref="qobject.html#isWindowType" />
+      <keyword name="signalsBlocked" id="QObject::signalsBlocked" ref="qobject.html#signalsBlocked" />
+      <keyword name="blockSignals" id="QObject::blockSignals" ref="qobject.html#blockSignals" />
+      <keyword name="thread" id="QObject::thread" ref="qobject.html#thread" />
+      <keyword name="moveToThread" id="QObject::moveToThread" ref="qobject.html#moveToThread" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer-1" />
+      <keyword name="killTimer" id="QObject::killTimer" ref="qobject.html#killTimer" />
+      <keyword name="findChild" id="QObject::findChild" ref="qobject.html#findChild" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-1" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-2" />
+      <keyword name="children" id="QObject::children" ref="qobject.html#children" />
+      <keyword name="setParent" id="QObject::setParent" ref="qobject.html#setParent" />
+      <keyword name="installEventFilter" id="QObject::installEventFilter" ref="qobject.html#installEventFilter" />
+      <keyword name="removeEventFilter" id="QObject::removeEventFilter" ref="qobject.html#removeEventFilter" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-3" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree-1" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo-1" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo" />
+      <keyword name="setProperty" id="QObject::setProperty" ref="qobject.html#setProperty" />
+      <keyword name="property" id="QObject::property" ref="qobject.html#property" />
+      <keyword name="dynamicPropertyNames" id="QObject::dynamicPropertyNames" ref="qobject.html#dynamicPropertyNames" />
+      <keyword name="destroyed" id="QObject::destroyed" ref="qobject.html#destroyed" />
+      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="qobject.html#objectNameChanged" />
+      <keyword name="parent" id="QObject::parent" ref="qobject.html#parent" />
+      <keyword name="inherits" id="QObject::inherits" ref="qobject.html#inherits" />
+      <keyword name="deleteLater" id="QObject::deleteLater" ref="qobject.html#deleteLater" />
+      <keyword name="count" id="GPIOlis::count" ref="class_g_p_i_olis.html#a81e5f98d39e2ae03bf0ab38466ad24bd" />
+      <keyword name="run" id="GPIOlis::run" ref="class_g_p_i_olis.html#a65d2d0d0faf0d9edc0b31ddb51e88d2b" />
+      <keyword name="exec" id="QThread::exec" ref="qthread.html#exec" />
+      <keyword name="sender" id="QObject::sender" ref="qobject.html#sender" />
+      <keyword name="senderSignalIndex" id="QObject::senderSignalIndex" ref="qobject.html#senderSignalIndex" />
+      <keyword name="receivers" id="QObject::receivers" ref="qobject.html#receivers" />
+      <keyword name="isSignalConnected" id="QObject::isSignalConnected" ref="qobject.html#isSignalConnected" />
+      <keyword name="timerEvent" id="QObject::timerEvent" ref="qobject.html#timerEvent" />
+      <keyword name="childEvent" id="QObject::childEvent" ref="qobject.html#childEvent" />
+      <keyword name="customEvent" id="QObject::customEvent" ref="qobject.html#customEvent" />
+      <keyword name="connectNotify" id="QObject::connectNotify" ref="qobject.html#connectNotify" />
+      <keyword name="disconnectNotify" id="QObject::disconnectNotify" ref="qobject.html#disconnectNotify" />
+      <keyword name="flag" id="GPIOlis::flag" ref="class_g_p_i_olis.html#ae86ee364670cfe22722a5d9f612e9aa4" />
+      <keyword name="ads1" id="GPIOlis::ads1" ref="class_g_p_i_olis.html#a4dd64eebb025a26b454d17176e70aaf8" />
+      <keyword name="currentThreadId" id="QThread::currentThreadId" ref="qthread.html#currentThreadId" />
+      <keyword name="currentThread" id="QThread::currentThread" ref="qthread.html#currentThread" />
+      <keyword name="idealThreadCount" id="QThread::idealThreadCount" ref="qthread.html#idealThreadCount" />
+      <keyword name="yieldCurrentThread" id="QThread::yieldCurrentThread" ref="qthread.html#yieldCurrentThread" />
+      <keyword name="sleep" id="QThread::sleep" ref="qthread.html#sleep" />
+      <keyword name="msleep" id="QThread::msleep" ref="qthread.html#msleep" />
+      <keyword name="usleep" id="QThread::usleep" ref="qthread.html#usleep" />
+      <keyword name="tr" id="QObject::tr" ref="qobject.html#tr" />
+      <keyword name="trUtf8" id="QObject::trUtf8" ref="qobject.html#trUtf8" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-1" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-3" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-4" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-5" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-1" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-4" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-5" />
+      <keyword name="setTerminationEnabled" id="QThread::setTerminationEnabled" ref="qthread.html#setTerminationEnabled" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="MainWindow" id="MainWindow" ref="class_main_window.html" />
+      <keyword name="refreshScore" id="MainWindow::refreshScore" ref="class_main_window.html#a154bcffa7153d04371f0832193108731" />
+      <keyword name="Position" id="MainWindow::Position" ref="class_main_window.html#ad7e9c58ba60e7219d5348a4403b805d0" />
+      <keyword name="receive" id="MainWindow::receive" ref="class_main_window.html#aa4a61b706dc1ac7eafed167da9fb6cc3" />
+      <keyword name="goal" id="MainWindow::goal" ref="class_main_window.html#a2f1a7f4643b4afc4d573ea439eb19f14" />
+      <keyword name="rfsh" id="MainWindow::rfsh" ref="class_main_window.html#a14f7506762b59058b9b2b04f754557e7" />
+      <keyword name="MainWindow" id="MainWindow::MainWindow" ref="class_main_window.html#a33775e00c8964ce95697f48cd6f7509b" />
+      <keyword name="~MainWindow" id="MainWindow::~MainWindow" ref="class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7" />
+      <keyword name="CpuP1Motion" id="MainWindow::CpuP1Motion" ref="class_main_window.html#ab191051a7cc5f050d2ef2cb09a7aee34" />
+      <keyword name="QMainWindow" id="QMainWindow::QMainWindow" ref="qmainwindow.html#QMainWindow" />
+      <keyword name="~QMainWindow" id="QMainWindow::~QMainWindow" ref="qmainwindow.html#dtor.QMainWindow" />
+      <keyword name="iconSize" id="QMainWindow::iconSize" ref="qmainwindow.html#iconSize-prop" />
+      <keyword name="setIconSize" id="QMainWindow::setIconSize" ref="qmainwindow.html#iconSize-prop" />
+      <keyword name="toolButtonStyle" id="QMainWindow::toolButtonStyle" ref="qmainwindow.html#toolButtonStyle-prop" />
+      <keyword name="setToolButtonStyle" id="QMainWindow::setToolButtonStyle" ref="qmainwindow.html#toolButtonStyle-prop" />
+      <keyword name="isAnimated" id="QMainWindow::isAnimated" ref="qmainwindow.html#animated-prop" />
+      <keyword name="isDockNestingEnabled" id="QMainWindow::isDockNestingEnabled" ref="qmainwindow.html#dockNestingEnabled-prop" />
+      <keyword name="documentMode" id="QMainWindow::documentMode" ref="qmainwindow.html#documentMode-prop" />
+      <keyword name="setDocumentMode" id="QMainWindow::setDocumentMode" ref="qmainwindow.html#documentMode-prop" />
+      <keyword name="tabShape" id="QMainWindow::tabShape" ref="qmainwindow.html#tabShape-prop" />
+      <keyword name="setTabShape" id="QMainWindow::setTabShape" ref="qmainwindow.html#tabShape-prop" />
+      <keyword name="tabPosition" id="QMainWindow::tabPosition" ref="qmainwindow.html#tabPosition" />
+      <keyword name="setTabPosition" id="QMainWindow::setTabPosition" ref="qmainwindow.html#setTabPosition" />
+      <keyword name="setDockOptions" id="QMainWindow::setDockOptions" ref="qmainwindow.html#dockOptions-prop" />
+      <keyword name="dockOptions" id="QMainWindow::dockOptions" ref="qmainwindow.html#dockOptions-prop" />
+      <keyword name="menuBar" id="QMainWindow::menuBar" ref="qmainwindow.html#menuBar" />
+      <keyword name="setMenuBar" id="QMainWindow::setMenuBar" ref="qmainwindow.html#setMenuBar" />
+      <keyword name="menuWidget" id="QMainWindow::menuWidget" ref="qmainwindow.html#menuWidget" />
+      <keyword name="setMenuWidget" id="QMainWindow::setMenuWidget" ref="qmainwindow.html#setMenuWidget" />
+      <keyword name="statusBar" id="QMainWindow::statusBar" ref="qmainwindow.html#statusBar" />
+      <keyword name="setStatusBar" id="QMainWindow::setStatusBar" ref="qmainwindow.html#setStatusBar" />
+      <keyword name="centralWidget" id="QMainWindow::centralWidget" ref="qmainwindow.html#centralWidget" />
+      <keyword name="setCentralWidget" id="QMainWindow::setCentralWidget" ref="qmainwindow.html#setCentralWidget" />
+      <keyword name="takeCentralWidget" id="QMainWindow::takeCentralWidget" ref="qmainwindow.html#takeCentralWidget" />
+      <keyword name="setCorner" id="QMainWindow::setCorner" ref="qmainwindow.html#setCorner" />
+      <keyword name="corner" id="QMainWindow::corner" ref="qmainwindow.html#corner" />
+      <keyword name="addToolBarBreak" id="QMainWindow::addToolBarBreak" ref="qmainwindow.html#addToolBarBreak" />
+      <keyword name="insertToolBarBreak" id="QMainWindow::insertToolBarBreak" ref="qmainwindow.html#insertToolBarBreak" />
+      <keyword name="addToolBar" id="QMainWindow::addToolBar" ref="qmainwindow.html#addToolBar" />
+      <keyword name="addToolBar" id="QMainWindow::addToolBar" ref="qmainwindow.html#addToolBar-1" />
+      <keyword name="addToolBar" id="QMainWindow::addToolBar" ref="qmainwindow.html#addToolBar-2" />
+      <keyword name="insertToolBar" id="QMainWindow::insertToolBar" ref="qmainwindow.html#insertToolBar" />
+      <keyword name="removeToolBar" id="QMainWindow::removeToolBar" ref="qmainwindow.html#removeToolBar" />
+      <keyword name="removeToolBarBreak" id="QMainWindow::removeToolBarBreak" ref="qmainwindow.html#removeToolBarBreak" />
+      <keyword name="unifiedTitleAndToolBarOnMac" id="QMainWindow::unifiedTitleAndToolBarOnMac" ref="qmainwindow.html#unifiedTitleAndToolBarOnMac-prop" />
+      <keyword name="toolBarArea" id="QMainWindow::toolBarArea" ref="qmainwindow.html#toolBarArea" />
+      <keyword name="toolBarBreak" id="QMainWindow::toolBarBreak" ref="qmainwindow.html#toolBarBreak" />
+      <keyword name="addDockWidget" id="QMainWindow::addDockWidget" ref="qmainwindow.html#addDockWidget" />
+      <keyword name="addDockWidget" id="QMainWindow::addDockWidget" ref="qmainwindow.html#addDockWidget-1" />
+      <keyword name="splitDockWidget" id="QMainWindow::splitDockWidget" ref="qmainwindow.html#splitDockWidget" />
+      <keyword name="tabifyDockWidget" id="QMainWindow::tabifyDockWidget" ref="qmainwindow.html#tabifyDockWidget" />
+      <keyword name="tabifiedDockWidgets" id="QMainWindow::tabifiedDockWidgets" ref="qmainwindow.html#tabifiedDockWidgets" />
+      <keyword name="removeDockWidget" id="QMainWindow::removeDockWidget" ref="qmainwindow.html#removeDockWidget" />
+      <keyword name="restoreDockWidget" id="QMainWindow::restoreDockWidget" ref="qmainwindow.html#restoreDockWidget" />
+      <keyword name="dockWidgetArea" id="QMainWindow::dockWidgetArea" ref="qmainwindow.html#dockWidgetArea" />
+      <keyword name="resizeDocks" id="QMainWindow::resizeDocks" ref="qmainwindow.html#resizeDocks" />
+      <keyword name="saveState" id="QMainWindow::saveState" ref="qmainwindow.html#saveState" />
+      <keyword name="restoreState" id="QMainWindow::restoreState" ref="qmainwindow.html#restoreState" />
+      <keyword name="createPopupMenu" id="QMainWindow::createPopupMenu" ref="qmainwindow.html#createPopupMenu" />
+      <keyword name="setAnimated" id="QMainWindow::setAnimated" ref="qmainwindow.html#animated-prop" />
+      <keyword name="setDockNestingEnabled" id="QMainWindow::setDockNestingEnabled" ref="qmainwindow.html#dockNestingEnabled-prop" />
+      <keyword name="setUnifiedTitleAndToolBarOnMac" id="QMainWindow::setUnifiedTitleAndToolBarOnMac" ref="qmainwindow.html#unifiedTitleAndToolBarOnMac-prop" />
+      <keyword name="iconSizeChanged" id="QMainWindow::iconSizeChanged" ref="qmainwindow.html#iconSizeChanged" />
+      <keyword name="toolButtonStyleChanged" id="QMainWindow::toolButtonStyleChanged" ref="qmainwindow.html#toolButtonStyleChanged" />
+      <keyword name="tabifiedDockWidgetActivated" id="QMainWindow::tabifiedDockWidgetActivated" ref="qmainwindow.html#tabifiedDockWidgetActivated" />
+      <keyword name="QWidget" id="QWidget::QWidget" ref="qwidget.html#QWidget" />
+      <keyword name="~QWidget" id="QWidget::~QWidget" ref="qwidget.html#dtor.QWidget" />
+      <keyword name="winId" id="QWidget::winId" ref="qwidget.html#winId" />
+      <keyword name="effectiveWinId" id="QWidget::effectiveWinId" ref="qwidget.html#effectiveWinId" />
+      <keyword name="style" id="QWidget::style" ref="qwidget.html#style" />
+      <keyword name="setStyle" id="QWidget::setStyle" ref="qwidget.html#setStyle" />
+      <keyword name="isTopLevel" id="QWidget::isTopLevel" ref="qwidget.html#isTopLevel" />
+      <keyword name="isWindow" id="QWidget::isWindow" ref="qwidget.html#isWindow" />
+      <keyword name="isModal" id="QWidget::isModal" ref="qwidget.html#modal-prop" />
+      <keyword name="windowModality" id="QWidget::windowModality" ref="qwidget.html#windowModality-prop" />
+      <keyword name="setWindowModality" id="QWidget::setWindowModality" ref="qwidget.html#windowModality-prop" />
+      <keyword name="isEnabled" id="QWidget::isEnabled" ref="qwidget.html#enabled-prop" />
+      <keyword name="isEnabledTo" id="QWidget::isEnabledTo" ref="qwidget.html#isEnabledTo" />
+      <keyword name="isEnabledToTLW" id="QWidget::isEnabledToTLW" ref="qwidget.html#isEnabledToTLW" />
+      <keyword name="setEnabled" id="QWidget::setEnabled" ref="qwidget.html#enabled-prop" />
+      <keyword name="setDisabled" id="QWidget::setDisabled" ref="qwidget.html#setDisabled" />
+      <keyword name="setWindowModified" id="QWidget::setWindowModified" ref="qwidget.html#windowModified-prop" />
+      <keyword name="frameGeometry" id="QWidget::frameGeometry" ref="qwidget.html#frameGeometry-prop" />
+      <keyword name="geometry" id="QWidget::geometry" ref="qwidget.html#geometry-prop" />
+      <keyword name="normalGeometry" id="QWidget::normalGeometry" ref="qwidget.html#normalGeometry-prop" />
+      <keyword name="x" id="QWidget::x" ref="qwidget.html#x-prop" />
+      <keyword name="y" id="QWidget::y" ref="qwidget.html#y-prop" />
+      <keyword name="pos" id="QWidget::pos" ref="qwidget.html#pos-prop" />
+      <keyword name="frameSize" id="QWidget::frameSize" ref="qwidget.html#frameSize-prop" />
+      <keyword name="size" id="QWidget::size" ref="qwidget.html#size-prop" />
+      <keyword name="width" id="QWidget::width" ref="qwidget.html#width-prop" />
+      <keyword name="height" id="QWidget::height" ref="qwidget.html#height-prop" />
+      <keyword name="rect" id="QWidget::rect" ref="qwidget.html#rect-prop" />
+      <keyword name="childrenRect" id="QWidget::childrenRect" ref="qwidget.html#childrenRect-prop" />
+      <keyword name="childrenRegion" id="QWidget::childrenRegion" ref="qwidget.html#childrenRegion-prop" />
+      <keyword name="minimumSize" id="QWidget::minimumSize" ref="qwidget.html#minimumSize-prop" />
+      <keyword name="maximumSize" id="QWidget::maximumSize" ref="qwidget.html#maximumSize-prop" />
+      <keyword name="minimumWidth" id="QWidget::minimumWidth" ref="qwidget.html#minimumWidth-prop" />
+      <keyword name="minimumHeight" id="QWidget::minimumHeight" ref="qwidget.html#minimumHeight-prop" />
+      <keyword name="maximumWidth" id="QWidget::maximumWidth" ref="qwidget.html#maximumWidth-prop" />
+      <keyword name="maximumHeight" id="QWidget::maximumHeight" ref="qwidget.html#maximumHeight-prop" />
+      <keyword name="setMinimumSize" id="QWidget::setMinimumSize" ref="qwidget.html#minimumSize-prop" />
+      <keyword name="setMinimumSize" id="QWidget::setMinimumSize" ref="qwidget.html#setMinimumSize-1" />
+      <keyword name="setMaximumSize" id="QWidget::setMaximumSize" ref="qwidget.html#maximumSize-prop" />
+      <keyword name="setMaximumSize" id="QWidget::setMaximumSize" ref="qwidget.html#setMaximumSize-1" />
+      <keyword name="setMinimumWidth" id="QWidget::setMinimumWidth" ref="qwidget.html#minimumWidth-prop" />
+      <keyword name="setMinimumHeight" id="QWidget::setMinimumHeight" ref="qwidget.html#minimumHeight-prop" />
+      <keyword name="setMaximumWidth" id="QWidget::setMaximumWidth" ref="qwidget.html#maximumWidth-prop" />
+      <keyword name="setMaximumHeight" id="QWidget::setMaximumHeight" ref="qwidget.html#maximumHeight-prop" />
+      <keyword name="setupUi" id="QWidget::setupUi" ref="qwidget.html#setupUi" />
+      <keyword name="sizeIncrement" id="QWidget::sizeIncrement" ref="qwidget.html#sizeIncrement-prop" />
+      <keyword name="setSizeIncrement" id="QWidget::setSizeIncrement" ref="qwidget.html#sizeIncrement-prop" />
+      <keyword name="setSizeIncrement" id="QWidget::setSizeIncrement" ref="qwidget.html#setSizeIncrement-1" />
+      <keyword name="baseSize" id="QWidget::baseSize" ref="qwidget.html#baseSize-prop" />
+      <keyword name="setBaseSize" id="QWidget::setBaseSize" ref="qwidget.html#baseSize-prop" />
+      <keyword name="setBaseSize" id="QWidget::setBaseSize" ref="qwidget.html#setBaseSize-1" />
+      <keyword name="setFixedSize" id="QWidget::setFixedSize" ref="qwidget.html#setFixedSize" />
+      <keyword name="setFixedSize" id="QWidget::setFixedSize" ref="qwidget.html#setFixedSize-1" />
+      <keyword name="setFixedWidth" id="QWidget::setFixedWidth" ref="qwidget.html#setFixedWidth" />
+      <keyword name="setFixedHeight" id="QWidget::setFixedHeight" ref="qwidget.html#setFixedHeight" />
+      <keyword name="mapToGlobal" id="QWidget::mapToGlobal" ref="qwidget.html#mapToGlobal" />
+      <keyword name="mapFromGlobal" id="QWidget::mapFromGlobal" ref="qwidget.html#mapFromGlobal" />
+      <keyword name="mapToParent" id="QWidget::mapToParent" ref="qwidget.html#mapToParent" />
+      <keyword name="mapFromParent" id="QWidget::mapFromParent" ref="qwidget.html#mapFromParent" />
+      <keyword name="mapTo" id="QWidget::mapTo" ref="qwidget.html#mapTo" />
+      <keyword name="mapFrom" id="QWidget::mapFrom" ref="qwidget.html#mapFrom" />
+      <keyword name="window" id="QWidget::window" ref="qwidget.html#window" />
+      <keyword name="nativeParentWidget" id="QWidget::nativeParentWidget" ref="qwidget.html#nativeParentWidget" />
+      <keyword name="topLevelWidget" id="QWidget::topLevelWidget" ref="qwidget.html#topLevelWidget" />
+      <keyword name="palette" id="QWidget::palette" ref="qwidget.html#palette-prop" />
+      <keyword name="setPalette" id="QWidget::setPalette" ref="qwidget.html#palette-prop" />
+      <keyword name="setBackgroundRole" id="QWidget::setBackgroundRole" ref="qwidget.html#setBackgroundRole" />
+      <keyword name="backgroundRole" id="QWidget::backgroundRole" ref="qwidget.html#backgroundRole" />
+      <keyword name="setForegroundRole" id="QWidget::setForegroundRole" ref="qwidget.html#setForegroundRole" />
+      <keyword name="foregroundRole" id="QWidget::foregroundRole" ref="qwidget.html#foregroundRole" />
+      <keyword name="font" id="QWidget::font" ref="qwidget.html#font-prop" />
+      <keyword name="setFont" id="QWidget::setFont" ref="qwidget.html#font-prop" />
+      <keyword name="fontMetrics" id="QWidget::fontMetrics" ref="qwidget.html#fontMetrics" />
+      <keyword name="fontInfo" id="QWidget::fontInfo" ref="qwidget.html#fontInfo" />
+      <keyword name="cursor" id="QWidget::cursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="setCursor" id="QWidget::setCursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="unsetCursor" id="QWidget::unsetCursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="setMouseTracking" id="QWidget::setMouseTracking" ref="qwidget.html#mouseTracking-prop" />
+      <keyword name="hasMouseTracking" id="QWidget::hasMouseTracking" ref="qwidget.html#mouseTracking-prop" />
+      <keyword name="underMouse" id="QWidget::underMouse" ref="qwidget.html#underMouse" />
+      <keyword name="setTabletTracking" id="QWidget::setTabletTracking" ref="qwidget.html#tabletTracking-prop" />
+      <keyword name="hasTabletTracking" id="QWidget::hasTabletTracking" ref="qwidget.html#tabletTracking-prop" />
+      <keyword name="setMask" id="QWidget::setMask" ref="qwidget.html#setMask" />
+      <keyword name="setMask" id="QWidget::setMask" ref="qwidget.html#setMask-1" />
+      <keyword name="mask" id="QWidget::mask" ref="qwidget.html#mask" />
+      <keyword name="clearMask" id="QWidget::clearMask" ref="qwidget.html#clearMask" />
+      <keyword name="render" id="QWidget::render" ref="qwidget.html#render" />
+      <keyword name="render" id="QWidget::render" ref="qwidget.html#render-1" />
+      <keyword name="grab" id="QWidget::grab" ref="qwidget.html#grab" />
+      <keyword name="graphicsEffect" id="QWidget::graphicsEffect" ref="qwidget.html#graphicsEffect" />
+      <keyword name="setGraphicsEffect" id="QWidget::setGraphicsEffect" ref="qwidget.html#setGraphicsEffect" />
+      <keyword name="grabGesture" id="QWidget::grabGesture" ref="qwidget.html#grabGesture" />
+      <keyword name="ungrabGesture" id="QWidget::ungrabGesture" ref="qwidget.html#ungrabGesture" />
+      <keyword name="setWindowTitle" id="QWidget::setWindowTitle" ref="qwidget.html#windowTitle-prop" />
+      <keyword name="setStyleSheet" id="QWidget::setStyleSheet" ref="qwidget.html#styleSheet-prop" />
+      <keyword name="styleSheet" id="QWidget::styleSheet" ref="qwidget.html#styleSheet-prop" />
+      <keyword name="windowTitle" id="QWidget::windowTitle" ref="qwidget.html#windowTitle-prop" />
+      <keyword name="setWindowIcon" id="QWidget::setWindowIcon" ref="qwidget.html#windowIcon-prop" />
+      <keyword name="windowIcon" id="QWidget::windowIcon" ref="qwidget.html#windowIcon-prop" />
+      <keyword name="setWindowIconText" id="QWidget::setWindowIconText" ref="qwidget.html#windowIconText-prop" />
+      <keyword name="windowIconText" id="QWidget::windowIconText" ref="qwidget.html#windowIconText-prop" />
+      <keyword name="setWindowRole" id="QWidget::setWindowRole" ref="qwidget.html#setWindowRole" />
+      <keyword name="windowRole" id="QWidget::windowRole" ref="qwidget.html#windowRole" />
+      <keyword name="setWindowFilePath" id="QWidget::setWindowFilePath" ref="qwidget.html#windowFilePath-prop" />
+      <keyword name="windowFilePath" id="QWidget::windowFilePath" ref="qwidget.html#windowFilePath-prop" />
+      <keyword name="setWindowOpacity" id="QWidget::setWindowOpacity" ref="qwidget.html#windowOpacity-prop" />
+      <keyword name="windowOpacity" id="QWidget::windowOpacity" ref="qwidget.html#windowOpacity-prop" />
+      <keyword name="isWindowModified" id="QWidget::isWindowModified" ref="qwidget.html#windowModified-prop" />
+      <keyword name="setToolTip" id="QWidget::setToolTip" ref="qwidget.html#toolTip-prop" />
+      <keyword name="toolTip" id="QWidget::toolTip" ref="qwidget.html#toolTip-prop" />
+      <keyword name="setToolTipDuration" id="QWidget::setToolTipDuration" ref="qwidget.html#toolTipDuration-prop" />
+      <keyword name="toolTipDuration" id="QWidget::toolTipDuration" ref="qwidget.html#toolTipDuration-prop" />
+      <keyword name="setStatusTip" id="QWidget::setStatusTip" ref="qwidget.html#statusTip-prop" />
+      <keyword name="statusTip" id="QWidget::statusTip" ref="qwidget.html#statusTip-prop" />
+      <keyword name="setWhatsThis" id="QWidget::setWhatsThis" ref="qwidget.html#whatsThis-prop" />
+      <keyword name="whatsThis" id="QWidget::whatsThis" ref="qwidget.html#whatsThis-prop" />
+      <keyword name="accessibleName" id="QWidget::accessibleName" ref="qwidget.html#accessibleName-prop" />
+      <keyword name="setAccessibleName" id="QWidget::setAccessibleName" ref="qwidget.html#accessibleName-prop" />
+      <keyword name="accessibleDescription" id="QWidget::accessibleDescription" ref="qwidget.html#accessibleDescription-prop" />
+      <keyword name="setAccessibleDescription" id="QWidget::setAccessibleDescription" ref="qwidget.html#accessibleDescription-prop" />
+      <keyword name="setLayoutDirection" id="QWidget::setLayoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="layoutDirection" id="QWidget::layoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="unsetLayoutDirection" id="QWidget::unsetLayoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="setLocale" id="QWidget::setLocale" ref="qwidget.html#locale-prop" />
+      <keyword name="locale" id="QWidget::locale" ref="qwidget.html#locale-prop" />
+      <keyword name="unsetLocale" id="QWidget::unsetLocale" ref="qwidget.html#locale-prop" />
+      <keyword name="setFocus" id="QWidget::setFocus" ref="qwidget.html#setFocus-1" />
+      <keyword name="isActiveWindow" id="QWidget::isActiveWindow" ref="qwidget.html#isActiveWindow-prop" />
+      <keyword name="activateWindow" id="QWidget::activateWindow" ref="qwidget.html#activateWindow" />
+      <keyword name="clearFocus" id="QWidget::clearFocus" ref="qwidget.html#clearFocus" />
+      <keyword name="setFocus" id="QWidget::setFocus" ref="qwidget.html#setFocus" />
+      <keyword name="focusPolicy" id="QWidget::focusPolicy" ref="qwidget.html#focusPolicy-prop" />
+      <keyword name="setFocusPolicy" id="QWidget::setFocusPolicy" ref="qwidget.html#focusPolicy-prop" />
+      <keyword name="hasFocus" id="QWidget::hasFocus" ref="qwidget.html#focus-prop" />
+      <keyword name="setFocusProxy" id="QWidget::setFocusProxy" ref="qwidget.html#setFocusProxy" />
+      <keyword name="focusProxy" id="QWidget::focusProxy" ref="qwidget.html#focusProxy" />
+      <keyword name="contextMenuPolicy" id="QWidget::contextMenuPolicy" ref="qwidget.html#contextMenuPolicy-prop" />
+      <keyword name="setContextMenuPolicy" id="QWidget::setContextMenuPolicy" ref="qwidget.html#contextMenuPolicy-prop" />
+      <keyword name="grabMouse" id="QWidget::grabMouse" ref="qwidget.html#grabMouse" />
+      <keyword name="grabMouse" id="QWidget::grabMouse" ref="qwidget.html#grabMouse-1" />
+      <keyword name="releaseMouse" id="QWidget::releaseMouse" ref="qwidget.html#releaseMouse" />
+      <keyword name="grabKeyboard" id="QWidget::grabKeyboard" ref="qwidget.html#grabKeyboard" />
+      <keyword name="releaseKeyboard" id="QWidget::releaseKeyboard" ref="qwidget.html#releaseKeyboard" />
+      <keyword name="grabShortcut" id="QWidget::grabShortcut" ref="qwidget.html#grabShortcut" />
+      <keyword name="releaseShortcut" id="QWidget::releaseShortcut" ref="qwidget.html#releaseShortcut" />
+      <keyword name="setShortcutEnabled" id="QWidget::setShortcutEnabled" ref="qwidget.html#setShortcutEnabled" />
+      <keyword name="setShortcutAutoRepeat" id="QWidget::setShortcutAutoRepeat" ref="qwidget.html#setShortcutAutoRepeat" />
+      <keyword name="updatesEnabled" id="QWidget::updatesEnabled" ref="qwidget.html#updatesEnabled-prop" />
+      <keyword name="setUpdatesEnabled" id="QWidget::setUpdatesEnabled" ref="qwidget.html#updatesEnabled-prop" />
+      <keyword name="graphicsProxyWidget" id="QWidget::graphicsProxyWidget" ref="qwidget.html#graphicsProxyWidget" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update-1" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update-2" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update-3" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint-1" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint-2" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint-3" />
+      <keyword name="setVisible" id="QWidget::setVisible" ref="qwidget.html#visible-prop" />
+      <keyword name="setHidden" id="QWidget::setHidden" ref="qwidget.html#setHidden" />
+      <keyword name="show" id="QWidget::show" ref="qwidget.html#show" />
+      <keyword name="hide" id="QWidget::hide" ref="qwidget.html#hide" />
+      <keyword name="showMinimized" id="QWidget::showMinimized" ref="qwidget.html#showMinimized" />
+      <keyword name="showMaximized" id="QWidget::showMaximized" ref="qwidget.html#showMaximized" />
+      <keyword name="showFullScreen" id="QWidget::showFullScreen" ref="qwidget.html#showFullScreen" />
+      <keyword name="showNormal" id="QWidget::showNormal" ref="qwidget.html#showNormal" />
+      <keyword name="close" id="QWidget::close" ref="qwidget.html#close" />
+      <keyword name="raise" id="QWidget::raise" ref="qwidget.html#raise" />
+      <keyword name="lower" id="QWidget::lower" ref="qwidget.html#lower" />
+      <keyword name="stackUnder" id="QWidget::stackUnder" ref="qwidget.html#stackUnder" />
+      <keyword name="move" id="QWidget::move" ref="qwidget.html#move-1" />
+      <keyword name="move" id="QWidget::move" ref="qwidget.html#pos-prop" />
+      <keyword name="resize" id="QWidget::resize" ref="qwidget.html#resize-1" />
+      <keyword name="resize" id="QWidget::resize" ref="qwidget.html#size-prop" />
+      <keyword name="setGeometry" id="QWidget::setGeometry" ref="qwidget.html#setGeometry-1" />
+      <keyword name="setGeometry" id="QWidget::setGeometry" ref="qwidget.html#geometry-prop" />
+      <keyword name="saveGeometry" id="QWidget::saveGeometry" ref="qwidget.html#saveGeometry" />
+      <keyword name="restoreGeometry" id="QWidget::restoreGeometry" ref="qwidget.html#restoreGeometry" />
+      <keyword name="adjustSize" id="QWidget::adjustSize" ref="qwidget.html#adjustSize" />
+      <keyword name="isVisible" id="QWidget::isVisible" ref="qwidget.html#visible-prop" />
+      <keyword name="isVisibleTo" id="QWidget::isVisibleTo" ref="qwidget.html#isVisibleTo" />
+      <keyword name="isHidden" id="QWidget::isHidden" ref="qwidget.html#isHidden" />
+      <keyword name="isMinimized" id="QWidget::isMinimized" ref="qwidget.html#minimized-prop" />
+      <keyword name="isMaximized" id="QWidget::isMaximized" ref="qwidget.html#maximized-prop" />
+      <keyword name="isFullScreen" id="QWidget::isFullScreen" ref="qwidget.html#fullScreen-prop" />
+      <keyword name="windowState" id="QWidget::windowState" ref="qwidget.html#windowState" />
+      <keyword name="setWindowState" id="QWidget::setWindowState" ref="qwidget.html#setWindowState" />
+      <keyword name="sizeHint" id="QWidget::sizeHint" ref="qwidget.html#sizeHint-prop" />
+      <keyword name="minimumSizeHint" id="QWidget::minimumSizeHint" ref="qwidget.html#minimumSizeHint-prop" />
+      <keyword name="sizePolicy" id="QWidget::sizePolicy" ref="qwidget.html#sizePolicy-prop" />
+      <keyword name="setSizePolicy" id="QWidget::setSizePolicy" ref="qwidget.html#sizePolicy-prop" />
+      <keyword name="setSizePolicy" id="QWidget::setSizePolicy" ref="qwidget.html#setSizePolicy-1" />
+      <keyword name="heightForWidth" id="QWidget::heightForWidth" ref="qwidget.html#heightForWidth" />
+      <keyword name="hasHeightForWidth" id="QWidget::hasHeightForWidth" ref="qwidget.html#hasHeightForWidth" />
+      <keyword name="visibleRegion" id="QWidget::visibleRegion" ref="qwidget.html#visibleRegion" />
+      <keyword name="setContentsMargins" id="QWidget::setContentsMargins" ref="qwidget.html#setContentsMargins" />
+      <keyword name="setContentsMargins" id="QWidget::setContentsMargins" ref="qwidget.html#setContentsMargins-1" />
+      <keyword name="getContentsMargins" id="QWidget::getContentsMargins" ref="qwidget.html#getContentsMargins" />
+      <keyword name="contentsMargins" id="QWidget::contentsMargins" ref="qwidget.html#contentsMargins" />
+      <keyword name="contentsRect" id="QWidget::contentsRect" ref="qwidget.html#contentsRect" />
+      <keyword name="layout" id="QWidget::layout" ref="qwidget.html#layout" />
+      <keyword name="setLayout" id="QWidget::setLayout" ref="qwidget.html#setLayout" />
+      <keyword name="updateGeometry" id="QWidget::updateGeometry" ref="qwidget.html#updateGeometry" />
+      <keyword name="setParent" id="QWidget::setParent" ref="qwidget.html#setParent" />
+      <keyword name="setParent" id="QWidget::setParent" ref="qwidget.html#setParent-1" />
+      <keyword name="scroll" id="QWidget::scroll" ref="qwidget.html#scroll" />
+      <keyword name="scroll" id="QWidget::scroll" ref="qwidget.html#scroll-1" />
+      <keyword name="focusWidget" id="QWidget::focusWidget" ref="qwidget.html#focusWidget" />
+      <keyword name="nextInFocusChain" id="QWidget::nextInFocusChain" ref="qwidget.html#nextInFocusChain" />
+      <keyword name="previousInFocusChain" id="QWidget::previousInFocusChain" ref="qwidget.html#previousInFocusChain" />
+      <keyword name="acceptDrops" id="QWidget::acceptDrops" ref="qwidget.html#acceptDrops-prop" />
+      <keyword name="setAcceptDrops" id="QWidget::setAcceptDrops" ref="qwidget.html#acceptDrops-prop" />
+      <keyword name="addAction" id="QWidget::addAction" ref="qwidget.html#addAction" />
+      <keyword name="addActions" id="QWidget::addActions" ref="qwidget.html#addActions" />
+      <keyword name="insertActions" id="QWidget::insertActions" ref="qwidget.html#insertActions" />
+      <keyword name="insertAction" id="QWidget::insertAction" ref="qwidget.html#insertAction" />
+      <keyword name="removeAction" id="QWidget::removeAction" ref="qwidget.html#removeAction" />
+      <keyword name="actions" id="QWidget::actions" ref="qwidget.html#actions" />
+      <keyword name="parentWidget" id="QWidget::parentWidget" ref="qwidget.html#parentWidget" />
+      <keyword name="setWindowFlags" id="QWidget::setWindowFlags" ref="qwidget.html#windowFlags-prop" />
+      <keyword name="windowFlags" id="QWidget::windowFlags" ref="qwidget.html#windowFlags-prop" />
+      <keyword name="setWindowFlag" id="QWidget::setWindowFlag" ref="qwidget.html#setWindowFlag" />
+      <keyword name="overrideWindowFlags" id="QWidget::overrideWindowFlags" ref="qwidget.html#overrideWindowFlags" />
+      <keyword name="windowType" id="QWidget::windowType" ref="qwidget.html#windowType" />
+      <keyword name="childAt" id="QWidget::childAt" ref="qwidget.html#childAt" />
+      <keyword name="childAt" id="QWidget::childAt" ref="qwidget.html#childAt-1" />
+      <keyword name="setAttribute" id="QWidget::setAttribute" ref="qwidget.html#setAttribute" />
+      <keyword name="testAttribute" id="QWidget::testAttribute" ref="qwidget.html#testAttribute" />
+      <keyword name="paintEngine" id="QWidget::paintEngine" ref="qwidget.html#paintEngine" />
+      <keyword name="ensurePolished" id="QWidget::ensurePolished" ref="qwidget.html#ensurePolished" />
+      <keyword name="isAncestorOf" id="QWidget::isAncestorOf" ref="qwidget.html#isAncestorOf" />
+      <keyword name="hasEditFocus" id="QWidget::hasEditFocus" ref="qwidget.html#hasEditFocus" />
+      <keyword name="setEditFocus" id="QWidget::setEditFocus" ref="qwidget.html#setEditFocus" />
+      <keyword name="autoFillBackground" id="QWidget::autoFillBackground" ref="qwidget.html#autoFillBackground-prop" />
+      <keyword name="setAutoFillBackground" id="QWidget::setAutoFillBackground" ref="qwidget.html#autoFillBackground-prop" />
+      <keyword name="backingStore" id="QWidget::backingStore" ref="qwidget.html#backingStore" />
+      <keyword name="windowHandle" id="QWidget::windowHandle" ref="qwidget.html#windowHandle" />
+      <keyword name="windowTitleChanged" id="QWidget::windowTitleChanged" ref="qwidget.html#windowTitleChanged" />
+      <keyword name="windowIconChanged" id="QWidget::windowIconChanged" ref="qwidget.html#windowIconChanged" />
+      <keyword name="windowIconTextChanged" id="QWidget::windowIconTextChanged" ref="qwidget.html#windowIconTextChanged" />
+      <keyword name="customContextMenuRequested" id="QWidget::customContextMenuRequested" ref="qwidget.html#customContextMenuRequested" />
+      <keyword name="inputMethodQuery" id="QWidget::inputMethodQuery" ref="qwidget.html#inputMethodQuery" />
+      <keyword name="inputMethodHints" id="QWidget::inputMethodHints" ref="qwidget.html#inputMethodHints-prop" />
+      <keyword name="setInputMethodHints" id="QWidget::setInputMethodHints" ref="qwidget.html#inputMethodHints-prop" />
+      <keyword name="QObject" id="QObject::QObject" ref="qobject.html#QObject" />
+      <keyword name="~QObject" id="QObject::~QObject" ref="qobject.html#dtor.QObject" />
+      <keyword name="eventFilter" id="QObject::eventFilter" ref="qobject.html#eventFilter" />
+      <keyword name="metaObject" id="QObject::metaObject" ref="qobject.html#metaObject" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="setObjectName" id="QObject::setObjectName" ref="qobject.html#objectName-prop" />
+      <keyword name="isWidgetType" id="QObject::isWidgetType" ref="qobject.html#isWidgetType" />
+      <keyword name="isWindowType" id="QObject::isWindowType" ref="qobject.html#isWindowType" />
+      <keyword name="signalsBlocked" id="QObject::signalsBlocked" ref="qobject.html#signalsBlocked" />
+      <keyword name="blockSignals" id="QObject::blockSignals" ref="qobject.html#blockSignals" />
+      <keyword name="thread" id="QObject::thread" ref="qobject.html#thread" />
+      <keyword name="moveToThread" id="QObject::moveToThread" ref="qobject.html#moveToThread" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer-1" />
+      <keyword name="killTimer" id="QObject::killTimer" ref="qobject.html#killTimer" />
+      <keyword name="findChild" id="QObject::findChild" ref="qobject.html#findChild" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-1" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-2" />
+      <keyword name="children" id="QObject::children" ref="qobject.html#children" />
+      <keyword name="setParent" id="QObject::setParent" ref="qobject.html#setParent" />
+      <keyword name="installEventFilter" id="QObject::installEventFilter" ref="qobject.html#installEventFilter" />
+      <keyword name="removeEventFilter" id="QObject::removeEventFilter" ref="qobject.html#removeEventFilter" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-3" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree-1" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo-1" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo" />
+      <keyword name="setProperty" id="QObject::setProperty" ref="qobject.html#setProperty" />
+      <keyword name="property" id="QObject::property" ref="qobject.html#property" />
+      <keyword name="dynamicPropertyNames" id="QObject::dynamicPropertyNames" ref="qobject.html#dynamicPropertyNames" />
+      <keyword name="destroyed" id="QObject::destroyed" ref="qobject.html#destroyed" />
+      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="qobject.html#objectNameChanged" />
+      <keyword name="parent" id="QObject::parent" ref="qobject.html#parent" />
+      <keyword name="inherits" id="QObject::inherits" ref="qobject.html#inherits" />
+      <keyword name="deleteLater" id="QObject::deleteLater" ref="qobject.html#deleteLater" />
+      <keyword name="~QPaintDevice" id="QPaintDevice::~QPaintDevice" ref="qpaintdevice.html#dtor.QPaintDevice" />
+      <keyword name="paintingActive" id="QPaintDevice::paintingActive" ref="qpaintdevice.html#paintingActive" />
+      <keyword name="width" id="QPaintDevice::width" ref="qpaintdevice.html#width" />
+      <keyword name="height" id="QPaintDevice::height" ref="qpaintdevice.html#height" />
+      <keyword name="widthMM" id="QPaintDevice::widthMM" ref="qpaintdevice.html#widthMM" />
+      <keyword name="heightMM" id="QPaintDevice::heightMM" ref="qpaintdevice.html#heightMM" />
+      <keyword name="logicalDpiX" id="QPaintDevice::logicalDpiX" ref="qpaintdevice.html#logicalDpiX" />
+      <keyword name="logicalDpiY" id="QPaintDevice::logicalDpiY" ref="qpaintdevice.html#logicalDpiY" />
+      <keyword name="physicalDpiX" id="QPaintDevice::physicalDpiX" ref="qpaintdevice.html#physicalDpiX" />
+      <keyword name="physicalDpiY" id="QPaintDevice::physicalDpiY" ref="qpaintdevice.html#physicalDpiY" />
+      <keyword name="devicePixelRatio" id="QPaintDevice::devicePixelRatio" ref="qpaintdevice.html#devicePixelRatio" />
+      <keyword name="devicePixelRatioF" id="QPaintDevice::devicePixelRatioF" ref="qpaintdevice.html#devicePixelRatioF" />
+      <keyword name="colorCount" id="QPaintDevice::colorCount" ref="qpaintdevice.html#colorCount" />
+      <keyword name="depth" id="QPaintDevice::depth" ref="qpaintdevice.html#depth" />
+      <keyword name="ui" id="MainWindow::ui" ref="class_main_window.html#a35466a70ed47252a0191168126a352a5" />
+      <keyword name="iScore" id="MainWindow::iScore" ref="class_main_window.html#ab666d1d050708e71196c963e1f1b8c10" />
+      <keyword name="iScene" id="MainWindow::iScene" ref="class_main_window.html#ac635937c03a5a7af86c1ad212c27a4eb" />
+      <keyword name="iP2" id="MainWindow::iP2" ref="class_main_window.html#a9a2efe9e5fd1003f44c1d77da6fc2717" />
+      <keyword name="iP1" id="MainWindow::iP1" ref="class_main_window.html#a32ae2ba16c3ef020cd23bc405faf6dc7" />
+      <keyword name="iBall" id="MainWindow::iBall" ref="class_main_window.html#ab7d9e890e4ec111fe09e02e840748196" />
+      <keyword name="iTimer" id="MainWindow::iTimer" ref="class_main_window.html#a6940eadea7e5a3348f27464404f50ec8" />
+      <keyword name="timer_measure" id="MainWindow::timer_measure" ref="class_main_window.html#a4db7d07416fcafa0d9e7a9291b64f842" />
+      <keyword name="iBallMotion" id="MainWindow::iBallMotion" ref="class_main_window.html#afdf01f0c6fdea31c1461f7e44b7edbef" />
+      <keyword name="iP2Motion" id="MainWindow::iP2Motion" ref="class_main_window.html#afc63533a2041d39ea4b6effe1cb71c7a" />
+      <keyword name="iP1Motion" id="MainWindow::iP1Motion" ref="class_main_window.html#a121ed236a48b89f3539f7fe59c9b4c37" />
+      <keyword name="Xprime" id="MainWindow::Xprime" ref="class_main_window.html#a05f46373bd9b7c48927c7caea6abdad8" />
+      <keyword name="Yprime" id="MainWindow::Yprime" ref="class_main_window.html#aa3243052c3f75d05e0695b4dda5c5201" />
+      <keyword name="P2Xprime" id="MainWindow::P2Xprime" ref="class_main_window.html#ad4fc744b75c4d35e52fb59fa82aa3178" />
+      <keyword name="P1Xprime" id="MainWindow::P1Xprime" ref="class_main_window.html#a7266f47cf9c4b85b27b5fcc10101ff91" />
+      <keyword name="rfshcount" id="MainWindow::rfshcount" ref="class_main_window.html#a725ff3891e2e0e053150bd685209b808" />
+      <keyword name="DockOptions" id="QMainWindow::DockOptions" ref="qmainwindow.html#DockOption-enum" />
+      <keyword name="RenderFlags" id="QWidget::RenderFlags" ref="qwidget.html#RenderFlag-enum" />
+      <keyword name="rsverSocket" id="MainWindow::rsverSocket" ref="class_main_window.html#ac5ecc9473d3a01f67cdf77de41f5057d" />
+      <keyword name="wdwidth" id="MainWindow::wdwidth" ref="class_main_window.html#a808fcf1fec443ec645b4377470fbdda8" />
+      <keyword name="wdheight" id="MainWindow::wdheight" ref="class_main_window.html#a4a5b3b6188f1a6b45c8ca2a18bf1f460" />
+      <keyword name="totalHeight" id="MainWindow::totalHeight" ref="class_main_window.html#ac30d3076a0577dd1c4fb9ca96cd7192a" />
+      <keyword name="totalWidth" id="MainWindow::totalWidth" ref="class_main_window.html#a96ba56ac81ca9d1d972e107b0c0398be" />
+      <keyword name="setTabOrder" id="QWidget::setTabOrder" ref="qwidget.html#setTabOrder" />
+      <keyword name="mouseGrabber" id="QWidget::mouseGrabber" ref="qwidget.html#mouseGrabber" />
+      <keyword name="keyboardGrabber" id="QWidget::keyboardGrabber" ref="qwidget.html#keyboardGrabber" />
+      <keyword name="find" id="QWidget::find" ref="qwidget.html#find" />
+      <keyword name="createWindowContainer" id="QWidget::createWindowContainer" ref="qwidget.html#createWindowContainer" />
+      <keyword name="tr" id="QObject::tr" ref="qobject.html#tr" />
+      <keyword name="trUtf8" id="QObject::trUtf8" ref="qobject.html#trUtf8" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-1" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-3" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-4" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-5" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-1" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-4" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-5" />
+      <keyword name="contextMenuEvent" id="QMainWindow::contextMenuEvent" ref="qmainwindow.html#contextMenuEvent" />
+      <keyword name="event" id="QMainWindow::event" ref="qmainwindow.html#event" />
+      <keyword name="mousePressEvent" id="QWidget::mousePressEvent" ref="qwidget.html#mousePressEvent" />
+      <keyword name="mouseReleaseEvent" id="QWidget::mouseReleaseEvent" ref="qwidget.html#mouseReleaseEvent" />
+      <keyword name="mouseDoubleClickEvent" id="QWidget::mouseDoubleClickEvent" ref="qwidget.html#mouseDoubleClickEvent" />
+      <keyword name="mouseMoveEvent" id="QWidget::mouseMoveEvent" ref="qwidget.html#mouseMoveEvent" />
+      <keyword name="wheelEvent" id="QWidget::wheelEvent" ref="qwidget.html#wheelEvent" />
+      <keyword name="keyPressEvent" id="QWidget::keyPressEvent" ref="qwidget.html#keyPressEvent" />
+      <keyword name="keyReleaseEvent" id="QWidget::keyReleaseEvent" ref="qwidget.html#keyReleaseEvent" />
+      <keyword name="focusInEvent" id="QWidget::focusInEvent" ref="qwidget.html#focusInEvent" />
+      <keyword name="focusOutEvent" id="QWidget::focusOutEvent" ref="qwidget.html#focusOutEvent" />
+      <keyword name="enterEvent" id="QWidget::enterEvent" ref="qwidget.html#enterEvent" />
+      <keyword name="leaveEvent" id="QWidget::leaveEvent" ref="qwidget.html#leaveEvent" />
+      <keyword name="paintEvent" id="QWidget::paintEvent" ref="qwidget.html#paintEvent" />
+      <keyword name="moveEvent" id="QWidget::moveEvent" ref="qwidget.html#moveEvent" />
+      <keyword name="resizeEvent" id="QWidget::resizeEvent" ref="qwidget.html#resizeEvent" />
+      <keyword name="closeEvent" id="QWidget::closeEvent" ref="qwidget.html#closeEvent" />
+      <keyword name="tabletEvent" id="QWidget::tabletEvent" ref="qwidget.html#tabletEvent" />
+      <keyword name="actionEvent" id="QWidget::actionEvent" ref="qwidget.html#actionEvent" />
+      <keyword name="dragEnterEvent" id="QWidget::dragEnterEvent" ref="qwidget.html#dragEnterEvent" />
+      <keyword name="dragMoveEvent" id="QWidget::dragMoveEvent" ref="qwidget.html#dragMoveEvent" />
+      <keyword name="dragLeaveEvent" id="QWidget::dragLeaveEvent" ref="qwidget.html#dragLeaveEvent" />
+      <keyword name="dropEvent" id="QWidget::dropEvent" ref="qwidget.html#dropEvent" />
+      <keyword name="showEvent" id="QWidget::showEvent" ref="qwidget.html#showEvent" />
+      <keyword name="hideEvent" id="QWidget::hideEvent" ref="qwidget.html#hideEvent" />
+      <keyword name="nativeEvent" id="QWidget::nativeEvent" ref="qwidget.html#nativeEvent" />
+      <keyword name="changeEvent" id="QWidget::changeEvent" ref="qwidget.html#changeEvent" />
+      <keyword name="metric" id="QWidget::metric" ref="qwidget.html#metric" />
+      <keyword name="initPainter" id="QWidget::initPainter" ref="qwidget.html#initPainter" />
+      <keyword name="inputMethodEvent" id="QWidget::inputMethodEvent" ref="qwidget.html#inputMethodEvent" />
+      <keyword name="updateMicroFocus" id="QWidget::updateMicroFocus" ref="qwidget.html#updateMicroFocus" />
+      <keyword name="create" id="QWidget::create" ref="qwidget.html#create" />
+      <keyword name="destroy" id="QWidget::destroy" ref="qwidget.html#destroy" />
+      <keyword name="focusNextPrevChild" id="QWidget::focusNextPrevChild" ref="qwidget.html#focusNextPrevChild" />
+      <keyword name="focusNextChild" id="QWidget::focusNextChild" ref="qwidget.html#focusNextChild" />
+      <keyword name="focusPreviousChild" id="QWidget::focusPreviousChild" ref="qwidget.html#focusPreviousChild" />
+      <keyword name="sender" id="QObject::sender" ref="qobject.html#sender" />
+      <keyword name="senderSignalIndex" id="QObject::senderSignalIndex" ref="qobject.html#senderSignalIndex" />
+      <keyword name="receivers" id="QObject::receivers" ref="qobject.html#receivers" />
+      <keyword name="isSignalConnected" id="QObject::isSignalConnected" ref="qobject.html#isSignalConnected" />
+      <keyword name="timerEvent" id="QObject::timerEvent" ref="qobject.html#timerEvent" />
+      <keyword name="childEvent" id="QObject::childEvent" ref="qobject.html#childEvent" />
+      <keyword name="customEvent" id="QObject::customEvent" ref="qobject.html#customEvent" />
+      <keyword name="connectNotify" id="QObject::connectNotify" ref="qobject.html#connectNotify" />
+      <keyword name="disconnectNotify" id="QObject::disconnectNotify" ref="qobject.html#disconnectNotify" />
+      <keyword name="QPaintDevice" id="QPaintDevice::QPaintDevice" ref="qpaintdevice.html#QPaintDevice" />
+      <keyword name="iconSize" id="QMainWindow::iconSize" ref="qmainwindow.html#iconSize-prop" />
+      <keyword name="toolButtonStyle" id="QMainWindow::toolButtonStyle" ref="qmainwindow.html#toolButtonStyle-prop" />
+      <keyword name="animated" id="QMainWindow::animated" ref="qmainwindow.html#animated-prop" />
+      <keyword name="documentMode" id="QMainWindow::documentMode" ref="qmainwindow.html#documentMode-prop" />
+      <keyword name="tabShape" id="QMainWindow::tabShape" ref="qmainwindow.html#tabShape-prop" />
+      <keyword name="dockNestingEnabled" id="QMainWindow::dockNestingEnabled" ref="qmainwindow.html#dockNestingEnabled-prop" />
+      <keyword name="dockOptions" id="QMainWindow::dockOptions" ref="qmainwindow.html#dockOptions-prop" />
+      <keyword name="unifiedTitleAndToolBarOnMac" id="QMainWindow::unifiedTitleAndToolBarOnMac" ref="qmainwindow.html#unifiedTitleAndToolBarOnMac-prop" />
+      <keyword name="modal" id="QWidget::modal" ref="qwidget.html#modal-prop" />
+      <keyword name="windowModality" id="QWidget::windowModality" ref="qwidget.html#windowModality-prop" />
+      <keyword name="enabled" id="QWidget::enabled" ref="qwidget.html#enabled-prop" />
+      <keyword name="geometry" id="QWidget::geometry" ref="qwidget.html#geometry-prop" />
+      <keyword name="frameGeometry" id="QWidget::frameGeometry" ref="qwidget.html#frameGeometry-prop" />
+      <keyword name="normalGeometry" id="QWidget::normalGeometry" ref="qwidget.html#normalGeometry-prop" />
+      <keyword name="x" id="QWidget::x" ref="qwidget.html#x-prop" />
+      <keyword name="y" id="QWidget::y" ref="qwidget.html#y-prop" />
+      <keyword name="pos" id="QWidget::pos" ref="qwidget.html#pos-prop" />
+      <keyword name="frameSize" id="QWidget::frameSize" ref="qwidget.html#frameSize-prop" />
+      <keyword name="size" id="QWidget::size" ref="qwidget.html#size-prop" />
+      <keyword name="width" id="QWidget::width" ref="qwidget.html#width-prop" />
+      <keyword name="height" id="QWidget::height" ref="qwidget.html#height-prop" />
+      <keyword name="rect" id="QWidget::rect" ref="qwidget.html#rect-prop" />
+      <keyword name="childrenRect" id="QWidget::childrenRect" ref="qwidget.html#childrenRect-prop" />
+      <keyword name="childrenRegion" id="QWidget::childrenRegion" ref="qwidget.html#childrenRegion-prop" />
+      <keyword name="sizePolicy" id="QWidget::sizePolicy" ref="qwidget.html#sizePolicy-prop" />
+      <keyword name="minimumSize" id="QWidget::minimumSize" ref="qwidget.html#minimumSize-prop" />
+      <keyword name="maximumSize" id="QWidget::maximumSize" ref="qwidget.html#maximumSize-prop" />
+      <keyword name="minimumWidth" id="QWidget::minimumWidth" ref="qwidget.html#minimumWidth-prop" />
+      <keyword name="minimumHeight" id="QWidget::minimumHeight" ref="qwidget.html#minimumHeight-prop" />
+      <keyword name="maximumWidth" id="QWidget::maximumWidth" ref="qwidget.html#maximumWidth-prop" />
+      <keyword name="maximumHeight" id="QWidget::maximumHeight" ref="qwidget.html#maximumHeight-prop" />
+      <keyword name="sizeIncrement" id="QWidget::sizeIncrement" ref="qwidget.html#sizeIncrement-prop" />
+      <keyword name="baseSize" id="QWidget::baseSize" ref="qwidget.html#baseSize-prop" />
+      <keyword name="palette" id="QWidget::palette" ref="qwidget.html#palette-prop" />
+      <keyword name="font" id="QWidget::font" ref="qwidget.html#font-prop" />
+      <keyword name="cursor" id="QWidget::cursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="mouseTracking" id="QWidget::mouseTracking" ref="qwidget.html#mouseTracking-prop" />
+      <keyword name="tabletTracking" id="QWidget::tabletTracking" ref="qwidget.html#tabletTracking-prop" />
+      <keyword name="isActiveWindow" id="QWidget::isActiveWindow" ref="qwidget.html#isActiveWindow-prop" />
+      <keyword name="focusPolicy" id="QWidget::focusPolicy" ref="qwidget.html#focusPolicy-prop" />
+      <keyword name="focus" id="QWidget::focus" ref="qwidget.html#focus-prop" />
+      <keyword name="contextMenuPolicy" id="QWidget::contextMenuPolicy" ref="qwidget.html#contextMenuPolicy-prop" />
+      <keyword name="updatesEnabled" id="QWidget::updatesEnabled" ref="qwidget.html#updatesEnabled-prop" />
+      <keyword name="visible" id="QWidget::visible" ref="qwidget.html#visible-prop" />
+      <keyword name="minimized" id="QWidget::minimized" ref="qwidget.html#minimized-prop" />
+      <keyword name="maximized" id="QWidget::maximized" ref="qwidget.html#maximized-prop" />
+      <keyword name="fullScreen" id="QWidget::fullScreen" ref="qwidget.html#fullScreen-prop" />
+      <keyword name="sizeHint" id="QWidget::sizeHint" ref="qwidget.html#sizeHint-prop" />
+      <keyword name="minimumSizeHint" id="QWidget::minimumSizeHint" ref="qwidget.html#minimumSizeHint-prop" />
+      <keyword name="acceptDrops" id="QWidget::acceptDrops" ref="qwidget.html#acceptDrops-prop" />
+      <keyword name="windowTitle" id="QWidget::windowTitle" ref="qwidget.html#windowTitle-prop" />
+      <keyword name="windowIcon" id="QWidget::windowIcon" ref="qwidget.html#windowIcon-prop" />
+      <keyword name="windowIconText" id="QWidget::windowIconText" ref="qwidget.html#windowIconText-prop" />
+      <keyword name="windowOpacity" id="QWidget::windowOpacity" ref="qwidget.html#windowOpacity-prop" />
+      <keyword name="windowModified" id="QWidget::windowModified" ref="qwidget.html#windowModified-prop" />
+      <keyword name="toolTip" id="QWidget::toolTip" ref="qwidget.html#toolTip-prop" />
+      <keyword name="toolTipDuration" id="QWidget::toolTipDuration" ref="qwidget.html#toolTipDuration-prop" />
+      <keyword name="statusTip" id="QWidget::statusTip" ref="qwidget.html#statusTip-prop" />
+      <keyword name="whatsThis" id="QWidget::whatsThis" ref="qwidget.html#whatsThis-prop" />
+      <keyword name="accessibleName" id="QWidget::accessibleName" ref="qwidget.html#accessibleName-prop" />
+      <keyword name="accessibleDescription" id="QWidget::accessibleDescription" ref="qwidget.html#accessibleDescription-prop" />
+      <keyword name="layoutDirection" id="QWidget::layoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="windowFlags" id="QWidget::windowFlags" ref="qwidget.html#windowFlags-prop" />
+      <keyword name="autoFillBackground" id="QWidget::autoFillBackground" ref="qwidget.html#autoFillBackground-prop" />
+      <keyword name="styleSheet" id="QWidget::styleSheet" ref="qwidget.html#styleSheet-prop" />
+      <keyword name="locale" id="QWidget::locale" ref="qwidget.html#locale-prop" />
+      <keyword name="windowFilePath" id="QWidget::windowFilePath" ref="qwidget.html#windowFilePath-prop" />
+      <keyword name="inputMethodHints" id="QWidget::inputMethodHints" ref="qwidget.html#inputMethodHints-prop" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="Window" id="Window" ref="class_window.html" />
+      <keyword name="datapros" id="Window::datapros" ref="class_window.html#aa0c78bd5a1a320ec6cf427e7441d9714" />
+      <keyword name="plotrefresh" id="Window::plotrefresh" ref="class_window.html#ad7445be21c77c9944b3dba2e146bb989" />
+      <keyword name="Window" id="Window::Window" ref="class_window.html#ab27fe44e0834066236f79f244b02f67e" />
+      <keyword name="~Window" id="Window::~Window" ref="class_window.html#a245d821e6016fa1f6970ccbbedd635f6" />
+      <keyword name="QWidget" id="QWidget::QWidget" ref="qwidget.html#QWidget" />
+      <keyword name="~QWidget" id="QWidget::~QWidget" ref="qwidget.html#dtor.QWidget" />
+      <keyword name="winId" id="QWidget::winId" ref="qwidget.html#winId" />
+      <keyword name="effectiveWinId" id="QWidget::effectiveWinId" ref="qwidget.html#effectiveWinId" />
+      <keyword name="style" id="QWidget::style" ref="qwidget.html#style" />
+      <keyword name="setStyle" id="QWidget::setStyle" ref="qwidget.html#setStyle" />
+      <keyword name="isTopLevel" id="QWidget::isTopLevel" ref="qwidget.html#isTopLevel" />
+      <keyword name="isWindow" id="QWidget::isWindow" ref="qwidget.html#isWindow" />
+      <keyword name="isModal" id="QWidget::isModal" ref="qwidget.html#modal-prop" />
+      <keyword name="windowModality" id="QWidget::windowModality" ref="qwidget.html#windowModality-prop" />
+      <keyword name="setWindowModality" id="QWidget::setWindowModality" ref="qwidget.html#windowModality-prop" />
+      <keyword name="isEnabled" id="QWidget::isEnabled" ref="qwidget.html#enabled-prop" />
+      <keyword name="isEnabledTo" id="QWidget::isEnabledTo" ref="qwidget.html#isEnabledTo" />
+      <keyword name="isEnabledToTLW" id="QWidget::isEnabledToTLW" ref="qwidget.html#isEnabledToTLW" />
+      <keyword name="setEnabled" id="QWidget::setEnabled" ref="qwidget.html#enabled-prop" />
+      <keyword name="setDisabled" id="QWidget::setDisabled" ref="qwidget.html#setDisabled" />
+      <keyword name="setWindowModified" id="QWidget::setWindowModified" ref="qwidget.html#windowModified-prop" />
+      <keyword name="frameGeometry" id="QWidget::frameGeometry" ref="qwidget.html#frameGeometry-prop" />
+      <keyword name="geometry" id="QWidget::geometry" ref="qwidget.html#geometry-prop" />
+      <keyword name="normalGeometry" id="QWidget::normalGeometry" ref="qwidget.html#normalGeometry-prop" />
+      <keyword name="x" id="QWidget::x" ref="qwidget.html#x-prop" />
+      <keyword name="y" id="QWidget::y" ref="qwidget.html#y-prop" />
+      <keyword name="pos" id="QWidget::pos" ref="qwidget.html#pos-prop" />
+      <keyword name="frameSize" id="QWidget::frameSize" ref="qwidget.html#frameSize-prop" />
+      <keyword name="size" id="QWidget::size" ref="qwidget.html#size-prop" />
+      <keyword name="width" id="QWidget::width" ref="qwidget.html#width-prop" />
+      <keyword name="height" id="QWidget::height" ref="qwidget.html#height-prop" />
+      <keyword name="rect" id="QWidget::rect" ref="qwidget.html#rect-prop" />
+      <keyword name="childrenRect" id="QWidget::childrenRect" ref="qwidget.html#childrenRect-prop" />
+      <keyword name="childrenRegion" id="QWidget::childrenRegion" ref="qwidget.html#childrenRegion-prop" />
+      <keyword name="minimumSize" id="QWidget::minimumSize" ref="qwidget.html#minimumSize-prop" />
+      <keyword name="maximumSize" id="QWidget::maximumSize" ref="qwidget.html#maximumSize-prop" />
+      <keyword name="minimumWidth" id="QWidget::minimumWidth" ref="qwidget.html#minimumWidth-prop" />
+      <keyword name="minimumHeight" id="QWidget::minimumHeight" ref="qwidget.html#minimumHeight-prop" />
+      <keyword name="maximumWidth" id="QWidget::maximumWidth" ref="qwidget.html#maximumWidth-prop" />
+      <keyword name="maximumHeight" id="QWidget::maximumHeight" ref="qwidget.html#maximumHeight-prop" />
+      <keyword name="setMinimumSize" id="QWidget::setMinimumSize" ref="qwidget.html#minimumSize-prop" />
+      <keyword name="setMinimumSize" id="QWidget::setMinimumSize" ref="qwidget.html#setMinimumSize-1" />
+      <keyword name="setMaximumSize" id="QWidget::setMaximumSize" ref="qwidget.html#maximumSize-prop" />
+      <keyword name="setMaximumSize" id="QWidget::setMaximumSize" ref="qwidget.html#setMaximumSize-1" />
+      <keyword name="setMinimumWidth" id="QWidget::setMinimumWidth" ref="qwidget.html#minimumWidth-prop" />
+      <keyword name="setMinimumHeight" id="QWidget::setMinimumHeight" ref="qwidget.html#minimumHeight-prop" />
+      <keyword name="setMaximumWidth" id="QWidget::setMaximumWidth" ref="qwidget.html#maximumWidth-prop" />
+      <keyword name="setMaximumHeight" id="QWidget::setMaximumHeight" ref="qwidget.html#maximumHeight-prop" />
+      <keyword name="setupUi" id="QWidget::setupUi" ref="qwidget.html#setupUi" />
+      <keyword name="sizeIncrement" id="QWidget::sizeIncrement" ref="qwidget.html#sizeIncrement-prop" />
+      <keyword name="setSizeIncrement" id="QWidget::setSizeIncrement" ref="qwidget.html#sizeIncrement-prop" />
+      <keyword name="setSizeIncrement" id="QWidget::setSizeIncrement" ref="qwidget.html#setSizeIncrement-1" />
+      <keyword name="baseSize" id="QWidget::baseSize" ref="qwidget.html#baseSize-prop" />
+      <keyword name="setBaseSize" id="QWidget::setBaseSize" ref="qwidget.html#baseSize-prop" />
+      <keyword name="setBaseSize" id="QWidget::setBaseSize" ref="qwidget.html#setBaseSize-1" />
+      <keyword name="setFixedSize" id="QWidget::setFixedSize" ref="qwidget.html#setFixedSize" />
+      <keyword name="setFixedSize" id="QWidget::setFixedSize" ref="qwidget.html#setFixedSize-1" />
+      <keyword name="setFixedWidth" id="QWidget::setFixedWidth" ref="qwidget.html#setFixedWidth" />
+      <keyword name="setFixedHeight" id="QWidget::setFixedHeight" ref="qwidget.html#setFixedHeight" />
+      <keyword name="mapToGlobal" id="QWidget::mapToGlobal" ref="qwidget.html#mapToGlobal" />
+      <keyword name="mapFromGlobal" id="QWidget::mapFromGlobal" ref="qwidget.html#mapFromGlobal" />
+      <keyword name="mapToParent" id="QWidget::mapToParent" ref="qwidget.html#mapToParent" />
+      <keyword name="mapFromParent" id="QWidget::mapFromParent" ref="qwidget.html#mapFromParent" />
+      <keyword name="mapTo" id="QWidget::mapTo" ref="qwidget.html#mapTo" />
+      <keyword name="mapFrom" id="QWidget::mapFrom" ref="qwidget.html#mapFrom" />
+      <keyword name="window" id="QWidget::window" ref="qwidget.html#window" />
+      <keyword name="nativeParentWidget" id="QWidget::nativeParentWidget" ref="qwidget.html#nativeParentWidget" />
+      <keyword name="topLevelWidget" id="QWidget::topLevelWidget" ref="qwidget.html#topLevelWidget" />
+      <keyword name="palette" id="QWidget::palette" ref="qwidget.html#palette-prop" />
+      <keyword name="setPalette" id="QWidget::setPalette" ref="qwidget.html#palette-prop" />
+      <keyword name="setBackgroundRole" id="QWidget::setBackgroundRole" ref="qwidget.html#setBackgroundRole" />
+      <keyword name="backgroundRole" id="QWidget::backgroundRole" ref="qwidget.html#backgroundRole" />
+      <keyword name="setForegroundRole" id="QWidget::setForegroundRole" ref="qwidget.html#setForegroundRole" />
+      <keyword name="foregroundRole" id="QWidget::foregroundRole" ref="qwidget.html#foregroundRole" />
+      <keyword name="font" id="QWidget::font" ref="qwidget.html#font-prop" />
+      <keyword name="setFont" id="QWidget::setFont" ref="qwidget.html#font-prop" />
+      <keyword name="fontMetrics" id="QWidget::fontMetrics" ref="qwidget.html#fontMetrics" />
+      <keyword name="fontInfo" id="QWidget::fontInfo" ref="qwidget.html#fontInfo" />
+      <keyword name="cursor" id="QWidget::cursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="setCursor" id="QWidget::setCursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="unsetCursor" id="QWidget::unsetCursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="setMouseTracking" id="QWidget::setMouseTracking" ref="qwidget.html#mouseTracking-prop" />
+      <keyword name="hasMouseTracking" id="QWidget::hasMouseTracking" ref="qwidget.html#mouseTracking-prop" />
+      <keyword name="underMouse" id="QWidget::underMouse" ref="qwidget.html#underMouse" />
+      <keyword name="setTabletTracking" id="QWidget::setTabletTracking" ref="qwidget.html#tabletTracking-prop" />
+      <keyword name="hasTabletTracking" id="QWidget::hasTabletTracking" ref="qwidget.html#tabletTracking-prop" />
+      <keyword name="setMask" id="QWidget::setMask" ref="qwidget.html#setMask" />
+      <keyword name="setMask" id="QWidget::setMask" ref="qwidget.html#setMask-1" />
+      <keyword name="mask" id="QWidget::mask" ref="qwidget.html#mask" />
+      <keyword name="clearMask" id="QWidget::clearMask" ref="qwidget.html#clearMask" />
+      <keyword name="render" id="QWidget::render" ref="qwidget.html#render" />
+      <keyword name="render" id="QWidget::render" ref="qwidget.html#render-1" />
+      <keyword name="grab" id="QWidget::grab" ref="qwidget.html#grab" />
+      <keyword name="graphicsEffect" id="QWidget::graphicsEffect" ref="qwidget.html#graphicsEffect" />
+      <keyword name="setGraphicsEffect" id="QWidget::setGraphicsEffect" ref="qwidget.html#setGraphicsEffect" />
+      <keyword name="grabGesture" id="QWidget::grabGesture" ref="qwidget.html#grabGesture" />
+      <keyword name="ungrabGesture" id="QWidget::ungrabGesture" ref="qwidget.html#ungrabGesture" />
+      <keyword name="setWindowTitle" id="QWidget::setWindowTitle" ref="qwidget.html#windowTitle-prop" />
+      <keyword name="setStyleSheet" id="QWidget::setStyleSheet" ref="qwidget.html#styleSheet-prop" />
+      <keyword name="styleSheet" id="QWidget::styleSheet" ref="qwidget.html#styleSheet-prop" />
+      <keyword name="windowTitle" id="QWidget::windowTitle" ref="qwidget.html#windowTitle-prop" />
+      <keyword name="setWindowIcon" id="QWidget::setWindowIcon" ref="qwidget.html#windowIcon-prop" />
+      <keyword name="windowIcon" id="QWidget::windowIcon" ref="qwidget.html#windowIcon-prop" />
+      <keyword name="setWindowIconText" id="QWidget::setWindowIconText" ref="qwidget.html#windowIconText-prop" />
+      <keyword name="windowIconText" id="QWidget::windowIconText" ref="qwidget.html#windowIconText-prop" />
+      <keyword name="setWindowRole" id="QWidget::setWindowRole" ref="qwidget.html#setWindowRole" />
+      <keyword name="windowRole" id="QWidget::windowRole" ref="qwidget.html#windowRole" />
+      <keyword name="setWindowFilePath" id="QWidget::setWindowFilePath" ref="qwidget.html#windowFilePath-prop" />
+      <keyword name="windowFilePath" id="QWidget::windowFilePath" ref="qwidget.html#windowFilePath-prop" />
+      <keyword name="setWindowOpacity" id="QWidget::setWindowOpacity" ref="qwidget.html#windowOpacity-prop" />
+      <keyword name="windowOpacity" id="QWidget::windowOpacity" ref="qwidget.html#windowOpacity-prop" />
+      <keyword name="isWindowModified" id="QWidget::isWindowModified" ref="qwidget.html#windowModified-prop" />
+      <keyword name="setToolTip" id="QWidget::setToolTip" ref="qwidget.html#toolTip-prop" />
+      <keyword name="toolTip" id="QWidget::toolTip" ref="qwidget.html#toolTip-prop" />
+      <keyword name="setToolTipDuration" id="QWidget::setToolTipDuration" ref="qwidget.html#toolTipDuration-prop" />
+      <keyword name="toolTipDuration" id="QWidget::toolTipDuration" ref="qwidget.html#toolTipDuration-prop" />
+      <keyword name="setStatusTip" id="QWidget::setStatusTip" ref="qwidget.html#statusTip-prop" />
+      <keyword name="statusTip" id="QWidget::statusTip" ref="qwidget.html#statusTip-prop" />
+      <keyword name="setWhatsThis" id="QWidget::setWhatsThis" ref="qwidget.html#whatsThis-prop" />
+      <keyword name="whatsThis" id="QWidget::whatsThis" ref="qwidget.html#whatsThis-prop" />
+      <keyword name="accessibleName" id="QWidget::accessibleName" ref="qwidget.html#accessibleName-prop" />
+      <keyword name="setAccessibleName" id="QWidget::setAccessibleName" ref="qwidget.html#accessibleName-prop" />
+      <keyword name="accessibleDescription" id="QWidget::accessibleDescription" ref="qwidget.html#accessibleDescription-prop" />
+      <keyword name="setAccessibleDescription" id="QWidget::setAccessibleDescription" ref="qwidget.html#accessibleDescription-prop" />
+      <keyword name="setLayoutDirection" id="QWidget::setLayoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="layoutDirection" id="QWidget::layoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="unsetLayoutDirection" id="QWidget::unsetLayoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="setLocale" id="QWidget::setLocale" ref="qwidget.html#locale-prop" />
+      <keyword name="locale" id="QWidget::locale" ref="qwidget.html#locale-prop" />
+      <keyword name="unsetLocale" id="QWidget::unsetLocale" ref="qwidget.html#locale-prop" />
+      <keyword name="setFocus" id="QWidget::setFocus" ref="qwidget.html#setFocus-1" />
+      <keyword name="isActiveWindow" id="QWidget::isActiveWindow" ref="qwidget.html#isActiveWindow-prop" />
+      <keyword name="activateWindow" id="QWidget::activateWindow" ref="qwidget.html#activateWindow" />
+      <keyword name="clearFocus" id="QWidget::clearFocus" ref="qwidget.html#clearFocus" />
+      <keyword name="setFocus" id="QWidget::setFocus" ref="qwidget.html#setFocus" />
+      <keyword name="focusPolicy" id="QWidget::focusPolicy" ref="qwidget.html#focusPolicy-prop" />
+      <keyword name="setFocusPolicy" id="QWidget::setFocusPolicy" ref="qwidget.html#focusPolicy-prop" />
+      <keyword name="hasFocus" id="QWidget::hasFocus" ref="qwidget.html#focus-prop" />
+      <keyword name="setFocusProxy" id="QWidget::setFocusProxy" ref="qwidget.html#setFocusProxy" />
+      <keyword name="focusProxy" id="QWidget::focusProxy" ref="qwidget.html#focusProxy" />
+      <keyword name="contextMenuPolicy" id="QWidget::contextMenuPolicy" ref="qwidget.html#contextMenuPolicy-prop" />
+      <keyword name="setContextMenuPolicy" id="QWidget::setContextMenuPolicy" ref="qwidget.html#contextMenuPolicy-prop" />
+      <keyword name="grabMouse" id="QWidget::grabMouse" ref="qwidget.html#grabMouse" />
+      <keyword name="grabMouse" id="QWidget::grabMouse" ref="qwidget.html#grabMouse-1" />
+      <keyword name="releaseMouse" id="QWidget::releaseMouse" ref="qwidget.html#releaseMouse" />
+      <keyword name="grabKeyboard" id="QWidget::grabKeyboard" ref="qwidget.html#grabKeyboard" />
+      <keyword name="releaseKeyboard" id="QWidget::releaseKeyboard" ref="qwidget.html#releaseKeyboard" />
+      <keyword name="grabShortcut" id="QWidget::grabShortcut" ref="qwidget.html#grabShortcut" />
+      <keyword name="releaseShortcut" id="QWidget::releaseShortcut" ref="qwidget.html#releaseShortcut" />
+      <keyword name="setShortcutEnabled" id="QWidget::setShortcutEnabled" ref="qwidget.html#setShortcutEnabled" />
+      <keyword name="setShortcutAutoRepeat" id="QWidget::setShortcutAutoRepeat" ref="qwidget.html#setShortcutAutoRepeat" />
+      <keyword name="updatesEnabled" id="QWidget::updatesEnabled" ref="qwidget.html#updatesEnabled-prop" />
+      <keyword name="setUpdatesEnabled" id="QWidget::setUpdatesEnabled" ref="qwidget.html#updatesEnabled-prop" />
+      <keyword name="graphicsProxyWidget" id="QWidget::graphicsProxyWidget" ref="qwidget.html#graphicsProxyWidget" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update-1" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update-2" />
+      <keyword name="update" id="QWidget::update" ref="qwidget.html#update-3" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint-1" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint-2" />
+      <keyword name="repaint" id="QWidget::repaint" ref="qwidget.html#repaint-3" />
+      <keyword name="setVisible" id="QWidget::setVisible" ref="qwidget.html#visible-prop" />
+      <keyword name="setHidden" id="QWidget::setHidden" ref="qwidget.html#setHidden" />
+      <keyword name="show" id="QWidget::show" ref="qwidget.html#show" />
+      <keyword name="hide" id="QWidget::hide" ref="qwidget.html#hide" />
+      <keyword name="showMinimized" id="QWidget::showMinimized" ref="qwidget.html#showMinimized" />
+      <keyword name="showMaximized" id="QWidget::showMaximized" ref="qwidget.html#showMaximized" />
+      <keyword name="showFullScreen" id="QWidget::showFullScreen" ref="qwidget.html#showFullScreen" />
+      <keyword name="showNormal" id="QWidget::showNormal" ref="qwidget.html#showNormal" />
+      <keyword name="close" id="QWidget::close" ref="qwidget.html#close" />
+      <keyword name="raise" id="QWidget::raise" ref="qwidget.html#raise" />
+      <keyword name="lower" id="QWidget::lower" ref="qwidget.html#lower" />
+      <keyword name="stackUnder" id="QWidget::stackUnder" ref="qwidget.html#stackUnder" />
+      <keyword name="move" id="QWidget::move" ref="qwidget.html#move-1" />
+      <keyword name="move" id="QWidget::move" ref="qwidget.html#pos-prop" />
+      <keyword name="resize" id="QWidget::resize" ref="qwidget.html#resize-1" />
+      <keyword name="resize" id="QWidget::resize" ref="qwidget.html#size-prop" />
+      <keyword name="setGeometry" id="QWidget::setGeometry" ref="qwidget.html#setGeometry-1" />
+      <keyword name="setGeometry" id="QWidget::setGeometry" ref="qwidget.html#geometry-prop" />
+      <keyword name="saveGeometry" id="QWidget::saveGeometry" ref="qwidget.html#saveGeometry" />
+      <keyword name="restoreGeometry" id="QWidget::restoreGeometry" ref="qwidget.html#restoreGeometry" />
+      <keyword name="adjustSize" id="QWidget::adjustSize" ref="qwidget.html#adjustSize" />
+      <keyword name="isVisible" id="QWidget::isVisible" ref="qwidget.html#visible-prop" />
+      <keyword name="isVisibleTo" id="QWidget::isVisibleTo" ref="qwidget.html#isVisibleTo" />
+      <keyword name="isHidden" id="QWidget::isHidden" ref="qwidget.html#isHidden" />
+      <keyword name="isMinimized" id="QWidget::isMinimized" ref="qwidget.html#minimized-prop" />
+      <keyword name="isMaximized" id="QWidget::isMaximized" ref="qwidget.html#maximized-prop" />
+      <keyword name="isFullScreen" id="QWidget::isFullScreen" ref="qwidget.html#fullScreen-prop" />
+      <keyword name="windowState" id="QWidget::windowState" ref="qwidget.html#windowState" />
+      <keyword name="setWindowState" id="QWidget::setWindowState" ref="qwidget.html#setWindowState" />
+      <keyword name="sizeHint" id="QWidget::sizeHint" ref="qwidget.html#sizeHint-prop" />
+      <keyword name="minimumSizeHint" id="QWidget::minimumSizeHint" ref="qwidget.html#minimumSizeHint-prop" />
+      <keyword name="sizePolicy" id="QWidget::sizePolicy" ref="qwidget.html#sizePolicy-prop" />
+      <keyword name="setSizePolicy" id="QWidget::setSizePolicy" ref="qwidget.html#sizePolicy-prop" />
+      <keyword name="setSizePolicy" id="QWidget::setSizePolicy" ref="qwidget.html#setSizePolicy-1" />
+      <keyword name="heightForWidth" id="QWidget::heightForWidth" ref="qwidget.html#heightForWidth" />
+      <keyword name="hasHeightForWidth" id="QWidget::hasHeightForWidth" ref="qwidget.html#hasHeightForWidth" />
+      <keyword name="visibleRegion" id="QWidget::visibleRegion" ref="qwidget.html#visibleRegion" />
+      <keyword name="setContentsMargins" id="QWidget::setContentsMargins" ref="qwidget.html#setContentsMargins" />
+      <keyword name="setContentsMargins" id="QWidget::setContentsMargins" ref="qwidget.html#setContentsMargins-1" />
+      <keyword name="getContentsMargins" id="QWidget::getContentsMargins" ref="qwidget.html#getContentsMargins" />
+      <keyword name="contentsMargins" id="QWidget::contentsMargins" ref="qwidget.html#contentsMargins" />
+      <keyword name="contentsRect" id="QWidget::contentsRect" ref="qwidget.html#contentsRect" />
+      <keyword name="layout" id="QWidget::layout" ref="qwidget.html#layout" />
+      <keyword name="setLayout" id="QWidget::setLayout" ref="qwidget.html#setLayout" />
+      <keyword name="updateGeometry" id="QWidget::updateGeometry" ref="qwidget.html#updateGeometry" />
+      <keyword name="setParent" id="QWidget::setParent" ref="qwidget.html#setParent" />
+      <keyword name="setParent" id="QWidget::setParent" ref="qwidget.html#setParent-1" />
+      <keyword name="scroll" id="QWidget::scroll" ref="qwidget.html#scroll" />
+      <keyword name="scroll" id="QWidget::scroll" ref="qwidget.html#scroll-1" />
+      <keyword name="focusWidget" id="QWidget::focusWidget" ref="qwidget.html#focusWidget" />
+      <keyword name="nextInFocusChain" id="QWidget::nextInFocusChain" ref="qwidget.html#nextInFocusChain" />
+      <keyword name="previousInFocusChain" id="QWidget::previousInFocusChain" ref="qwidget.html#previousInFocusChain" />
+      <keyword name="acceptDrops" id="QWidget::acceptDrops" ref="qwidget.html#acceptDrops-prop" />
+      <keyword name="setAcceptDrops" id="QWidget::setAcceptDrops" ref="qwidget.html#acceptDrops-prop" />
+      <keyword name="addAction" id="QWidget::addAction" ref="qwidget.html#addAction" />
+      <keyword name="addActions" id="QWidget::addActions" ref="qwidget.html#addActions" />
+      <keyword name="insertActions" id="QWidget::insertActions" ref="qwidget.html#insertActions" />
+      <keyword name="insertAction" id="QWidget::insertAction" ref="qwidget.html#insertAction" />
+      <keyword name="removeAction" id="QWidget::removeAction" ref="qwidget.html#removeAction" />
+      <keyword name="actions" id="QWidget::actions" ref="qwidget.html#actions" />
+      <keyword name="parentWidget" id="QWidget::parentWidget" ref="qwidget.html#parentWidget" />
+      <keyword name="setWindowFlags" id="QWidget::setWindowFlags" ref="qwidget.html#windowFlags-prop" />
+      <keyword name="windowFlags" id="QWidget::windowFlags" ref="qwidget.html#windowFlags-prop" />
+      <keyword name="setWindowFlag" id="QWidget::setWindowFlag" ref="qwidget.html#setWindowFlag" />
+      <keyword name="overrideWindowFlags" id="QWidget::overrideWindowFlags" ref="qwidget.html#overrideWindowFlags" />
+      <keyword name="windowType" id="QWidget::windowType" ref="qwidget.html#windowType" />
+      <keyword name="childAt" id="QWidget::childAt" ref="qwidget.html#childAt" />
+      <keyword name="childAt" id="QWidget::childAt" ref="qwidget.html#childAt-1" />
+      <keyword name="setAttribute" id="QWidget::setAttribute" ref="qwidget.html#setAttribute" />
+      <keyword name="testAttribute" id="QWidget::testAttribute" ref="qwidget.html#testAttribute" />
+      <keyword name="paintEngine" id="QWidget::paintEngine" ref="qwidget.html#paintEngine" />
+      <keyword name="ensurePolished" id="QWidget::ensurePolished" ref="qwidget.html#ensurePolished" />
+      <keyword name="isAncestorOf" id="QWidget::isAncestorOf" ref="qwidget.html#isAncestorOf" />
+      <keyword name="hasEditFocus" id="QWidget::hasEditFocus" ref="qwidget.html#hasEditFocus" />
+      <keyword name="setEditFocus" id="QWidget::setEditFocus" ref="qwidget.html#setEditFocus" />
+      <keyword name="autoFillBackground" id="QWidget::autoFillBackground" ref="qwidget.html#autoFillBackground-prop" />
+      <keyword name="setAutoFillBackground" id="QWidget::setAutoFillBackground" ref="qwidget.html#autoFillBackground-prop" />
+      <keyword name="backingStore" id="QWidget::backingStore" ref="qwidget.html#backingStore" />
+      <keyword name="windowHandle" id="QWidget::windowHandle" ref="qwidget.html#windowHandle" />
+      <keyword name="windowTitleChanged" id="QWidget::windowTitleChanged" ref="qwidget.html#windowTitleChanged" />
+      <keyword name="windowIconChanged" id="QWidget::windowIconChanged" ref="qwidget.html#windowIconChanged" />
+      <keyword name="windowIconTextChanged" id="QWidget::windowIconTextChanged" ref="qwidget.html#windowIconTextChanged" />
+      <keyword name="customContextMenuRequested" id="QWidget::customContextMenuRequested" ref="qwidget.html#customContextMenuRequested" />
+      <keyword name="inputMethodQuery" id="QWidget::inputMethodQuery" ref="qwidget.html#inputMethodQuery" />
+      <keyword name="inputMethodHints" id="QWidget::inputMethodHints" ref="qwidget.html#inputMethodHints-prop" />
+      <keyword name="setInputMethodHints" id="QWidget::setInputMethodHints" ref="qwidget.html#inputMethodHints-prop" />
+      <keyword name="QObject" id="QObject::QObject" ref="qobject.html#QObject" />
+      <keyword name="~QObject" id="QObject::~QObject" ref="qobject.html#dtor.QObject" />
+      <keyword name="eventFilter" id="QObject::eventFilter" ref="qobject.html#eventFilter" />
+      <keyword name="metaObject" id="QObject::metaObject" ref="qobject.html#metaObject" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="setObjectName" id="QObject::setObjectName" ref="qobject.html#objectName-prop" />
+      <keyword name="isWidgetType" id="QObject::isWidgetType" ref="qobject.html#isWidgetType" />
+      <keyword name="isWindowType" id="QObject::isWindowType" ref="qobject.html#isWindowType" />
+      <keyword name="signalsBlocked" id="QObject::signalsBlocked" ref="qobject.html#signalsBlocked" />
+      <keyword name="blockSignals" id="QObject::blockSignals" ref="qobject.html#blockSignals" />
+      <keyword name="thread" id="QObject::thread" ref="qobject.html#thread" />
+      <keyword name="moveToThread" id="QObject::moveToThread" ref="qobject.html#moveToThread" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer" />
+      <keyword name="startTimer" id="QObject::startTimer" ref="qobject.html#startTimer-1" />
+      <keyword name="killTimer" id="QObject::killTimer" ref="qobject.html#killTimer" />
+      <keyword name="findChild" id="QObject::findChild" ref="qobject.html#findChild" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-1" />
+      <keyword name="findChildren" id="QObject::findChildren" ref="qobject.html#findChildren-2" />
+      <keyword name="children" id="QObject::children" ref="qobject.html#children" />
+      <keyword name="setParent" id="QObject::setParent" ref="qobject.html#setParent" />
+      <keyword name="installEventFilter" id="QObject::installEventFilter" ref="qobject.html#installEventFilter" />
+      <keyword name="removeEventFilter" id="QObject::removeEventFilter" ref="qobject.html#removeEventFilter" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-2" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-3" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree-1" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo-1" />
+      <keyword name="dumpObjectTree" id="QObject::dumpObjectTree" ref="qobject.html#dumpObjectTree" />
+      <keyword name="dumpObjectInfo" id="QObject::dumpObjectInfo" ref="qobject.html#dumpObjectInfo" />
+      <keyword name="setProperty" id="QObject::setProperty" ref="qobject.html#setProperty" />
+      <keyword name="property" id="QObject::property" ref="qobject.html#property" />
+      <keyword name="dynamicPropertyNames" id="QObject::dynamicPropertyNames" ref="qobject.html#dynamicPropertyNames" />
+      <keyword name="destroyed" id="QObject::destroyed" ref="qobject.html#destroyed" />
+      <keyword name="objectNameChanged" id="QObject::objectNameChanged" ref="qobject.html#objectNameChanged" />
+      <keyword name="parent" id="QObject::parent" ref="qobject.html#parent" />
+      <keyword name="inherits" id="QObject::inherits" ref="qobject.html#inherits" />
+      <keyword name="deleteLater" id="QObject::deleteLater" ref="qobject.html#deleteLater" />
+      <keyword name="~QPaintDevice" id="QPaintDevice::~QPaintDevice" ref="qpaintdevice.html#dtor.QPaintDevice" />
+      <keyword name="paintingActive" id="QPaintDevice::paintingActive" ref="qpaintdevice.html#paintingActive" />
+      <keyword name="width" id="QPaintDevice::width" ref="qpaintdevice.html#width" />
+      <keyword name="height" id="QPaintDevice::height" ref="qpaintdevice.html#height" />
+      <keyword name="widthMM" id="QPaintDevice::widthMM" ref="qpaintdevice.html#widthMM" />
+      <keyword name="heightMM" id="QPaintDevice::heightMM" ref="qpaintdevice.html#heightMM" />
+      <keyword name="logicalDpiX" id="QPaintDevice::logicalDpiX" ref="qpaintdevice.html#logicalDpiX" />
+      <keyword name="logicalDpiY" id="QPaintDevice::logicalDpiY" ref="qpaintdevice.html#logicalDpiY" />
+      <keyword name="physicalDpiX" id="QPaintDevice::physicalDpiX" ref="qpaintdevice.html#physicalDpiX" />
+      <keyword name="physicalDpiY" id="QPaintDevice::physicalDpiY" ref="qpaintdevice.html#physicalDpiY" />
+      <keyword name="devicePixelRatio" id="QPaintDevice::devicePixelRatio" ref="qpaintdevice.html#devicePixelRatio" />
+      <keyword name="devicePixelRatioF" id="QPaintDevice::devicePixelRatioF" ref="qpaintdevice.html#devicePixelRatioF" />
+      <keyword name="colorCount" id="QPaintDevice::colorCount" ref="qpaintdevice.html#colorCount" />
+      <keyword name="depth" id="QPaintDevice::depth" ref="qpaintdevice.html#depth" />
+      <keyword name="sdersc" id="Window::sdersc" ref="class_window.html#ad0125c79705223e60f695c194166f312" />
+      <keyword name="gpiolis1" id="Window::gpiolis1" ref="class_window.html#a99a930e8fdf9c009aca0d1bed1bdcd8f" />
+      <keyword name="rftimer" id="Window::rftimer" ref="class_window.html#a703d58d30da77e83166ef37942ad8602" />
+      <keyword name="RenderFlags" id="QWidget::RenderFlags" ref="qwidget.html#RenderFlag-enum" />
+      <keyword name="plot1" id="Window::plot1" ref="class_window.html#ac930f3c9fd48aeb627204e7aeaf80573" />
+      <keyword name="plot2" id="Window::plot2" ref="class_window.html#a10bbc5d8730ee6c5bb4f4a956225533c" />
+      <keyword name="curve1" id="Window::curve1" ref="class_window.html#a112c8681462cb0339faf1b3a5e8d312c" />
+      <keyword name="curve2" id="Window::curve2" ref="class_window.html#ad6c1bf613b3e5a026fba544ed567a87b" />
+      <keyword name="hLayout" id="Window::hLayout" ref="class_window.html#a088e83054c444170282461344174f30b" />
+      <keyword name="xData1" id="Window::xData1" ref="class_window.html#a13ad2a2a6dd2fa6a8943e92fb08629a1" />
+      <keyword name="yData1" id="Window::yData1" ref="class_window.html#a9baba6757f9e1a5c25e2c8bcf291ad32" />
+      <keyword name="xData2" id="Window::xData2" ref="class_window.html#a7b0d44a397ca90add463e2093f4a1423" />
+      <keyword name="yData2" id="Window::yData2" ref="class_window.html#a25e229e2503d02a9904f56fb730d4744" />
+      <keyword name="xData3" id="Window::xData3" ref="class_window.html#a66e60e4413d120313000c1d744c904f1" />
+      <keyword name="yData3" id="Window::yData3" ref="class_window.html#a7f1854f46d87a6bfd6b53806be12ba1c" />
+      <keyword name="sumpower" id="Window::sumpower" ref="class_window.html#ab9f0f7ea3db5d4d0fa70c915590e4c72" />
+      <keyword name="plotDataSize" id="Window::plotDataSize" ref="class_window.html#a9908e75f132d5ac3f23b4ff9a4832c63" />
+      <keyword name="setTabOrder" id="QWidget::setTabOrder" ref="qwidget.html#setTabOrder" />
+      <keyword name="mouseGrabber" id="QWidget::mouseGrabber" ref="qwidget.html#mouseGrabber" />
+      <keyword name="keyboardGrabber" id="QWidget::keyboardGrabber" ref="qwidget.html#keyboardGrabber" />
+      <keyword name="find" id="QWidget::find" ref="qwidget.html#find" />
+      <keyword name="createWindowContainer" id="QWidget::createWindowContainer" ref="qwidget.html#createWindowContainer" />
+      <keyword name="tr" id="QObject::tr" ref="qobject.html#tr" />
+      <keyword name="trUtf8" id="QObject::trUtf8" ref="qobject.html#trUtf8" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-1" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-3" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-4" />
+      <keyword name="connect" id="QObject::connect" ref="qobject.html#connect-5" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-1" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-4" />
+      <keyword name="disconnect" id="QObject::disconnect" ref="qobject.html#disconnect-5" />
+      <keyword name="event" id="QWidget::event" ref="qwidget.html#event" />
+      <keyword name="mousePressEvent" id="QWidget::mousePressEvent" ref="qwidget.html#mousePressEvent" />
+      <keyword name="mouseReleaseEvent" id="QWidget::mouseReleaseEvent" ref="qwidget.html#mouseReleaseEvent" />
+      <keyword name="mouseDoubleClickEvent" id="QWidget::mouseDoubleClickEvent" ref="qwidget.html#mouseDoubleClickEvent" />
+      <keyword name="mouseMoveEvent" id="QWidget::mouseMoveEvent" ref="qwidget.html#mouseMoveEvent" />
+      <keyword name="wheelEvent" id="QWidget::wheelEvent" ref="qwidget.html#wheelEvent" />
+      <keyword name="keyPressEvent" id="QWidget::keyPressEvent" ref="qwidget.html#keyPressEvent" />
+      <keyword name="keyReleaseEvent" id="QWidget::keyReleaseEvent" ref="qwidget.html#keyReleaseEvent" />
+      <keyword name="focusInEvent" id="QWidget::focusInEvent" ref="qwidget.html#focusInEvent" />
+      <keyword name="focusOutEvent" id="QWidget::focusOutEvent" ref="qwidget.html#focusOutEvent" />
+      <keyword name="enterEvent" id="QWidget::enterEvent" ref="qwidget.html#enterEvent" />
+      <keyword name="leaveEvent" id="QWidget::leaveEvent" ref="qwidget.html#leaveEvent" />
+      <keyword name="paintEvent" id="QWidget::paintEvent" ref="qwidget.html#paintEvent" />
+      <keyword name="moveEvent" id="QWidget::moveEvent" ref="qwidget.html#moveEvent" />
+      <keyword name="resizeEvent" id="QWidget::resizeEvent" ref="qwidget.html#resizeEvent" />
+      <keyword name="closeEvent" id="QWidget::closeEvent" ref="qwidget.html#closeEvent" />
+      <keyword name="contextMenuEvent" id="QWidget::contextMenuEvent" ref="qwidget.html#contextMenuEvent" />
+      <keyword name="tabletEvent" id="QWidget::tabletEvent" ref="qwidget.html#tabletEvent" />
+      <keyword name="actionEvent" id="QWidget::actionEvent" ref="qwidget.html#actionEvent" />
+      <keyword name="dragEnterEvent" id="QWidget::dragEnterEvent" ref="qwidget.html#dragEnterEvent" />
+      <keyword name="dragMoveEvent" id="QWidget::dragMoveEvent" ref="qwidget.html#dragMoveEvent" />
+      <keyword name="dragLeaveEvent" id="QWidget::dragLeaveEvent" ref="qwidget.html#dragLeaveEvent" />
+      <keyword name="dropEvent" id="QWidget::dropEvent" ref="qwidget.html#dropEvent" />
+      <keyword name="showEvent" id="QWidget::showEvent" ref="qwidget.html#showEvent" />
+      <keyword name="hideEvent" id="QWidget::hideEvent" ref="qwidget.html#hideEvent" />
+      <keyword name="nativeEvent" id="QWidget::nativeEvent" ref="qwidget.html#nativeEvent" />
+      <keyword name="changeEvent" id="QWidget::changeEvent" ref="qwidget.html#changeEvent" />
+      <keyword name="metric" id="QWidget::metric" ref="qwidget.html#metric" />
+      <keyword name="initPainter" id="QWidget::initPainter" ref="qwidget.html#initPainter" />
+      <keyword name="inputMethodEvent" id="QWidget::inputMethodEvent" ref="qwidget.html#inputMethodEvent" />
+      <keyword name="updateMicroFocus" id="QWidget::updateMicroFocus" ref="qwidget.html#updateMicroFocus" />
+      <keyword name="create" id="QWidget::create" ref="qwidget.html#create" />
+      <keyword name="destroy" id="QWidget::destroy" ref="qwidget.html#destroy" />
+      <keyword name="focusNextPrevChild" id="QWidget::focusNextPrevChild" ref="qwidget.html#focusNextPrevChild" />
+      <keyword name="focusNextChild" id="QWidget::focusNextChild" ref="qwidget.html#focusNextChild" />
+      <keyword name="focusPreviousChild" id="QWidget::focusPreviousChild" ref="qwidget.html#focusPreviousChild" />
+      <keyword name="sender" id="QObject::sender" ref="qobject.html#sender" />
+      <keyword name="senderSignalIndex" id="QObject::senderSignalIndex" ref="qobject.html#senderSignalIndex" />
+      <keyword name="receivers" id="QObject::receivers" ref="qobject.html#receivers" />
+      <keyword name="isSignalConnected" id="QObject::isSignalConnected" ref="qobject.html#isSignalConnected" />
+      <keyword name="timerEvent" id="QObject::timerEvent" ref="qobject.html#timerEvent" />
+      <keyword name="childEvent" id="QObject::childEvent" ref="qobject.html#childEvent" />
+      <keyword name="customEvent" id="QObject::customEvent" ref="qobject.html#customEvent" />
+      <keyword name="connectNotify" id="QObject::connectNotify" ref="qobject.html#connectNotify" />
+      <keyword name="disconnectNotify" id="QObject::disconnectNotify" ref="qobject.html#disconnectNotify" />
+      <keyword name="QPaintDevice" id="QPaintDevice::QPaintDevice" ref="qpaintdevice.html#QPaintDevice" />
+      <keyword name="modal" id="QWidget::modal" ref="qwidget.html#modal-prop" />
+      <keyword name="windowModality" id="QWidget::windowModality" ref="qwidget.html#windowModality-prop" />
+      <keyword name="enabled" id="QWidget::enabled" ref="qwidget.html#enabled-prop" />
+      <keyword name="geometry" id="QWidget::geometry" ref="qwidget.html#geometry-prop" />
+      <keyword name="frameGeometry" id="QWidget::frameGeometry" ref="qwidget.html#frameGeometry-prop" />
+      <keyword name="normalGeometry" id="QWidget::normalGeometry" ref="qwidget.html#normalGeometry-prop" />
+      <keyword name="x" id="QWidget::x" ref="qwidget.html#x-prop" />
+      <keyword name="y" id="QWidget::y" ref="qwidget.html#y-prop" />
+      <keyword name="pos" id="QWidget::pos" ref="qwidget.html#pos-prop" />
+      <keyword name="frameSize" id="QWidget::frameSize" ref="qwidget.html#frameSize-prop" />
+      <keyword name="size" id="QWidget::size" ref="qwidget.html#size-prop" />
+      <keyword name="width" id="QWidget::width" ref="qwidget.html#width-prop" />
+      <keyword name="height" id="QWidget::height" ref="qwidget.html#height-prop" />
+      <keyword name="rect" id="QWidget::rect" ref="qwidget.html#rect-prop" />
+      <keyword name="childrenRect" id="QWidget::childrenRect" ref="qwidget.html#childrenRect-prop" />
+      <keyword name="childrenRegion" id="QWidget::childrenRegion" ref="qwidget.html#childrenRegion-prop" />
+      <keyword name="sizePolicy" id="QWidget::sizePolicy" ref="qwidget.html#sizePolicy-prop" />
+      <keyword name="minimumSize" id="QWidget::minimumSize" ref="qwidget.html#minimumSize-prop" />
+      <keyword name="maximumSize" id="QWidget::maximumSize" ref="qwidget.html#maximumSize-prop" />
+      <keyword name="minimumWidth" id="QWidget::minimumWidth" ref="qwidget.html#minimumWidth-prop" />
+      <keyword name="minimumHeight" id="QWidget::minimumHeight" ref="qwidget.html#minimumHeight-prop" />
+      <keyword name="maximumWidth" id="QWidget::maximumWidth" ref="qwidget.html#maximumWidth-prop" />
+      <keyword name="maximumHeight" id="QWidget::maximumHeight" ref="qwidget.html#maximumHeight-prop" />
+      <keyword name="sizeIncrement" id="QWidget::sizeIncrement" ref="qwidget.html#sizeIncrement-prop" />
+      <keyword name="baseSize" id="QWidget::baseSize" ref="qwidget.html#baseSize-prop" />
+      <keyword name="palette" id="QWidget::palette" ref="qwidget.html#palette-prop" />
+      <keyword name="font" id="QWidget::font" ref="qwidget.html#font-prop" />
+      <keyword name="cursor" id="QWidget::cursor" ref="qwidget.html#cursor-prop" />
+      <keyword name="mouseTracking" id="QWidget::mouseTracking" ref="qwidget.html#mouseTracking-prop" />
+      <keyword name="tabletTracking" id="QWidget::tabletTracking" ref="qwidget.html#tabletTracking-prop" />
+      <keyword name="isActiveWindow" id="QWidget::isActiveWindow" ref="qwidget.html#isActiveWindow-prop" />
+      <keyword name="focusPolicy" id="QWidget::focusPolicy" ref="qwidget.html#focusPolicy-prop" />
+      <keyword name="focus" id="QWidget::focus" ref="qwidget.html#focus-prop" />
+      <keyword name="contextMenuPolicy" id="QWidget::contextMenuPolicy" ref="qwidget.html#contextMenuPolicy-prop" />
+      <keyword name="updatesEnabled" id="QWidget::updatesEnabled" ref="qwidget.html#updatesEnabled-prop" />
+      <keyword name="visible" id="QWidget::visible" ref="qwidget.html#visible-prop" />
+      <keyword name="minimized" id="QWidget::minimized" ref="qwidget.html#minimized-prop" />
+      <keyword name="maximized" id="QWidget::maximized" ref="qwidget.html#maximized-prop" />
+      <keyword name="fullScreen" id="QWidget::fullScreen" ref="qwidget.html#fullScreen-prop" />
+      <keyword name="sizeHint" id="QWidget::sizeHint" ref="qwidget.html#sizeHint-prop" />
+      <keyword name="minimumSizeHint" id="QWidget::minimumSizeHint" ref="qwidget.html#minimumSizeHint-prop" />
+      <keyword name="acceptDrops" id="QWidget::acceptDrops" ref="qwidget.html#acceptDrops-prop" />
+      <keyword name="windowTitle" id="QWidget::windowTitle" ref="qwidget.html#windowTitle-prop" />
+      <keyword name="windowIcon" id="QWidget::windowIcon" ref="qwidget.html#windowIcon-prop" />
+      <keyword name="windowIconText" id="QWidget::windowIconText" ref="qwidget.html#windowIconText-prop" />
+      <keyword name="windowOpacity" id="QWidget::windowOpacity" ref="qwidget.html#windowOpacity-prop" />
+      <keyword name="windowModified" id="QWidget::windowModified" ref="qwidget.html#windowModified-prop" />
+      <keyword name="toolTip" id="QWidget::toolTip" ref="qwidget.html#toolTip-prop" />
+      <keyword name="toolTipDuration" id="QWidget::toolTipDuration" ref="qwidget.html#toolTipDuration-prop" />
+      <keyword name="statusTip" id="QWidget::statusTip" ref="qwidget.html#statusTip-prop" />
+      <keyword name="whatsThis" id="QWidget::whatsThis" ref="qwidget.html#whatsThis-prop" />
+      <keyword name="accessibleName" id="QWidget::accessibleName" ref="qwidget.html#accessibleName-prop" />
+      <keyword name="accessibleDescription" id="QWidget::accessibleDescription" ref="qwidget.html#accessibleDescription-prop" />
+      <keyword name="layoutDirection" id="QWidget::layoutDirection" ref="qwidget.html#layoutDirection-prop" />
+      <keyword name="windowFlags" id="QWidget::windowFlags" ref="qwidget.html#windowFlags-prop" />
+      <keyword name="autoFillBackground" id="QWidget::autoFillBackground" ref="qwidget.html#autoFillBackground-prop" />
+      <keyword name="styleSheet" id="QWidget::styleSheet" ref="qwidget.html#styleSheet-prop" />
+      <keyword name="locale" id="QWidget::locale" ref="qwidget.html#locale-prop" />
+      <keyword name="windowFilePath" id="QWidget::windowFilePath" ref="qwidget.html#windowFilePath-prop" />
+      <keyword name="inputMethodHints" id="QWidget::inputMethodHints" ref="qwidget.html#inputMethodHints-prop" />
+      <keyword name="objectName" id="QObject::objectName" ref="qobject.html#objectName-prop" />
+      <keyword name="Ui" id="Ui" ref="namespace_ui.html" />
+    </keywords>
+    <files>
+      <file>tabs.css</file>
+      <file>tab_a.png</file>
+      <file>tab_b.png</file>
+      <file>tab_h.png</file>
+      <file>tab_s.png</file>
+      <file>nav_h.png</file>
+      <file>nav_f.png</file>
+      <file>bc_s.png</file>
+      <file>doxygen.png</file>
+      <file>closed.png</file>
+      <file>open.png</file>
+      <file>bdwn.png</file>
+      <file>sync_on.png</file>
+      <file>sync_off.png</file>
+      <file>doxygen.css</file>
+      <file>jquery.js</file>
+      <file>dynsections.js</file>
+      <file>search/search_l.png</file>
+      <file>search/search_m.png</file>
+      <file>search/search_r.png</file>
+      <file>search/close.png</file>
+      <file>search/mag_sel.png</file>
+      <file>search/search.css</file>
+      <file>search/search.js</file>
+      <file>ads1115_8cpp_source.html</file>
+      <file>ads1115_8h_source.html</file>
+      <file>_g_p_i_olis_8cpp_source.html</file>
+      <file>_g_p_i_olis_8h_source.html</file>
+      <file>_rpi__end_2_rpi__end__together_2main_8cpp_source.html</file>
+      <file>_server__end_2_server___pong___g_u_i__all__together_2main_8cpp_source.html</file>
+      <file>window_8cpp_source.html</file>
+      <file>window_8h_source.html</file>
+      <file>mainwindow_8cpp_source.html</file>
+      <file>mainwindow_8h_source.html</file>
+      <file>_r_e_a_d_m_e_8md.html</file>
+      <file>ads1115_8cpp.html</file>
+      <file>ads1115_8h.html</file>
+      <file>_g_p_i_olis_8cpp.html</file>
+      <file>_g_p_i_olis_8h.html</file>
+      <file>_rpi__end_2_rpi__end__together_2main_8cpp.html</file>
+      <file>_server__end_2_server___pong___g_u_i__all__together_2main_8cpp.html</file>
+      <file>window_8cpp.html</file>
+      <file>window_8h.html</file>
+      <file>mainwindow_8cpp.html</file>
+      <file>mainwindow_8h.html</file>
+      <file>md__home_finlay__r_t_e_p1__r_e_a_d_m_e.html</file>
+      <file>group__group1.html</file>
+      <file>group__group2.html</file>
+      <file>group__group3.html</file>
+      <file>group__group4.html</file>
+      <file>group__group5.html</file>
+      <file>group__group6.html</file>
+      <file>group__group7.html</file>
+      <file>group__group8.html</file>
+      <file>group__group9.html</file>
+      <file>group__group10.html</file>
+      <file>group__group11.html</file>
+      <file>group__group12.html</file>
+      <file>classads1115.html</file>
+      <file>classads1115__coll__graph.png</file>
+      <file>classads1115__coll__graph.pdf</file>
+      <file>classads1115-members.html</file>
+      <file>class_g_p_i_olis.html</file>
+      <file>class_g_p_i_olis__coll__graph.png</file>
+      <file>class_g_p_i_olis__coll__graph.pdf</file>
+      <file>class_g_p_i_olis-members.html</file>
+      <file>class_main_window.html</file>
+      <file>class_main_window__coll__graph.png</file>
+      <file>class_main_window__coll__graph.pdf</file>
+      <file>class_main_window-members.html</file>
+      <file>class_window.html</file>
+      <file>class_window__coll__graph.png</file>
+      <file>class_window__coll__graph.pdf</file>
+      <file>class_window-members.html</file>
+      <file>namespace_ui.html</file>
+      <file>graph_legend.png</file>
+      <file>graph_legend.html</file>
+      <file>dir_f4c6a60d396f8e1b9459245a709869c7.html</file>
+      <file>dir_32ed0438d63cc1dbaec5c85a84ff8525.html</file>
+      <file>dir_4737b40e368aaeddf12f82af8316bda1.html</file>
+      <file>dir_1bb09fde301ad63eca39b934e96a578c.html</file>
+      <file>dir_68b4530337b1df916aa0a76eefca12cb.html</file>
+      <file>index.html</file>
+      <file>pages.html</file>
+      <file>modules.html</file>
+      <file>namespaces.html</file>
+      <file>annotated.html</file>
+      <file>classes.html</file>
+      <file>hierarchy.html</file>
+      <file>inherits.html</file>
+      <file>inherit_graph_0.png</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_vars.html</file>
+      <file>files.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals.html</file>
+      <file>globals_func.html</file>
+      <file>globals_func.html</file>
+      <file>globals_func.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_vars.html</file>
+      <file>globals_defs.html</file>
+    </files>
+  </filterSection>
+</QtHelpProject>
