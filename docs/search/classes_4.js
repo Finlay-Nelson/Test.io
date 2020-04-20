@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['formatrange_8749',['FormatRange',['../../doc/qtgui/qtextlayout-formatrange.html',1,'QTextLayout']]]
+  ['formatrange_8748',['FormatRange',['../../doc/qtgui/qtextlayout-formatrange.html',1,'QTextLayout']]]
 ];

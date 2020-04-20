@@ -25,7 +25,7 @@
 <table cellspacing="0" cellpadding="0">
  <tbody>
  <tr style="height: 56px;">
-  <td id="projectlogo"><img alt="Logo" src="Logo.png"/></td>
+  <td id="projectlogo"><img alt="Logo" src="Logo2.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Muscle Power Gaming
    </div>
@@ -100,7 +100,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p>Stuff.  
+<p>Utilises the <a class="el" href="class_window.html" title="Generates and updates the components of the Pong game&#39;s GUI window.">Window</a> class to generate the game GUI, as well as process and respond to incoming data.  
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &lt;cmath&gt;</code><br />
 <code>#include &lt;QObject&gt;</code><br />
@@ -122,7 +122,7 @@ Variables</h2></td></tr>
 <tr class="memdesc:a072a980c304a396787f46c29aa3bd5f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data rate for sampling incoming signals.  <a href="window_8cpp.html#a072a980c304a396787f46c29aa3bd5f1">More...</a><br /></td></tr>
 <tr class="separator:a072a980c304a396787f46c29aa3bd5f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a750b5d744c39a06bfb13e6eb010e35d0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0">index</a> = 0</td></tr>
-<tr class="memdesc:a750b5d744c39a06bfb13e6eb010e35d0"><td class="mdescLeft">&#160;</td><td class="mdescRight">An index counter used in the for-loop within <a class="el" href="class_window.html#ab27fe44e0834066236f79f244b02f67e" title="Window default constructor.">Window::Window</a>.  <a href="window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0">More...</a><br /></td></tr>
+<tr class="memdesc:a750b5d744c39a06bfb13e6eb010e35d0"><td class="mdescLeft">&#160;</td><td class="mdescRight">An index counter used in the for-loop within window()  <a href="window_8cpp.html#a750b5d744c39a06bfb13e6eb010e35d0">More...</a><br /></td></tr>
 <tr class="separator:a750b5d744c39a06bfb13e6eb010e35d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9c9ab370a04018e645c8edafbf2113f1"><td class="memItemLeft" align="right" valign="top">const quint16&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="window_8cpp.html#a9c9ab370a04018e645c8edafbf2113f1">sderprt</a> = 1117</td></tr>
 <tr class="separator:a9c9ab370a04018e645c8edafbf2113f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -135,12 +135,11 @@ Variables</h2></td></tr>
 <tr class="memitem:a9cdc0952ddae0cb682503cc9b5bb8019"><td class="memItemLeft" align="right" valign="top">FILE *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="window_8cpp.html#a9cdc0952ddae0cb682503cc9b5bb8019">flpower</a> =NULL</td></tr>
 <tr class="separator:a9cdc0952ddae0cb682503cc9b5bb8019"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aedcba60e51029a554adc10c3097a6af8"><td class="memItemLeft" align="right" valign="top">Iir::Butterworth::HighPass&lt; <a class="el" href="window_8cpp.html#a1b7ba51c7dba40b32bb78cc0fd8074ca">order</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="window_8cpp.html#aedcba60e51029a554adc10c3097a6af8">hp1</a></td></tr>
-<tr class="memdesc:aedcba60e51029a554adc10c3097a6af8"><td class="mdescLeft">&#160;</td><td class="mdescRight">A high-pass Butterworth IIR filter.  <a href="window_8cpp.html#aedcba60e51029a554adc10c3097a6af8">More...</a><br /></td></tr>
 <tr class="separator:aedcba60e51029a554adc10c3097a6af8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Stuff. </p>
-<p>This demo is to test the <a class="el" href="classads1115.html" title="Allows control over the ADS1115 ADC.">ads1115</a> lib self-written to sample continously no such lib for <a class="el" href="classads1115.html" title="Allows control over the ADS1115 ADC.">ads1115</a> in c++ yet. In this test demo the ads sampling is controlled by timer instead of interrupt. This is not because we can't. This is to separate the lib and expose if any bug the interrupt thread unit will soon comes out </p>
+<div class="textblock"><p>Utilises the <a class="el" href="class_window.html" title="Generates and updates the components of the Pong game&#39;s GUI window.">Window</a> class to generate the game GUI, as well as process and respond to incoming data. </p>
+<p>This demo is to test the self-written <a class="el" href="classads1115.html" title="Allows control over the ADS1115 ADC.">ads1115</a> lib to sample continuously. No such lib for the <a class="el" href="classads1115.html" title="Allows control over the ADS1115 ADC.">ads1115</a> in c++ could be found. In this test demo the ADC sampling is controlled by timer instead of by interrupt. This is to separate the lib and expose any bugs. </p>
 
 <p class="definition">Definition in file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 </div><h2 class="groupheader">Variable Documentation</h2>
@@ -156,7 +155,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00035">35</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00034">34</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -172,7 +171,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00034">34</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00033">33</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -188,7 +187,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00036">36</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00035">35</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -204,10 +203,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>A high-pass Butterworth IIR filter. </p>
-<p>The order of this instance of the filter is defined by the "order" variable </p>
-
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00044">44</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00039">39</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -223,9 +219,9 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>An index counter used in the for-loop within <a class="el" href="class_window.html#ab27fe44e0834066236f79f244b02f67e" title="Window default constructor.">Window::Window</a>. </p>
+<p>An index counter used in the for-loop within window() </p>
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00029">29</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00028">28</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -243,7 +239,7 @@ Variables</h2></td></tr>
 
 <p>Order of the IIR filter. </p>
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00025">25</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00024">24</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -259,7 +255,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00032">32</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00031">31</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -277,7 +273,7 @@ Variables</h2></td></tr>
 
 <p>Data rate for sampling incoming signals. </p>
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00027">27</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00026">26</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>
@@ -293,7 +289,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00031">31</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="window_8cpp_source.html#l00030">30</a> of file <a class="el" href="window_8cpp_source.html">window.cpp</a>.</p>
 
 </div>
 </div>

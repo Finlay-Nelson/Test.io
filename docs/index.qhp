@@ -6,7 +6,7 @@
     <filterAttribute>doxygen</filterAttribute>
     <toc>
       <section title="Muscle Power Gaming" ref="index.html">
-        <section title="Muscle Power Gaming: Get Flexing! \emoji joystick" ref="index.html" />
+        <section title="&lt;img src=&quot;https://github.com/TheUltraSoundGuys/RTEP/blob/master/Images/Logo2.png&quot; alt=&quot;&quot;/&gt;Muscle Power Gaming: Get Flexing!" ref="index.html" />
         <section title="Modules" ref="modules.html">
           <section title="ADS1115: ADDRESS PINS" ref="group__group1.html">
             <section title="ADS1015_ADDRESS" ref="group__group1.html#gae55d158023984e8f0ddc80b58d5b30dc" />
